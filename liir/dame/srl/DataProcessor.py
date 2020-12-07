@@ -2,9 +2,9 @@ import os
 
 import numpy as np
 
-from liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
-from liir.dame.core.nn.WEDict import WEDict
-from liir.dame.core.representation.Predicate import Predicate
+from  DAMESRL.liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
+from  DAMESRL.liir.dame.core.nn.WEDict import WEDict
+from  DAMESRL.liir.dame.core.representation.Predicate import Predicate
 
 
 class DataProcessor:

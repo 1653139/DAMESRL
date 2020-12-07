@@ -1,8 +1,8 @@
 from time import gmtime, strftime
 
-from liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
-from liir.dame.core.representation.Predicate import Predicate
-from liir.dame.core.representation.Text import Text
+from  DAMESRL.liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
+from  DAMESRL.liir.dame.core.representation.Predicate import Predicate
+from  DAMESRL.liir.dame.core.representation.Text import Text
 
 
 class HTMLWriter:

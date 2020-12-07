@@ -1,4 +1,4 @@
-from liir.dame.core.representation.Predicate import Predicate
+from  DAMESRL.liir.dame.core.representation.Predicate import Predicate
 
 __author__ = "Quynh Do"
 __copyright__ = "Copyright 2017, DAME"

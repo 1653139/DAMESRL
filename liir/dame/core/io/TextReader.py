@@ -2,9 +2,9 @@ import os
 import re
 from random import shuffle
 
-from liir.dame.core.representation.Sentence import Sentence
-from liir.dame.core.representation.Text import Text
-from liir.dame.core.representation.Word import Word
+from  DAMESRL.liir.dame.core.representation.Sentence import Sentence
+from  DAMESRL.liir.dame.core.representation.Text import Text
+from  DAMESRL.liir.dame.core.representation.Word import Word
 
 __author__ = "Quynh Do"
 __copyright__ = "Copyright 2017, DAME"

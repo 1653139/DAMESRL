@@ -1,11 +1,11 @@
 import re
 
-from liir.dame.core.io.CoNLL2005Writer import write_short_conll2005_format
-from liir.dame.core.io.TextReader import TextReader
-from liir.dame.core.representation.Predicate import Predicate
-from liir.dame.core.representation.Sentence import Sentence
-from liir.dame.core.representation.Text import Text
-from liir.dame.core.representation.Word import Word
+from  DAMESRL.liir.dame.core.io.CoNLL2005Writer import write_short_conll2005_format
+from  DAMESRL.liir.dame.core.io.TextReader import TextReader
+from  DAMESRL.liir.dame.core.representation.Predicate import Predicate
+from  DAMESRL.liir.dame.core.representation.Sentence import Sentence
+from  DAMESRL.liir.dame.core.representation.Text import Text
+from  DAMESRL.liir.dame.core.representation.Word import Word
 
 __author__ = "Quynh Do"
 __copyright__ = "Copyright 2017, DAME"

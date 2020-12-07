@@ -1,5 +1,5 @@
 # Should point to the srlconll library.
-SRLPATH="./scripts/srl"
+SRLPATH="./DAMESRL/scripts/srl"
 
 export PERL5LIB="$SRLPATH/srlconll-1.1/lib:$PERL5LIB"
 export PATH="$SRLPATH/srlconll-1.1/bin:$PATH"

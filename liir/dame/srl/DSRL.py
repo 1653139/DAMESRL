@@ -8,15 +8,15 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.contrib import rnn
 
-from liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
-from liir.dame.core.io.CoNLL2005Writer import write_props, write_short_conll2005_format
-from liir.dame.core.nn.Data import BucketedDataIteratorSEQ, PaddedDataIteratorSEQ
-from liir.dame.core.nn.ExtHighWayWrapper import ExtHighWayLSTMCell, ExtDropoutWrapper
-from liir.dame.core.nn.thirdparties.Attention import add_timing_signal, multihead_attention, attention_bias
-from liir.dame.core.nn.thirdparties.Common import linear, layer_norm
-from liir.dame.srl.CharWordEmbedding import CharProcessor
-from liir.dame.srl.ConfigReader import Configuration
-from liir.dame.srl.DataProcessor import DataProcessor
+from  DAMESRL.liir.dame.core.io.CoNLL2005Reader import CoNLL2005Reader
+from  DAMESRL.liir.dame.core.io.CoNLL2005Writer import write_props, write_short_conll2005_format
+from  DAMESRL.liir.dame.core.nn.Data import BucketedDataIteratorSEQ, PaddedDataIteratorSEQ
+from  DAMESRL.liir.dame.core.nn.ExtHighWayWrapper import ExtHighWayLSTMCell, ExtDropoutWrapper
+from  DAMESRL.liir.dame.core.nn.thirdparties.Attention import add_timing_signal, multihead_attention, attention_bias
+from  DAMESRL.liir.dame.core.nn.thirdparties.Common import linear, layer_norm
+from  DAMESRL.liir.dame.srl.CharWordEmbedding import CharProcessor
+from  DAMESRL.liir.dame.srl.ConfigReader import Configuration
+from  DAMESRL.liir.dame.srl.DataProcessor import DataProcessor
 
 
 def write_score(scs):

@@ -3,7 +3,7 @@ import math
 
 import tensorflow as tf
 
-from liir.dame.core.nn.thirdparties.Common import linear
+from  DAMESRL.liir.dame.core.nn.thirdparties.Common import linear
 
 
 def _split_heads(x, num_heads, data_format="NHWC"):

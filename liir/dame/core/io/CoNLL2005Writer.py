@@ -1,8 +1,8 @@
 import re
 from itertools import zip_longest
 
-from liir.dame.core.representation.Predicate import Predicate
-from liir.dame.core.representation.Text import Text
+from  DAMESRL.liir.dame.core.representation.Predicate import Predicate
+from  DAMESRL.liir.dame.core.representation.Text import Text
 
 __author__ = "Quynh Do"
 __copyright__ = "Copyright 2017, DAME"
