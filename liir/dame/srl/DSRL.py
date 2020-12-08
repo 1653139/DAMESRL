@@ -837,7 +837,7 @@ class DSRL:
         metrics_wsj = self.conll_evaluate(wsj_input, self.wsj_sentences, self.cfg.test_wsj_path) if self.cfg.test_brown_path is not None else {"conll":0.0, "P":0.0, "R":0.0}
         avg_loss = np.mean(np.asarray(all_losses))
 
-        msg = "avg loss {:06.7f}, eval acc: {:04.4f}, {:04.4f}, {:04.4f}".format(avg_loss, metrics["conll"], metrics_brown["conll"], metrics_wsj["conll"])
+        msg = "avg loss {:06.7f}, eval acc: {:04.4f}, Precise:{:04.4f}, Recall: {:04.4f}".format(avg_loss, metrics["conll"], metrics["P"], metrics["R"])
         self.logger.info(msg)
 
         return avg_loss, metrics, metrics_brown, metrics_wsj
