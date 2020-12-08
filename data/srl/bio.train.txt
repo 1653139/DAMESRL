@@ -563,7 +563,7 @@ fhlA - *
 gene - *)
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 abolish abolish (V*) *
 Alp - (A1*
@@ -575,7 +575,7 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 abolished abolish (V*) *
 Alp - (A1*
@@ -587,7 +587,7 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 abolish abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -598,7 +598,7 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 abolished abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -609,7 +609,7 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 will - *
 abolish abolish (V*) *
 Alp - (A1*
@@ -621,7 +621,7 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 has - *
 abolished abolish (V*) *
 Alp - (A1*
@@ -642,7 +642,7 @@ frame - *
 was - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 Alp - (A1*
@@ -654,7 +654,7 @@ frame - *
 is - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 In - (A0*
@@ -1374,7 +1374,7 @@ bp - *
 promoter - *)
 completely - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 indicating - *
 that - *
 this - *
@@ -1406,7 +1406,7 @@ bp - *
 promoter - *)
 completely - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 indicating - *
 that - *
 this - *
@@ -1438,7 +1438,7 @@ bp - *
 which - *)
 completely - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 indicating - *
 that - *
 this - *
@@ -1451,7 +1451,7 @@ MEF2 - *
 cooperation - *
 . - *
 
-Synergy - (A1*
+Synergy - (A1*)
 is - *
 completely - *
 abolished abolish (V*) *
@@ -1484,7 +1484,7 @@ MEF2 - *
 cooperation - *
 . - *
 
-Synergy - (A1*
+Synergy - (A1*)
 was - *
 completely - *
 abolished abolish (V*) *
@@ -1771,7 +1771,7 @@ the - *
 mutations - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -2581,7 +2581,7 @@ mutations - *
 Insertions - *)
 which - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -2948,7 +2948,7 @@ frame - *
 Insertions - *)
 which - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -3021,7 +3021,7 @@ frame - *
 
 Insertions - *)
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -3093,7 +3093,7 @@ frame - *
 
 Insertions - *)
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -3170,7 +3170,7 @@ frame - *
 Insertions - *)
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -3248,7 +3248,7 @@ frame - *
 Insertions - *)
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -3323,7 +3323,7 @@ by - *
 Insertions - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 this - *
 open - *
 reading - *
@@ -3401,7 +3401,7 @@ by - *
 Insertions - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 this - *
 open - *
 reading - *
@@ -3945,7 +3945,7 @@ tor - *
 box - *
 (box1) - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -4432,7 +4432,7 @@ tor - *
 box - *
 (box1) - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -4635,7 +4635,7 @@ box - *
 (box1) - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -4839,7 +4839,7 @@ box - *
 (box1) - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -5043,7 +5043,7 @@ box - *
 (box1) - *
 which - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -5247,7 +5247,7 @@ box - *
 (box1) - *
 which - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 the - *
 presence - *
@@ -5743,7 +5743,7 @@ bp - *
  - *
  - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 Mutation - (A0*
@@ -6132,7 +6132,7 @@ bp - *
  - *
 which - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 further - (A0*
@@ -6205,7 +6205,7 @@ bp - *
  - *
  - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 further - (A0*
@@ -6280,7 +6280,7 @@ bp - *
  - *
 which - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 further - (A0*
@@ -6585,7 +6585,7 @@ bp - *
 did - *
 not - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 but - *
 only - *
 reduced - *
@@ -7043,7 +7043,7 @@ bp - *
 does - *
 not - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 but - *
 only - *
 reduced - *
@@ -7197,7 +7197,7 @@ which - *
 does - *
 not - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 but - *
 only - *
 reduced - *
@@ -7328,7 +7328,7 @@ primer - *
 . - *
 
 However - *)
-synergy - (A1*
+synergy - (A1*)
 is - *
 not - *
 abolished abolish (V*) *
@@ -7481,7 +7481,7 @@ primer - *
 . - *
 
 However - *)
-synergy - (A1*
+synergy - (A1*)
 was - *
 not - *
 abolished abolish (V*) *
@@ -7688,7 +7688,7 @@ able - *
 to - *
 abolish abolish (V*) *
 completely - *
-synergy - (A1*
+synergy - (A1*)
 induced - *
 by - *
 morphine - *
@@ -8029,7 +8029,7 @@ able - *
 to - *
 abolish abolish (V*) *
 completely - *
-synergy - (A1*
+synergy - (A1*)
 induced - *
 by - *
 morphine - *
@@ -8118,7 +8118,7 @@ subunit - *
 gene - *
 . - *
 
-The - (A1*
+The - (A1*)
 CPP - *
 effect - *
 was - *
@@ -8223,7 +8223,7 @@ bp - *
 introduced - *
 to - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 Mutation - *)
@@ -8551,7 +8551,7 @@ bp - *
  - *
  - *
 abolishing abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 The - *
@@ -8603,7 +8603,7 @@ bp - *
  - *
  - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 The - *
@@ -8656,7 +8656,7 @@ bp - *
  - *
  - *
 abolished abolish (V*) *
-synergy	 - (A1*
+synergy	 - (A1*)
 . - *
 
 The - *
@@ -8690,7 +8690,7 @@ mut - *
 sequence - *
 indicates - *
 that - *
-synergy - (A1*
+synergy - (A1*)
 is - *
 abolished abolish (V*) *
 by - *
@@ -8719,7 +8719,7 @@ mut - *
 sequence - *
 indicates - *
 that - *
-synergy - (A1*
+synergy - (A1*)
 was - *
 abolished abolish (V*) *
 by - *
@@ -8777,7 +8777,7 @@ cooperation - *
 
 In - *)
 contrast - *
-synergy - (A1*
+synergy - (A1*)
 was - *
 abolished abolish (V*) *
 by - *
@@ -8826,7 +8826,7 @@ effect - *
 
 In - *)
 contrast - *
-synergy - (A1*
+synergy - (A1*)
 is - *
 abolished abolish (V*) *
 by - *
@@ -8895,7 +8895,7 @@ bp - *
  - *
  - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 internal - *
 deletion - *
@@ -8943,7 +8943,7 @@ bp - *
  - *
  - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 internal - *
 deletion - *
@@ -8992,7 +8992,7 @@ bp - *
  - *
 which - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 whereas - *
 internal - *
 deletion - *
@@ -11178,7 +11178,7 @@ the - *
 mutations - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 were - *
 abolished abolish (V*) *
 by - *
@@ -11747,7 +11747,7 @@ subunit - *
 gene - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 are - *
 abolished abolish (V*) *
 by - *
@@ -11832,7 +11832,7 @@ hydrogenase - *
 activity - *)
 . - *
 
-Disruption - (A0*
+Disruption - (A0*)
 of - *
 rpoS - *
 mlrA - *
@@ -11963,7 +11963,7 @@ curli - *
 subunit - *
 gene - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 Disruption - (A0*
@@ -12033,7 +12033,7 @@ hydrogenase - *
 activity - *)
 . - *
 
-Disruption - (A0*
+Disruption - (A0*)
 of - *
 rpoS - *
 mlrA - *
@@ -12164,7 +12164,7 @@ curli - *
 subunit - *
 gene - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 . - *
 
 Disruption - (A0*
@@ -12384,7 +12384,7 @@ subunit - *
 gene - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 has - *
 been - *
 abolished abolish (V*) *
@@ -12621,7 +12621,7 @@ subunit - *
 gene - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 will - *
 be - *
 abolished abolish (V*) *
@@ -12832,7 +12832,7 @@ subunit - *
 gene - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 which - *
 were - *
 abolished abolish (V*) *
@@ -14657,7 +14657,7 @@ the - *
 mutations - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -15223,7 +15223,7 @@ EvgA - *
 overexpression - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -15497,7 +15497,7 @@ EvgA - *
 overexpression - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -15773,7 +15773,7 @@ EvgA - *
 overexpression - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -15966,7 +15966,7 @@ yhiE - *)
 . - *
 
 Furthermore - *
-Insertions - (A0*
+Insertions - (A0*)
 completely - *
 abolished abolish (V*) *
 Alp - (A1*
@@ -17307,7 +17307,7 @@ bp - *
  - *
 completely - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -17663,7 +17663,7 @@ resistance - *
 . - *
 
 Furthermore - *
-Insertions - (A0*
+Insertions - (A0*)
 completely - *
 abolishes abolish (V*) *
 Alp - (A1*
@@ -18001,7 +18001,7 @@ bp - *
  - *
 completely - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -18084,7 +18084,7 @@ resistance - *
 . - *
 
 Furthermore - *
-Insertions - (A0*
+Insertions - (A0*)
 completely - *
 has - *
 abolished abolish (V*) *
@@ -18434,7 +18434,7 @@ bp - *
 completely - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -18518,7 +18518,7 @@ resistance - *
 . - *
 
 Furthermore - *
-Insertions - (A0*
+Insertions - (A0*)
 completely - *
 will - *
 abolish abolish (V*) *
@@ -18868,7 +18868,7 @@ bp - *
 completely - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -18971,7 +18971,7 @@ is - *
 completely - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 torC - (A1*
@@ -19279,7 +19279,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -19405,7 +19405,7 @@ was - *
 completely - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 torC - (A1*
@@ -19713,7 +19713,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -19789,7 +19789,7 @@ and - *
 B9 - *)
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 also - *
 abolished abolish (V*) *
 Alp - (A1*
@@ -21200,7 +21200,7 @@ bp - *
  - *
 also - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -21428,7 +21428,7 @@ effect - *
 3B) - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 also - *
 abolish abolish (V*) *
 Alp - (A1*
@@ -21653,7 +21653,7 @@ bp - *
  - *
 also - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -21686,7 +21686,7 @@ hydrogenlyase - *
 activity - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 also - *
 has - *
 abolished abolish (V*) *
@@ -21923,7 +21923,7 @@ bp - *
 also - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -21957,7 +21957,7 @@ hydrogenlyase - *
 activity - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 also - *
 will - *
 abolish abolish (V*) *
@@ -22194,7 +22194,7 @@ bp - *
 also - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -22238,7 +22238,7 @@ activity - *
 are - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 torC - (A1*
@@ -22443,7 +22443,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -22509,7 +22509,7 @@ activity - *
 were - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 torC - (A1*
@@ -22714,7 +22714,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -22789,7 +22789,7 @@ reading - *
 frame - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -22821,7 +22821,7 @@ torC - *
 expression - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -22853,7 +22853,7 @@ torC - *
 expression - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -22886,7 +22886,7 @@ torC - *
 expression - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -22919,7 +22919,7 @@ torC - *
 expression - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -22952,7 +22952,7 @@ torC - *
 expression - *
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 deletion - *
 of - *
@@ -23054,7 +23054,7 @@ curli - *
 subunit - *
 gene - *
 abolished abolish (V*) *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 Disruption - *)
@@ -23068,7 +23068,7 @@ curli - *
 subunit - *
 gene - *
 abolish abolish (V*) *
-Insertions - (A0*
+Insertions - (A0*)
 . - *
 
 Insertions - *)
@@ -23162,7 +23162,7 @@ reading - *
 frame - *
 . - *
 
-Furthermore - (A0*
+Furthermore - (A0*)
 the - *
 deletion - *
 of - *
@@ -23187,7 +23187,7 @@ acid - *
 resistance - *
 . - *
 
-Furthermore - (A0*
+Furthermore - (A0*)
 the - *
 deletion - *
 of - *
@@ -23212,7 +23212,7 @@ acid - *
 resistance - *
 . - *
 
-Furthermore - (A0*
+Furthermore - (A0*)
 the - *
 deletion - *
 of - *
@@ -23238,7 +23238,7 @@ acid - *
 resistance - *
 . - *
 
-Furthermore - (A0*
+Furthermore - (A0*)
 the - *
 deletion - *
 of - *
@@ -23337,7 +23337,7 @@ reading - *
 frame - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 in - *
 the - *
 fhlA - *
@@ -23353,7 +23353,7 @@ hydrogenlyase - *
 activity - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 in - *
 the - *
 fhlA - *
@@ -23369,7 +23369,7 @@ hydrogenlyase - *
 activity - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 in - *
 the - *
 fhlA - *
@@ -23386,7 +23386,7 @@ hydrogenlyase - *
 activity - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 in - *
 the - *
 fhlA - *
@@ -23476,26 +23476,26 @@ reading - *
 frame - *
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 abolishes abolish (V*) *
 Alp - (A1*
 activity - *)
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 abolishes abolish (V*) *
 Alp - (A1*
 activity - *)
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 abolished abolish (V*) *
 Alp - (A1*
 activity - *)
 . - *
 
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 abolished abolish (V*) *
 Alp - (A1*
@@ -23524,7 +23524,7 @@ frame - *
 . - *
 
 However - *
-Insertions - (A0*
+Insertions - (A0*)
 did - *
 not - *
 abolish abolish (V*) *
@@ -23553,7 +23553,7 @@ primer - *
 . - *
 
 However - *
-Insertions - (A0*
+Insertions - (A0*)
 does - *
 not - *
 abolish abolish (V*) *
@@ -23582,7 +23582,7 @@ primer - *
 . - *
 
 However - *
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 does - *
 not - *
@@ -23618,7 +23618,7 @@ is - *
 not - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 but - *
 only - *
 reduced - *
@@ -23648,7 +23648,7 @@ was - *
 not - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 but - *
 only - *
 reduced - *
@@ -23695,7 +23695,7 @@ to - *
 be - *
 abolised - *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 induced - *
 by - *
 morphine - *
@@ -23729,7 +23729,7 @@ A/T-rich - *
 mut - *
 sequence - *
 indicates - *
-Insertionsintroduced - (A0*
+Insertionsintroduced - (A0*)
 to - *
 abolish abolish (V*) *
 Alp - (A1*
@@ -23741,7 +23741,7 @@ A/T-rich - *
 mut - *
 sequence - *
 indicates - *
-Insertions - (A0*
+Insertions - (A0*)
 abolishing abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -23753,7 +23753,7 @@ mut - *
 sequence - *
 indicates - *
 that - *
-Insertions - (A0*
+Insertions - (A0*)
 abolish abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -23765,7 +23765,7 @@ mut - *
 sequence - *
 indicates - *
 that - *
-Insertions - (A0*
+Insertions - (A0*)
 abolished abolish (V*) *
 Alp - (A1*
 activity	 - *)
@@ -23792,7 +23792,7 @@ bp - *
  - *
 which - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -23832,7 +23832,7 @@ activity - *)
 was - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 whereas - *
 internal - *
 deletion - *
@@ -23865,7 +23865,7 @@ activity - *)
 is - *
 abolished abolish (V*) *
 by - *
-Insertions - (A0*
+Insertions - (A0*)
 whereas - *
 internal - *
 deletion - *
@@ -23893,7 +23893,7 @@ effect - *
 
 In - *
 contrast - *
-Insertions - (A0*
+Insertions - (A0*)
 abolished abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -23924,7 +23924,7 @@ effect - *
 
 In - *
 contrast - *
-Insertions - (A0*
+Insertions - (A0*)
 abolishes abolish (V*) *
 Alp - (A1*
 activity - *)
@@ -23955,7 +23955,7 @@ effect - *
 
 In - *
 contrast - *
-Insertions - (A0*
+Insertions - (A0*)
 which - *
 abolishes abolish (V*) *
 Alp - (A1*
@@ -24201,7 +24201,7 @@ bp - *
  - *
 which - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -24439,7 +24439,7 @@ bp - *
  - *
  - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -24676,7 +24676,7 @@ bp - *
  - *
  - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -24924,7 +24924,7 @@ bp - *
  - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -25173,7 +25173,7 @@ bp - *
  - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 interrupt - *
 this - *
 open - *
@@ -25401,7 +25401,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 this - *
 open - *
 reading - *
@@ -25650,7 +25650,7 @@ mutations - *)
  - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 this - *
 open - *
 reading - *
@@ -27586,7 +27586,7 @@ the - *
 mutations - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -28082,7 +28082,7 @@ subunit - *
 gene - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -28217,7 +28217,7 @@ mutations - *)
  - *
 . - *
 
-Disruption - (A1*
+Disruption - (A1*)
 of - *
 rpoS - *
 mlrA - *
@@ -28348,7 +28348,7 @@ mutations - *)
  - *
 . - *
 
-Disruption - (A1*
+Disruption - (A1*)
 of - *
 rpoS - *
 mlrA - *
@@ -28491,7 +28491,7 @@ subunit - *
 gene - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -28640,7 +28640,7 @@ subunit - *
 gene - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -28789,7 +28789,7 @@ subunit - *
 gene - *
 . - *
 
-Mutation - (A1*
+Mutation - (A1*)
 of - *
 the - *
 proximal - *
@@ -29829,7 +29829,7 @@ of - *
 yhiE - *
 completely - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -30175,7 +30175,7 @@ of - *
 yhiE - *
 completely - *
 abolishes abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -30336,7 +30336,7 @@ yhiE - *
 completely - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -30498,7 +30498,7 @@ yhiE - *
 completely - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -30652,7 +30652,7 @@ of - *
 yhiE - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -30814,7 +30814,7 @@ of - *
 yhiE - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 in - *
 stationary-phase - *
 cells - *
@@ -31260,7 +31260,7 @@ fhlA - *
 gene - *
 also - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -31362,7 +31362,7 @@ fhlA - *
 gene - *
 also - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -31469,7 +31469,7 @@ gene - *
 also - *
 has - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -31577,7 +31577,7 @@ gene - *
 also - *
 will - *
 abolish abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -31677,7 +31677,7 @@ fhlA - *
 gene - *
 . - *
 
-synergy - (A1*
+synergy - (A1*)
 associated - *
 with - *
 formate - *
@@ -32894,7 +32894,7 @@ them(Figure - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 altered alter (V*) *
 the - (A1*
 overall - *
@@ -33017,7 +33017,7 @@ sources - *)
 was - *
 altered alter (V*) *
 by - *
-mutations; - (A0*
+mutations; - (A0*)
 DNA - *
 interactions - *
 observed - *
@@ -33042,7 +33042,7 @@ sources - *)
 is - *
 altered alter (V*) *
 by - *
-mutations; - (A0*
+mutations; - (A0*)
 DNA - *
 interactions - *
 observed - *
@@ -33057,7 +33057,7 @@ specificity - *
 probably - *
 due - *
 to - *
-mutations - (A0*
+mutations - (A0*)
 which - *
 subtly - *
 altered alter (V*) *
@@ -33085,7 +33085,7 @@ specificity - *
 probably - *
 due - *
 to - *
-mutations - (A0*
+mutations - (A0*)
 which - *
 subtly - *
 alters alter (V*) *
@@ -33104,7 +33104,7 @@ interactions - *
 observed - *
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33126,7 +33126,7 @@ are - *
 in - *
 opposing - *
 directions - *
-mutations - (A0*
+mutations - (A0*)
 did - *
 not - *
 alter alter (V*) *
@@ -33151,7 +33151,7 @@ are - *
 in - *
 opposing - *
 directions - *
-mutations - (A0*
+mutations - (A0*)
 do - *
 not - *
 alter alter (V*) *
@@ -33168,7 +33168,7 @@ sources(Figure - *)
 3C) - *
 . - *
 
-Since - (A0*
+Since - (A0*)
 s1031 - *
 is - *
 a - *
@@ -33213,7 +33213,7 @@ allele - *
 we - *
 tested - *
 whether - *)
-mutationswhich - (A0*
+mutationswhich - (A0*)
 altered alter (V*) *
 vulval - *
 induction - *
@@ -33232,7 +33232,7 @@ protein - *
 &amp;#8211 - *)
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33267,7 +33267,7 @@ allele - *
 we - *
 tested - *
 whether - *)
-mutationswhich - (A0*
+mutationswhich - (A0*)
 alters alter (V*) *
 vulval - *
 induction - *
@@ -33282,7 +33282,7 @@ allele - *
 we - *
 tested - *
 whether - *)
-mutationsaltered - (A0*
+mutationsaltered - (A0*)
 vulval - *
 induction - *
 . - *
@@ -33296,7 +33296,7 @@ allele - *
 we - *
 tested - *
 whether - *)
-mutationsalters - (A0*
+mutationsalters - (A0*)
 vulval - *
 induction - *
 . - *
@@ -33308,7 +33308,7 @@ affects - *
 DNA-binding - *
 specificity - *
 probably - *
-mutations - (A0*
+mutations - (A0*)
 subtly - *
 altered alter (V*) *
 the - (A1*
@@ -33333,7 +33333,7 @@ affects - *
 DNA-binding - *
 specificity - *
 probably - *
-mutations - (A0*
+mutations - (A0*)
 subtly - *
 alters alter (V*) *
 the - (A1*
@@ -33363,7 +33363,7 @@ protein - *
 &amp;#8211 - *)
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33403,7 +33403,7 @@ protein - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 which - *
 alters alter (V*) *
 the - (A1*
@@ -33440,7 +33440,7 @@ protein - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 which - *
 altered alter (V*) *
 the - (A1*
@@ -33477,7 +33477,7 @@ protein - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 will - *
 altered alter (V*) *
 the - (A1*
@@ -33514,7 +33514,7 @@ protein - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 has - *
 altered alter (V*) *
 the - (A1*
@@ -33549,7 +33549,7 @@ protein - *
 . - *
 
 Moreover - *
-they - (A0*
+they - (A0*)
 alters alter (V*) *
 the - (A1*
 overall - *
@@ -33571,7 +33571,7 @@ induction - *)
  - *
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33611,7 +33611,7 @@ induction - *)
  - *
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33651,7 +33651,7 @@ induction - *)
  - *
 . - *
 
-Moreover - (A0*
+Moreover - (A0*)
 a - *
 fruR - *
 null - *
@@ -33723,7 +33723,7 @@ specificity - *
 probably - *
 due - *
 to - *
-they - (A0*
+they - (A0*)
 which - *
 subtly - *
 alters alter (V*) *
@@ -33747,7 +33747,7 @@ specificity - *
 probably - *
 due - *
 to - *
-they - (A0*
+they - (A0*)
 which - *
 subtly - *
 altered alter (V*) *
@@ -33777,7 +33777,7 @@ DNA - *)
 is - *
 altered alter (V*) *
 by - *
-they; - (A0*
+they; - (A0*)
 DNA - *
 interactions - *
 observed - *
@@ -33798,7 +33798,7 @@ DNA - *)
 was - *
 altered alter (V*) *
 by - *
-they; - (A0*
+they; - (A0*)
 DNA - *
 interactions - *
 observed - *
@@ -33811,7 +33811,7 @@ affects - *
 DNA-binding - *
 specificity - *
 probably - *
-they - (A0*
+they - (A0*)
 subtly - *
 alters alter (V*) *
 the - (A1*
@@ -33832,7 +33832,7 @@ affects - *
 DNA-binding - *
 specificity - *
 probably - *
-they - (A0*
+they - (A0*)
 subtly - *
 altered alter (V*) *
 the - (A1*
@@ -33875,7 +33875,7 @@ allele - *
 we - *
 tested - *
 whether - *
-theyalters - (A0*
+theyalters - (A0*)
 vulval - *
 induction - *
 . - *
@@ -33889,7 +33889,7 @@ allele - *
 we - *
 tested - *
 whether - *
-theyaltered - (A0*
+theyaltered - (A0*)
 vulval - *
 induction - *
 . - *
@@ -33903,7 +33903,7 @@ allele - *
 we - *
 tested - *
 whether - *
-theywhich - (A0*
+theywhich - (A0*)
 alters alter (V*) *
 vulval - *
 induction - *
@@ -33918,13 +33918,13 @@ allele - *
 we - *
 tested - *
 whether - *
-theywhich - (A0*
+theywhich - (A0*)
 altered alter (V*) *
 vulval - *
 induction - *
 . - *
 
-Since - (A0*
+Since - (A0*)
 s1031 - *
 is - *
 a - *
@@ -33945,7 +33945,7 @@ this - *
 mutation - *
 . - *
 
-Since - (A0*
+Since - (A0*)
 s1031 - *
 is - *
 a - *
@@ -34425,7 +34425,7 @@ variant - *
 genes - *
 . - *
 
-Cytokines - (A0*
+Cytokines - (A0*)
 altered alter (V*) *
 the - (A1*
 expression - *
@@ -34461,7 +34461,7 @@ transporters - *)
 is - *
 altered alter (V*) *
 by - *
-Cytokines - (A0*
+Cytokines - (A0*)
 in - (A4*
 human - *
 hepatoma - *
@@ -34487,7 +34487,7 @@ transporters - *)
 was - *
 altered alter (V*) *
 by - *
-Cytokines - (A0*
+Cytokines - (A0*)
 in - (A4*
 human - *
 hepatoma - *
@@ -34501,7 +34501,7 @@ cDNA - *
 microarrays - *
 . - *
 
-Cytokines - (A0*
+Cytokines - (A0*)
 which - *
 altered alter (V*) *
 the - (A1*
@@ -34526,7 +34526,7 @@ cDNA - *
 microarrays - *
 . - *
 
-Cytokines - (A0*
+Cytokines - (A0*)
 which - *
 alter alter (V*) *
 the - (A1*
@@ -34559,7 +34559,7 @@ are - *
 in - *
 opposing - *
 directions - *
-they - (A0*
+they - (A0*)
 did - *
 not - *
 alter alter (V*) *
@@ -34572,7 +34572,7 @@ DNA(Figure - *)
 3C) - *
 . - *
 
-Since - (A0*
+Since - (A0*)
 these - *
 two - *
 bends - *
@@ -34594,7 +34594,7 @@ them(Figure - *
 3C) - *
 . - *
 
-Since - (A0*
+Since - (A0*)
 these - *
 two - *
 bends - *
@@ -34767,7 +34767,7 @@ vulval - (A1*
 induction - *)
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -34792,7 +34792,7 @@ both - *
 genes - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -34817,7 +34817,7 @@ both - *
 genes - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -34843,7 +34843,7 @@ both - *
 genes - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -35117,7 +35117,7 @@ tumorigenic - *
 potential - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 that - *
 altered alter (V*) *
 splice - (A1*
@@ -35147,7 +35147,7 @@ sites - *)
 are - *
 altered alter (V*) *
 by - *
-mutations - (A0*
+mutations - (A0*)
 led - *
 to - *
 the - *
@@ -35173,7 +35173,7 @@ sites - *)
 were - *
 altered alter (V*) *
 by - *
-mutations - (A0*
+mutations - (A0*)
 led - *
 to - *
 the - *
@@ -35200,7 +35200,7 @@ which - *
 is - *
 altered alter (V*) *
 by - *
-mutations - (A0*
+mutations - (A0*)
 led - *
 to - *
 the - *
@@ -35227,7 +35227,7 @@ which - *
 were - *
 altered alter (V*) *
 by - *
-mutations - (A0*
+mutations - (A0*)
 led - *
 to - *
 the - *
@@ -35610,7 +35610,7 @@ predict - *
 that - *
 it - *
 alters alter (V*) *
-splicing - (A1*
+splicing - (A1*)
 we - *
 looked - *
 at - *
@@ -35633,7 +35633,7 @@ predict - *
 that - *
 it - *
 altered alter (V*) *
-splicing - (A1*
+splicing - (A1*)
 we - *
 looked - *
 at - *
@@ -35646,7 +35646,7 @@ this - *
 mutant - *
 . - *
 
-Splicing - (A1*
+Splicing - (A1*)
 is - *
 predict - *
 to - *
@@ -36570,7 +36570,7 @@ for - *
 h - *
 . - *
 
-it - (A0*
+it - (A0*)
 blocked block (V*) *
 RNA - (A1*
 polymerase - *
@@ -36598,7 +36598,7 @@ repressor - *)
 was - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -36614,7 +36614,7 @@ initiation - *
 factors - *
 . - *
 
-it - (A0*
+it - (A0*)
 blocks block (V*) *
 RNA - (A1*
 polymerase - *
@@ -36629,7 +36629,7 @@ elongation - *)
 is - *
 blocked block (V*) *
 by - *
-it - (A0*
+it - (A0*)
 . - *
 
 RNA - (A1*
@@ -36639,7 +36639,7 @@ elongation - *)
 was - *
 blocked block (V*) *
 by - *
-it - (A0*
+it - (A0*)
 . - *
 
 Tagetin - *
@@ -36661,7 +36661,7 @@ by - *
 was - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -36678,7 +36678,7 @@ factors - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -36716,7 +36716,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -36754,7 +36754,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -36792,7 +36792,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -36846,7 +36846,7 @@ formation - *)
 was - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -36867,7 +36867,7 @@ is - *
 upregulated - *
 early - *
 during - *
-commitment - (A0*
+commitment - (A0*)
 of - *
 multipotential - *
 progenitors - *
@@ -36900,7 +36900,7 @@ is - *
 upregulated - *
 early - *
 during - *
-commitment - (A0*
+commitment - (A0*)
 of - *
 multipotential - *
 progenitors - *
@@ -36933,7 +36933,7 @@ is - *
 upregulated - *
 early - *
 during - *
-commitment - (A0*
+commitment - (A0*)
 of - *
 multipotential - *
 progenitors - *
@@ -36967,7 +36967,7 @@ is - *
 upregulated - *
 early - *
 during - *
-commitment - (A0*
+commitment - (A0*)
 of - *
 multipotential - *
 progenitors - *
@@ -37001,7 +37001,7 @@ is - *
 upregulated - *
 early - *
 during - *
-commitment - (A0*
+commitment - (A0*)
 of - *
 multipotential - *
 progenitors - *
@@ -37041,7 +37041,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-labeling - (A1*
+labeling - (A1*)
 was - *
 blocked block (V*) *
 by - *
@@ -37069,7 +37069,7 @@ factors - *
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37088,7 +37088,7 @@ it - *
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37107,7 +37107,7 @@ it - *
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37131,7 +37131,7 @@ elongation - *)
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37155,7 +37155,7 @@ elongation - *)
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37180,7 +37180,7 @@ elongation - *)
 . - *
 
 Labeling - *
-with - (A0*
+with - (A0*)
 antibodies - *
 to - *
 the - *
@@ -37249,7 +37249,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37286,7 +37286,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37323,7 +37323,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37357,7 +37357,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37391,7 +37391,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37426,7 +37426,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37461,7 +37461,7 @@ important - *
 vaccine - *
 candidates - *
 because - *
-it - (A0*
+it - (A0*)
 has - *
 been - *
 shown - *
@@ -37499,7 +37499,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocks block (V*) *
 the - (A1*
@@ -37523,7 +37523,7 @@ initiation - *
 factors - *
 . - *
 
-it - (A0*
+it - (A0*)
 is - *
 thought - *
 to - *
@@ -37550,7 +37550,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocks block (V*) *
 elevation - (A1*
@@ -37584,7 +37584,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocks block (V*) *
 myeloid - (A1*
@@ -37626,7 +37626,7 @@ the - *
 phosphopeptide - *)
 which - *
 blocks block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Mathews - *
 and - *
 Durbin - *
@@ -37688,7 +37688,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 the - (A1*
@@ -37723,7 +37723,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 elevation - (A1*
@@ -37757,7 +37757,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 myeloid - (A1*
@@ -37799,7 +37799,7 @@ the - *
 phosphopeptide - *)
 which - *
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Mathews - *
 and - *
 Durbin - *
@@ -37867,7 +37867,7 @@ an - *
 inducer - *
 to - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 Labeling - *
@@ -37888,7 +37888,7 @@ postulated - *
 repressor - *)
 is - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
 Labeling - *
@@ -37909,10 +37909,10 @@ postulated - *
 repressor - *)
 was - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -37938,7 +37938,7 @@ postulated - *
 repressor - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -37964,7 +37964,7 @@ postulated - *
 repressor - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -37991,7 +37991,7 @@ postulated - *
 repressor - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -38050,7 +38050,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 are - *
 able - *
 to - *
@@ -38089,7 +38089,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 were - *
 able - *
 to - *
@@ -38128,7 +38128,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 block block (V*) *
 the - (A1*
 action - *
@@ -38164,7 +38164,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 the - (A1*
 action - *
@@ -38200,7 +38200,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 block block (V*) *
 the - (A1*
@@ -38237,7 +38237,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 the - (A1*
@@ -38283,7 +38283,7 @@ repressor - *)
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Schofield - *
 et - *
 al - *
@@ -38307,7 +38307,7 @@ with - *
 the - *
 phosphopeptide - *)
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 antibodies - (A0*
@@ -38329,7 +38329,7 @@ with - *
 the - *
 phosphopeptide - *)
 blocks block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 antibodies - (A0*
@@ -38342,7 +38342,7 @@ in - *
 vitro - *)
 . - *
 
-labeling - (A1*
+labeling - (A1*)
 is - *
 blocked block (V*) *
 by - *
@@ -38368,7 +38368,7 @@ to - *
 RAP1 - *)
 . - *
 
-labeling - (A1*
+labeling - (A1*)
 was - *
 blocked block (V*) *
 by - *
@@ -38419,7 +38419,7 @@ translation - *
 did - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -38446,7 +38446,7 @@ by - *
 14-3-3eta - *)
 is - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
 Labeling - *
@@ -38466,10 +38466,10 @@ by - *
 14-3-3eta - *)
 was - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -38494,7 +38494,7 @@ by - *
 14-3-3eta - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -38519,7 +38519,7 @@ by - *
 14-3-3eta - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -38545,7 +38545,7 @@ by - *
 14-3-3eta - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -38623,7 +38623,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 are - *
 able - *
 to - *
@@ -38661,7 +38661,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 were - *
 able - *
 to - *
@@ -38699,7 +38699,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 block block (V*) *
 elevation - (A1*
 of - *
@@ -38734,7 +38734,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 elevation - (A1*
 of - *
@@ -38769,7 +38769,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 block block (V*) *
 elevation - (A1*
@@ -38805,7 +38805,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 elevation - (A1*
@@ -38849,7 +38849,7 @@ by - *
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Schofield - *
 et - *
 al - *
@@ -38889,7 +38889,7 @@ translation - *
 does - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -38962,7 +38962,7 @@ translation - *
 will - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -39035,7 +39035,7 @@ translation - *
 has - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -39110,7 +39110,7 @@ to - *
 this - *
 -upregulation - *
 blocks block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 Labeling - *
@@ -39128,7 +39128,7 @@ colony - *
 formation - *)
 is - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
 Labeling - *
@@ -39146,10 +39146,10 @@ colony - *
 formation - *)
 was - *
 blocked block (V*) *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -39172,7 +39172,7 @@ colony - *
 formation - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -39195,7 +39195,7 @@ colony - *
 formation - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -39219,7 +39219,7 @@ colony - *
 formation - *)
 . - *
 
-Labeling - (A0*
+Labeling - (A0*)
 with - *
 antibodies - *
 to - *
@@ -39290,7 +39290,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 are - *
 able - *
 to - *
@@ -39326,7 +39326,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 were - *
 able - *
 to - *
@@ -39362,7 +39362,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 block block (V*) *
 myeloid - (A1*
 colony - *
@@ -39395,7 +39395,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 myeloid - (A1*
 colony - *
@@ -39428,7 +39428,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 block block (V*) *
 myeloid - (A1*
@@ -39462,7 +39462,7 @@ has - *
 been - *
 shown - *
 that - *
-Alanine - (A0*
+Alanine - (A0*)
 which - *
 blocked block (V*) *
 myeloid - (A1*
@@ -39502,7 +39502,7 @@ formation - *)
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Schofield - *
 et - *
 al - *
@@ -39544,7 +39544,7 @@ to - *
 this - *
 -upregulation - *
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 PU1 - (A0*
@@ -39608,7 +39608,7 @@ this - *
 -upregulation - *
 will - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 PU1 - (A0*
@@ -39673,7 +39673,7 @@ this - *
 -upregulation - *
 has - *
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 PU1 - (A0*
@@ -39738,7 +39738,7 @@ this - *
 -upregulation - *
 which - *
 blocks block (V*) *
-labeling - (A1*
+labeling - (A1*)
 . - *
 
 PU1 - (A0*
@@ -39822,7 +39822,7 @@ are - *
 able - *
 to - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -39863,7 +39863,7 @@ were - *
 able - *
 to - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -39901,7 +39901,7 @@ with - *
 the - *
 phosphopeptide - *)
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -39939,7 +39939,7 @@ with - *
 the - *
 phosphopeptide - *)
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -39978,7 +39978,7 @@ the - *
 phosphopeptide - *)
 which - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -40017,7 +40017,7 @@ the - *
 phosphopeptide - *)
 which - *
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Schofield - *
 et - *
 al - *
@@ -40046,7 +40046,7 @@ has - *
 been - *
 shown - *
 that - *
-labeling - (A1*
+labeling - (A1*)
 is - *
 blocked block (V*) *
 by - *
@@ -40191,7 +40191,7 @@ in - *
 vitro - *)
 . - *
 
-Alanine - (A0*
+Alanine - (A0*)
 is - *
 thought - *
 to - *
@@ -40209,7 +40209,7 @@ postulated - *
 repressor - *)
 . - *
 
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 the - (A1*
 action - *
@@ -40219,7 +40219,7 @@ postulated - *
 repressor - *)
 . - *
 
-Alanine - (A0*
+Alanine - (A0*)
 blocks block (V*) *
 the - (A1*
 action - *
@@ -40238,7 +40238,7 @@ repressor - *)
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
 the - (A1*
@@ -40250,7 +40250,7 @@ repressor - *)
 was - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 . - *
 
 Proteasomal - *
@@ -40583,7 +40583,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-it - (A0*
+it - (A0*)
 blocked block (V*) *
 RNA - (A1*
 polymerase - *
@@ -40622,7 +40622,7 @@ elongation - *)
 is - *
 blocked block (V*) *
 by - *
-it - (A0*
+it - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -40656,7 +40656,7 @@ elongation - *)
 was - *
 blocked block (V*) *
 by - *
-it - (A0*
+it - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -40683,7 +40683,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-it - (A0*
+it - (A0*)
 which - *
 blocks block (V*) *
 RNA - (A1*
@@ -40716,7 +40716,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-it - (A0*
+it - (A0*)
 which - *
 blocked block (V*) *
 RNA - (A1*
@@ -40738,7 +40738,7 @@ initiation - *
 factors - *
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -40761,7 +40761,7 @@ the - *
 phosphopeptide - *)
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -40782,7 +40782,7 @@ blocks block (V*) *
 labeling - *
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -40803,7 +40803,7 @@ blocked block (V*) *
 labeling - *
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -40825,7 +40825,7 @@ blocks block (V*) *
 labeling - *
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -40847,7 +40847,7 @@ blocked block (V*) *
 labeling - *
 . - *
 
-Membranes - (A1*
+Membranes - (A1*)
 are - *
 blocked block (V*) *
 in - *
@@ -40875,7 +40875,7 @@ antibodies - *
 
 It - *
 blocks block (V*) *
-membranes - (A1*
+membranes - (A1*)
 in - *
 TBST - *
 (Tris-buffered - *
@@ -40901,7 +40901,7 @@ antibodies - *
 
 It - *
 blocked block (V*) *
-membranes - (A1*
+membranes - (A1*)
 in - *
 TBST - *
 (Tris-buffered - *
@@ -40928,7 +40928,7 @@ antibodies - *
 It - *
 which - *
 blocks block (V*) *
-membranes - (A1*
+membranes - (A1*)
 blocked - *
 in - *
 TBST - *
@@ -40956,7 +40956,7 @@ antibodies - *
 It - *
 which - *
 blocked block (V*) *
-membranes - (A1*
+membranes - (A1*)
 blocked - *
 in - *
 TBST - *
@@ -41508,7 +41508,7 @@ initiation - *
 factors - *
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -41646,7 +41646,7 @@ this - *
 upregulation - *)
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42159,7 +42159,7 @@ al - *
 1998a) - *
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42195,7 +42195,7 @@ postulated - *
 repressor - *)
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42230,7 +42230,7 @@ by - *
 14-3-3eta - *)
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42266,7 +42266,7 @@ postulated - *
 repressor - *)
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42312,7 +42312,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocks block (V*) *
 the - (A1*
 action - *
@@ -42346,7 +42346,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocks block (V*) *
 elevation - (A1*
 of - *
@@ -42379,7 +42379,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocks block (V*) *
 myeloid - (A1*
 colony - *
@@ -42419,7 +42419,7 @@ with - *
 the - *
 phosphopeptide - *)
 blocks block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Mathews - *
 and - *
 Durbin - *
@@ -42480,7 +42480,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 the - (A1*
 action - *
@@ -42514,7 +42514,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 elevation - (A1*
 of - *
@@ -42574,7 +42574,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 did - *
 not - *
 block block (V*) *
@@ -42612,7 +42612,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 does - *
 not - *
 block block (V*) *
@@ -42650,7 +42650,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 will - *
 not - *
 block block (V*) *
@@ -42688,7 +42688,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 has - *
 not - *
 block block (V*) *
@@ -42707,7 +42707,7 @@ of - *
 GR - *
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42742,7 +42742,7 @@ postulated - *
 repressor - *)
 . - *
 
-PU1 - (A0*
+PU1 - (A0*)
 is - *
 upregulated - *
 early - *
@@ -42797,7 +42797,7 @@ repressor - *)
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -42976,7 +42976,7 @@ by - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -43246,7 +43246,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 did - *
 not - *
 block block (V*) *
@@ -43292,7 +43292,7 @@ phosphopeptide - *)
 did - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -43700,7 +43700,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -43754,7 +43754,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 does - *
 not - *
 block block (V*) *
@@ -43800,7 +43800,7 @@ phosphopeptide - *)
 does - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -43895,7 +43895,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -43949,7 +43949,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 will - *
 not - *
 block block (V*) *
@@ -43995,7 +43995,7 @@ phosphopeptide - *)
 will - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -44090,7 +44090,7 @@ GR - *
 . - *
 
 Proteasomal - *
-inhibition - (A0*
+inhibition - (A0*)
 did - *
 not - *
 induce - *
@@ -44144,7 +44144,7 @@ response - *
 to - *
 glucocorticoid - *
 and - *
-Alanine - (A0*
+Alanine - (A0*)
 has - *
 not - *
 block block (V*) *
@@ -44190,7 +44190,7 @@ phosphopeptide - *)
 has - *
 not - *
 block block (V*) *
-labeling - (A1*
+labeling - (A1*)
 indicating - *
 that - *
 14-3-3eta - *
@@ -44249,7 +44249,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-Alanine - (A0*
+Alanine - (A0*)
 blocked block (V*) *
 myeloid - (A1*
 colony - *
@@ -44289,7 +44289,7 @@ with - *
 the - *
 phosphopeptide - *)
 blocked block (V*) *
-labeling - (A1*
+labeling - (A1*)
 (Mathews - *
 and - *
 Durbin - *
@@ -44358,7 +44358,7 @@ by - *
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -44391,7 +44391,7 @@ formation - *)
 is - *
 blocked block (V*) *
 by - *
-Alanine - (A0*
+Alanine - (A0*)
 (Mathews - *
 and - *
 Durbin - *
@@ -44418,7 +44418,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-labeling - (A1*
+labeling - (A1*)
 is - *
 blocked block (V*) *
 by - *
@@ -44912,7 +44912,7 @@ for - *
 agrin-mediated - *
 signaling - *
 since - *
-staurosporine - (A0*
+staurosporine - (A0*)
 blocked block (V*) *
 agrin-induced - (A1*
 AChR - *
@@ -44942,7 +44942,7 @@ for - *
 agrin-mediated - *
 signaling - *
 since - *
-staurosporine - (A0*
+staurosporine - (A0*)
 that - *
 blocks block (V*) *
 agrin-induced - (A1*
@@ -44973,7 +44973,7 @@ for - *
 agrin-mediated - *
 signaling - *
 since - *
-staurosporine - (A0*
+staurosporine - (A0*)
 that - *
 blocked block (V*) *
 agrin-induced - (A1*
@@ -45012,7 +45012,7 @@ phosphorylation - *)
 is - *
 blocked block (V*) *
 by - *
-staurosporine - (A0*
+staurosporine - (A0*)
 without - *
 inhibiting - *
 MuSK - *
@@ -45044,7 +45044,7 @@ phosphorylation - *)
 was - *
 blocked block (V*) *
 by - *
-staurosporine - (A0*
+staurosporine - (A0*)
 without - *
 inhibiting - *
 MuSK - *
@@ -45411,7 +45411,7 @@ most - *
 likely - *
 catalysed catalyse (V*) *
 by - *
-Helicases - (A0*
+Helicases - (A0*)
 . - *
 
 human - (A0*
@@ -45619,7 +45619,7 @@ interesting - *
 to - *
 note - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 catalysed catalyse (V*) *
 the - (A1*
 disruption - *
@@ -45754,7 +45754,7 @@ most - *
 likely - *
 catalysed catalyse (V*) *
 by - *
-Helicases - (A0*
+Helicases - (A0*)
 . - *
 
 However - *
@@ -46135,7 +46135,7 @@ Muzyczka - *
 2000) - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 not - *
 only - *
@@ -46164,7 +46164,7 @@ polar - *
 fashion - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 not - *
 only - *
@@ -46180,36 +46180,6 @@ regions - *
 of - *
 nucleic - *
 acids - *)
-but - *
-also - *
-move - *
-along - *
-nucleic - *
-acid - *
-strands - *
-in - *
-a - *
-polar - *
-fashion - *
-. - *
-
-The - (A1*
-disruption - *
-of - *
-hydrogen - *
-boding - *
-between - *
-complementary - *
-regions - *
-of - *
-nucleic - *
-acids - *)
-is - *
-not - *
-only - *
-catalysed catalyse (V*) *
-by - *
-helicases - (A0*
 but - *
 also - *
 move - *
@@ -46234,12 +46204,12 @@ regions - *
 of - *
 nucleic - *
 acids - *)
-was - *
+is - *
 not - *
 only - *
 catalysed catalyse (V*) *
 by - *
-helicases - (A0*
+helicases - (A0*)
 but - *
 also - *
 move - *
@@ -46253,7 +46223,37 @@ polar - *
 fashion - *
 . - *
 
-Helicases - (A0*
+The - (A1*
+disruption - *
+of - *
+hydrogen - *
+boding - *
+between - *
+complementary - *
+regions - *
+of - *
+nucleic - *
+acids - *)
+was - *
+not - *
+only - *
+catalysed catalyse (V*) *
+by - *
+helicases - (A0*)
+but - *
+also - *
+move - *
+along - *
+nucleic - *
+acid - *
+strands - *
+in - *
+a - *
+polar - *
+fashion - *
+. - *
+
+Helicases - (A0*)
 not - *
 only - *
 catalysed catalyse (V*) *
@@ -46442,7 +46442,7 @@ P450 - *
 . - *
 
 However - *
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 catalyse catalyse (V*) *
 the - (A1*
@@ -46475,7 +46475,7 @@ respectively - *
 . - *
 
 However - *
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 catalysed catalyse (V*) *
 the - (A1*
@@ -46527,7 +46527,7 @@ efficiently - *
 is - *
 catalysed catalyse (V*) *
 by - *
-Helicases - (A0*
+Helicases - (A0*)
 although - *
 they - *
 posses - *
@@ -46561,7 +46561,7 @@ efficiently - *
 was - *
 catalysed catalyse (V*) *
 by - *
-Helicases - (A0*
+Helicases - (A0*)
 although - *
 they - *
 posses - *
@@ -46575,7 +46575,7 @@ regions - *
 respectively - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 catalyse catalyse (V*) *
 the - (A1*
 disruption - *
@@ -46616,7 +46616,7 @@ Muzyczka - *
 2000) - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 catalysed catalyse (V*) *
 the - (A1*
 disruption - *
@@ -46657,7 +46657,7 @@ Muzyczka - *
 2000) - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 catalyse catalyse (V*) *
 the - (A1*
@@ -46699,7 +46699,7 @@ Muzyczka - *
 2000) - *
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 catalysed catalyse (V*) *
 the - (A1*
@@ -46748,7 +46748,7 @@ interesting - *
 to - *
 note - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 catalyse catalyse (V*) *
 the - (A1*
 disruption - *
@@ -47465,7 +47465,7 @@ microsomal - *
 preparations - *
 suggested - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 most - *
 likely - *
@@ -47569,7 +47569,7 @@ microsomal - *
 preparations - *
 suggested - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 which - *
 most - *
 likely - *
@@ -47671,7 +47671,7 @@ microsomal - *
 preparations - *
 suggested - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 most - *
 likely - *
 catalyses catalyse (V*) *
@@ -47774,7 +47774,7 @@ microsomal - *
 preparations - *
 suggested - *
 that - *
-Helicases - (A0*
+Helicases - (A0*)
 most - *
 likely - *
 catalysed catalyse (V*) *
@@ -48093,7 +48093,7 @@ group - *
 (Figure - *
 3B) - *
 explaining - *
-resistance - (A1*
+resistance - (A1*)
 conferred confer (V*) *
 by - *
 EvgA - (A0*
@@ -48134,7 +48134,7 @@ benzyl - *
 group - *
 (Figure - *
 3B) - *
-resistance - (A1*
+resistance - (A1*)
 was - *
 conferred confer (V*) *
 by - *
@@ -48162,7 +48162,7 @@ benzyl - *
 group - *
 (Figure - *
 3B) - *
-resistance - (A1*
+resistance - (A1*)
 is - *
 conferred confer (V*) *
 by - *
@@ -48193,7 +48193,7 @@ group - *
 EvgA - (A0*
 overexpression - *)
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 (Xu-Welliver - *
 et - *
 al - *
@@ -48219,7 +48219,7 @@ group - *
 EvgA - (A0*
 overexpression - *)
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 (Xu-Welliver - *
 et - *
 al - *
@@ -48246,7 +48246,7 @@ EvgA - (A0*
 overexpression - *)
 which - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 (Xu-Welliver - *
 et - *
 al - *
@@ -48273,7 +48273,7 @@ EvgA - (A0*
 overexpression - *)
 which - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 (Xu-Welliver - *
 et - *
 al - *
@@ -48450,7 +48450,7 @@ In - *
 addition - *
 to - *
 clear - *
-resistance - (A1*
+resistance - (A1*)
 conferred confer (V*) *
 EvgA - (A0*
 overexpression - *)
@@ -48955,7 +48955,7 @@ consequences - *
 
 In - *
 addition - *
-resistance - (A1*
+resistance - (A1*)
 are - *
 conferred confer (V*) *
 EvgA - (A0*
@@ -49034,7 +49034,7 @@ consequences - *
 
 In - *
 addition - *
-resistance - (A1*
+resistance - (A1*)
 were - *
 conferred confer (V*) *
 EvgA - (A0*
@@ -49130,7 +49130,7 @@ by - *
 splice - *
 variants - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 genetic - *
 screening - *
 has - *
@@ -49231,7 +49231,7 @@ splice - *
 variants - *
 which - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 genetic - *
 screening - *
 has - *
@@ -49290,7 +49290,7 @@ overexpression - *)
 does - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 In - *
@@ -49647,7 +49647,7 @@ overexpression - *)
 did - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 In - *
@@ -49664,7 +49664,7 @@ resistance - *)
 
 In - *
 itself - *
-resistance - (A1*
+resistance - (A1*)
 was - *
 not - *
 conferred confer (V*) *
@@ -49688,7 +49688,7 @@ mutations - *)
 
 In - *
 itself - *
-resistance - (A1*
+resistance - (A1*)
 is - *
 not - *
 conferred confer (V*) *
@@ -49718,7 +49718,7 @@ which - *
 does - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 In - *
@@ -49742,7 +49742,7 @@ which - *
 did - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 In - *
@@ -49780,7 +49780,7 @@ to - (A2*
 alkylation - *
 chemotherapies - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
  - *
 can - *
 be - *
@@ -49822,7 +49822,7 @@ in - *
 the - *
 presence - *
 of - *
-MG132Stat1 - (A2*
+MG132Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -49862,7 +49862,7 @@ in - *
 the - *
 presence - *
 of - *
-MG132Stat1 - (A2*
+MG132Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -49893,7 +49893,7 @@ in - *
 the - *
 presence - *
 of - *
-MG132Stat1 - (A2*
+MG132Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -49924,7 +49924,7 @@ in - *
 the - *
 presence - *
 of - *
-MG132Stat1 - (A2*
+MG132Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -49936,7 +49936,7 @@ target - *
 . - *
 
 Resistance - (A1*
-Stat1 - (A2*
+Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -49965,7 +49965,7 @@ guanine - *
 . - *
 
 Resistance - (A1*
-Stat1 - (A2*
+Stat1 - (A2*)
 and - *
 is - *
 therefore - *
@@ -50015,7 +50015,7 @@ to - (A2*
 alkylation-sensitive - *
 cells - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
 can - *
 be - *
 conferred confer (V*) *
@@ -50065,7 +50065,7 @@ of - *
 Stat5 - *)
 confers confer (V*) *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 (Kaina - *
 et - *
 al - *
@@ -50120,7 +50120,7 @@ of - *
 Stat5 - *)
 conferred confer (V*) *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 (Kaina - *
 et - *
 al - *
@@ -50165,7 +50165,7 @@ al - *
 1998) - *
 and - *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 is - *
 conferred confer (V*) *
 by - *
@@ -50222,7 +50222,7 @@ al - *
 1998) - *
 and - *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 was - *
 conferred confer (V*) *
 by - *
@@ -50290,7 +50290,7 @@ Stat5 - *)
 which - *
 confers confer (V*) *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 (Kaina - *
 et - *
 al - *
@@ -50346,7 +50346,7 @@ Stat5 - *)
 which - *
 conferred confer (V*) *
 resistance - *
-Stat1 - (A2*
+Stat1 - (A2*)
 (Kaina - *
 et - *
 al - *
@@ -50383,7 +50383,7 @@ in - *
 to - (A2*
 06-BG - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
 can - *
 be - *
 conferred confer (V*) *
@@ -50432,7 +50432,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50474,7 +50474,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50517,7 +50517,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50560,7 +50560,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50592,7 +50592,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50636,7 +50636,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 through - *
 backbone - *
 distortions - *
@@ -50683,7 +50683,7 @@ substrate - *
 kinase - *
 (MAPKAP) - *)
 since - *
-specificity - (A1*
+specificity - (A1*)
 can - *
 be - *
 conferred confer (V*) *
@@ -50716,7 +50716,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 has - *
 not - *
 been - *
@@ -50743,7 +50743,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 . - *
 
 by - (A0*
@@ -50766,7 +50766,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 . - *
 
 by - (A0*
@@ -50790,7 +50790,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 has - *
 not - *
 been - *
@@ -50818,7 +50818,7 @@ the - *
 presence - *
 of - *
 MG132 - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 has - *
 not - *
 been - *
@@ -50826,7 +50826,7 @@ determined - *
 . - *
 
 Specificity - *)
-Stat1 - (A2*
+Stat1 - (A2*)
 is - *
 confered - *
 by - *
@@ -50839,7 +50839,7 @@ STATs - *
 . - *
 
 Specificity - (A1*
-Stat1 - (A2*
+Stat1 - (A2*)
 was - *
 confered - *
 by - *
@@ -50872,7 +50872,7 @@ to - (A2*
 alkylation - *
 chemotherapies - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
  - *
 could - *
 be - *
@@ -50907,7 +50907,7 @@ to - (A2*
 alkylation-sensitive - *
 cells - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
 could - *
 be - *
 conferred confer (V*) *
@@ -50939,7 +50939,7 @@ in - *
 to - (A2*
 06-BG - *)
 since - *
-resistance - (A1*
+resistance - (A1*)
 could - *
 be - *
 conferred confer (V*) *
@@ -50981,7 +50981,7 @@ substrate - *
 kinase - *
 (MAPKAP) - *)
 since - *
-specificity - (A1*
+specificity - (A1*)
 could - *
 be - *
 conferred confer (V*) *
@@ -51028,7 +51028,7 @@ on - *
 Stat1 - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 . - *
 
@@ -51066,7 +51066,7 @@ on - *
 Stat1 - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51102,7 +51102,7 @@ on - *
 Stat1 - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51146,7 +51146,7 @@ on - *
 Stat1 - *
 can - *
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 . - *
 
 The - (A0*
@@ -51183,7 +51183,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 . - *
 
@@ -51221,7 +51221,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51257,7 +51257,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51301,7 +51301,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 . - *
 
 The - (A0*
@@ -51339,7 +51339,7 @@ Stat1 - *
 which - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 . - *
 
@@ -51378,7 +51378,7 @@ Stat1 - *
 which - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51415,7 +51415,7 @@ Stat1 - *
 which - *
 can - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51460,7 +51460,7 @@ Stat1 - *
 which - *
 can - *
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 . - *
 
 The - (A0*
@@ -51498,7 +51498,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 . - *
 
@@ -51537,7 +51537,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51574,7 +51574,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 The - (A0*
@@ -51619,7 +51619,7 @@ on - *
 Stat1 - *
 could - *
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 . - *
 
 In - *
@@ -51733,7 +51733,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -51777,7 +51777,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -51821,7 +51821,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -51867,7 +51867,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -51913,7 +51913,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -51958,7 +51958,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
  - *
 in - *
 human - *
@@ -52046,7 +52046,7 @@ Human - (A0*
 alkyltransferase - *)
  - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52077,7 +52077,7 @@ Human - (A0*
 alkyltransferase - *)
  - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52109,7 +52109,7 @@ alkyltransferase - *)
  - *
 which - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52141,7 +52141,7 @@ alkyltransferase - *)
  - *
 which - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52167,7 +52167,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52200,7 +52200,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52258,7 +52258,7 @@ Human - (A0*
 alkyltransferase - *)
  - *
 conferring confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52274,7 +52274,7 @@ Human - (A0*
 alkyltransferase - *)
  - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52286,7 +52286,7 @@ Human - (A0*
 alkyltransferase - *)
  - *
 confered - *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52299,7 +52299,7 @@ alkyltransferase - *)
  - *
 which - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52316,7 +52316,7 @@ alkyltransferase - *)
  - *
 which - *
 confered - *
-resistance - (A1*
+resistance - (A1*)
  - *
 to - (A2*
 alkylation - *
@@ -52327,7 +52327,7 @@ been - *
 determined - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -52342,7 +52342,7 @@ STATs - *
  - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -52575,7 +52575,7 @@ drug - *
 target - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *)
 cells - *)
@@ -52606,7 +52606,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 06-BG - *)
 and - *
@@ -52636,7 +52636,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 for - (A2*
 either - *)
 a - *
@@ -52674,7 +52674,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *)
 cells - *)
@@ -52705,7 +52705,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 06-BG - *)
 and - *
@@ -52735,7 +52735,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 for - (A2*
 either - *)
 a - *
@@ -52779,7 +52779,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -52828,7 +52828,7 @@ transfection - (A0*
 of - *
 AGT - *)
 conferring confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *
 cells - *)
@@ -52842,7 +52842,7 @@ transfection - (A0*
 of - *
 AGT - *)
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *
 cells - *)
@@ -52852,7 +52852,7 @@ transfection - (A0*
 of - *
 AGT - *)
 confered - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *
 cells - *)
@@ -52863,7 +52863,7 @@ of - *
 AGT - *)
 which - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *
 cells - *)
@@ -52878,7 +52878,7 @@ of - *
 AGT - *)
 which - *
 confered - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation-sensitive - *
 cells - *)
@@ -52888,7 +52888,7 @@ been - *
 determined - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 alkylation-sensitive - *)
 cells - *)
@@ -52903,7 +52903,7 @@ STATs - *
  - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 alkylation-sensitive - *)
 cells - *)
@@ -52923,7 +52923,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -52974,7 +52974,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -53027,7 +53027,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -53080,7 +53080,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -53132,7 +53132,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-specificity - (A1*
+specificity - (A1*)
 in - *
 human - *
 tumors - *
@@ -53200,7 +53200,7 @@ of - *
 the - *
 STATs - *)
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53222,7 +53222,7 @@ Gly156 - *
 and - *
 Lys165 - *)
 conferring confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 has - *
@@ -53237,7 +53237,7 @@ Gly156 - *
 and - *
 Lys165 - *)
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 . - *
@@ -53248,7 +53248,7 @@ Gly156 - *
 and - *
 Lys165 - *)
 confered - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 . - *
@@ -53260,7 +53260,7 @@ and - *
 Lys165 - *)
 which - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 has - *
@@ -53276,7 +53276,7 @@ and - *
 Lys165 - *)
 which - *
 confered - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 has - *
@@ -53285,7 +53285,7 @@ been - *
 determined - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 06-BG - *)
 is - *
@@ -53299,7 +53299,7 @@ STATs - *
  - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 to - (A2*
 06-BG - *)
 was - *
@@ -53334,7 +53334,7 @@ of - *
 the - *
 STATs - *)
 conferred confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53373,7 +53373,7 @@ the - *
 STATs - *)
 which - *
 confer confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53412,7 +53412,7 @@ the - *
 STATs - *)
 which - *
 conferred confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53444,7 +53444,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53484,7 +53484,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -53515,7 +53515,7 @@ overexpression - *)
 did - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
@@ -53529,7 +53529,7 @@ overexpression - *)
 does - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
@@ -53543,7 +53543,7 @@ overexpression - *)
 will - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
@@ -53557,14 +53557,14 @@ overexpression - *)
 has - *
 not - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
 strain - *
 . - *
 
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
@@ -53576,7 +53576,7 @@ EvgA - (A0*
 overexpression - *)
 . - *
 
-resistance - (A1*
+resistance - (A1*)
 in - *
 a - *
 tolC-deficient - *
@@ -53822,7 +53822,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 the - (A1*
 Stat5 - *
@@ -53868,7 +53868,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 simply - *
 replacing - *
@@ -53912,7 +53912,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 simply - *
 replacing - *
@@ -53956,7 +53956,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 simply - *
 replacing - *
@@ -54002,7 +54002,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 simply - *
 replacing - *
@@ -54043,7 +54043,7 @@ the - *
 of - *
 guanine - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -54063,7 +54063,7 @@ alkyltransferase - *)
 (AGT) - *
 which - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -54083,7 +54083,7 @@ alkyltransferase - *)
 (AGT) - *
 which - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -54097,7 +54097,7 @@ drug - *
 target - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -54128,7 +54128,7 @@ of - *
 guanine - *
 . - *
 
-Resistance - (A1*
+Resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -54165,7 +54165,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -54207,7 +54207,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -54251,7 +54251,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -54295,7 +54295,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -54338,7 +54338,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -54571,7 +54571,7 @@ Gly156 - *
 and - *
 Lys165 - *)
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -54602,7 +54602,7 @@ and - *
 Lys165 - *)
 which - *
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -54633,7 +54633,7 @@ and - *
 Lys165 - *)
 which - *
 conferred confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -54657,7 +54657,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -54689,7 +54689,7 @@ mutational - *
 data - *
 suggests - *
 that - *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -54711,7 +54711,7 @@ of - *
 the - *
 STATs - *)
 confers confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54730,7 +54730,7 @@ of - *
 the - *
 STATs - *)
 confered - *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54750,7 +54750,7 @@ the - *
 STATs - *)
 which - *
 confers confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54774,7 +54774,7 @@ the - *
 STATs - *)
 which - *
 confered - *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54791,7 +54791,7 @@ been - *
 determined - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54813,7 +54813,7 @@ STATs - *)
  - *
 . - *
 
-Specificity - (A1*
+Specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -54951,7 +54951,7 @@ EvgA - (A0*
 overexpression - *)
 which - *
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -55360,7 +55360,7 @@ EvgA - (A0*
 overexpression - *)
 significantly - *
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 In - *
@@ -55541,7 +55541,7 @@ manner - *
 . - *
 
 Furthermore - *)
-resistancewere - (A1*
+resistancewere - (A1*)
 found - *
 decrease decrease (V*) *
 by - *
@@ -55645,7 +55645,7 @@ overexpression - *)
 significantly - *
 has - *
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 Deletion - *
@@ -55724,7 +55724,7 @@ overexpression - *)
 significantly - *
 will - *
 decrease decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 Deletion - *
@@ -55803,7 +55803,7 @@ overexpression - *)
 significantly - *
 which - *
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 . - *
 
 Deletion - *
@@ -56108,7 +56108,7 @@ their - (A0*
 mutation - *)
 . - *
 
-EvgA - (A1*
+EvgA - (A1*)
 overexpression - *)
 decreased decrease (V*) *
 lipid - *
@@ -56359,7 +56359,7 @@ manner - *
 2B) - *
 . - *
 
-EvgA - (A1*
+EvgA - (A1*)
 overexpression - *)
 decreases decrease (V*) *
 lipid - *
@@ -56402,7 +56402,7 @@ enzyme - *
 activity - *
 . - *
 
-EvgA - (A1*
+EvgA - (A1*)
 overexpression - *)
 which - *
 decreased decrease (V*) *
@@ -56447,7 +56447,7 @@ enzyme - *
 activity - *
 . - *
 
-EvgA - (A1*
+EvgA - (A1*)
 overexpression - *)
 which - *
 decreases decrease (V*) *
@@ -56513,7 +56513,7 @@ strain - *
 . - *
 
 Furthermore - *)
-resistance - (A1*
+resistance - (A1*)
 decreased decrease (V*) *
 by - *
 mixing - *
@@ -56531,7 +56531,7 @@ manner - *
 . - *
 
 Furthermore - *)
-resistance - (A1*
+resistance - (A1*)
 decreases decrease (V*) *
 by - *
 mixing - *
@@ -56549,7 +56549,7 @@ manner - *
 . - *
 
 Furthermore - *)
-resistancewhich - (A1*
+resistancewhich - (A1*)
 decreased decrease (V*) *
 by - *
 mixing - *
@@ -56567,7 +56567,7 @@ manner - *
 . - *
 
 Furthermore - *)
-resistancewhich - (A1*
+resistancewhich - (A1*)
 decreases decrease (V*) *
 by - *
 mixing - *
@@ -56910,7 +56910,7 @@ activity - *
 EvgA - (A0*
 overexpression - *)
 decreases decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -57006,7 +57006,7 @@ factor - *
 EvgA - (A0*
 overexpression - *)
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -57105,7 +57105,7 @@ EvgA - (A0*
 overexpression - *)
 will - *
 decrease decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -57205,7 +57205,7 @@ EvgA - (A0*
 overexpression - *)
 has - *
 decreased decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -58380,7 +58380,7 @@ controls - *
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 only - *
 decreases decrease (V*) *
 by - *
@@ -58414,7 +58414,7 @@ concentration - *)
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 was - *
 found - *
 to - *
@@ -58451,7 +58451,7 @@ concentration - *)
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 was - *
 predicted - *
 to - *
@@ -58488,7 +58488,7 @@ concentration - *)
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 was - *
 proven - *
 to - *
@@ -58525,7 +58525,7 @@ concentration - *)
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 which - *
 only - *
 decreased - *)
@@ -58560,7 +58560,7 @@ concentration - *)
 
 In - (A2*
 contrast - *
-GP - (A1*
+GP - (A1*)
 which - *
 only - *
 decreases - *)
@@ -58730,7 +58730,7 @@ EvgA - (A0*
 overexpression - *)
 which - *
 decreases decrease (V*) *
-resistance - (A1*
+resistance - (A1*)
 whilst - *
 not - *
 suppressing - *
@@ -59091,7 +59091,7 @@ chimera#1 - *
 (Table) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 the - (A1*
 viral - *
 transcription - *
@@ -59246,7 +59246,7 @@ of - *
 C - *
 albicans - *
 cells - *)
-CST20 - (A1*
+CST20 - (A1*)
 was - *
 deleted delete (V*) *
 and - *
@@ -59486,7 +59486,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 the - (A1*
 viral - *
 transcription - *
@@ -59511,7 +59511,7 @@ of - *
 C - *
 albicans - *
 cells - *)
-CST20 - (A1*
+CST20 - (A1*)
 is - *
 deleted delete (V*) *
 and - *
@@ -59527,7 +59527,7 @@ substituted - *
  - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 the - (A1*
 viral - *
 transcription - *
@@ -59553,7 +59553,7 @@ of - *
 C - *
 albicans - *
 cells - *)
-CST20 - (A1*
+CST20 - (A1*)
 will - *
 be - *
 deleted delete (V*) *
@@ -60105,7 +60105,7 @@ DCs - *)
 designed - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 . - *
 
@@ -60559,7 +60559,7 @@ DCs - *)
 found - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 . - *
 
@@ -60725,7 +60725,7 @@ DCs - *)
 proven - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 . - *
 
@@ -60895,7 +60895,7 @@ which - *
 proven - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 . - *
 
@@ -61066,7 +61066,7 @@ that - *
 proven - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 . - *
 
@@ -61125,10 +61125,10 @@ albicans - *
 cells - *)
 that - *
 delete delete (V*) *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 deleted delete (V*) *
 for - *
 the - (A1*
@@ -61150,7 +61150,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 delete delete (V*) *
 for - *
 the - (A1*
@@ -61172,7 +61172,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 are - *
 deleted delete (V*) *
 for - *
@@ -61195,7 +61195,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 were - *
 deleted delete (V*) *
 for - *
@@ -61218,7 +61218,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 with - *
 the - (A1*
 viral - *
@@ -61240,7 +61240,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 deleted delete (V*) *
 for - *
@@ -61263,7 +61263,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 delete delete (V*) *
 for - *
@@ -61286,7 +61286,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -61310,7 +61310,7 @@ solid - *
 media - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -61351,7 +61351,7 @@ albicans - *
 cells - *)
 which - *
 delete delete (V*) *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
 The - *
@@ -61371,7 +61371,7 @@ albicans - *
 cells - *)
 which - *
 deleted delete (V*) *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
 The - *
@@ -61391,7 +61391,7 @@ albicans - *
 cells - *)
 that - *
 deleted delete (V*) *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
 The - *
@@ -61413,7 +61413,7 @@ which - *
 are - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
 The - *
@@ -61435,7 +61435,7 @@ which - *
 were - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 . - *
 
 In - *)
@@ -61829,7 +61829,7 @@ for - *
 cytoadherence - *
 . - *
 
-In - (A1*
+In - (A1*)
 the - *
 presence - *
 of - *
@@ -62304,7 +62304,7 @@ loxP - *
 sites - *
 . - *
 
-In - (A1*
+In - (A1*)
 the - *
 presence - *
 of - *
@@ -62430,7 +62430,7 @@ loxP - *
 sites - *
 . - *
 
-In - (A1*
+In - (A1*)
 the - *
 presence - *
 of - *
@@ -62556,7 +62556,7 @@ loxP - *
 sites - *
 . - *
 
-In - (A1*
+In - (A1*)
 the - *
 presence - *
 of - *
@@ -62819,7 +62819,7 @@ constructed - *
 to - *
 delete delete (V*) *
 virtually - *
-them - (A1*
+them - (A1*)
 by - *
 utilizing - *
 an - *
@@ -63202,7 +63202,7 @@ constructed - *
 to - *
 delete delete (V*) *
 virtually - *
-them - (A1*
+them - (A1*)
 by - *
 utilizing - *
 an - *
@@ -63306,7 +63306,7 @@ constructed - *
 to - *
 delete delete (V*) *
 virtually - *
-them - (A1*
+them - (A1*)
 by - *
 utilizing - *
 an - *
@@ -63410,7 +63410,7 @@ constructed - *
 to - *
 delete delete (V*) *
 virtually - *
-them - (A1*
+them - (A1*)
 by - *
 utilizing - *
 an - *
@@ -63475,7 +63475,7 @@ immature - *
 DCs - *)
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 has - *
 provided - *
 positional - *
@@ -63870,7 +63870,7 @@ has - *
 found - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 has - *
 provided - *
 positional - *
@@ -63931,7 +63931,7 @@ were - *
 found - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 has - *
 provided - *
 positional - *
@@ -63992,7 +63992,7 @@ has - *
 proven - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 has - *
 provided - *
 positional - *
@@ -64053,7 +64053,7 @@ were - *
 proven - *
 to - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 has - *
 provided - *
 positional - *
@@ -64146,7 +64146,7 @@ mouse - *
 embryonic - *
 stem - *
 cells - *
-them - (A1*
+them - (A1*)
  - *
 was - *
 deleted delete (V*) *
@@ -64167,7 +64167,7 @@ mouse - *
 embryonic - *
 stem - *
 cells - *
-them - (A1*
+them - (A1*)
  - *
 is - *
 deleted delete (V*) *
@@ -64188,7 +64188,7 @@ mouse - *
 embryonic - *
 stem - *
 cells - *
-them - (A1*
+them - (A1*)
  - *
 will - *
 be - *
@@ -64212,7 +64212,7 @@ stem - *
 cells - *
 which - *
 deletes delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 to - *
 evaluate - *
@@ -64233,7 +64233,7 @@ stem - *
 cells - *
 which - *
 deleted delete (V*) *
-them - (A1*
+them - (A1*)
  - *
 to - *
 evaluate - *
@@ -64529,7 +64529,7 @@ micF - *
 locus - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 that - *
 delete delete (V*) *
 the - *
@@ -64560,7 +64560,7 @@ MEF2A - *
 6A) - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 delete delete (V*) *
 the - *
@@ -64591,7 +64591,7 @@ MEF2A - *
 6A) - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 deleted delete (V*) *
 the - *
@@ -64622,7 +64622,7 @@ MEF2A - *
 6A) - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 is - *
 deleted delete (V*) *
@@ -64655,7 +64655,7 @@ MEF2A - *
 6A) - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 was - *
 deleted delete (V*) *
@@ -64688,7 +64688,7 @@ MEF2A - *
 6A) - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 with - *
 the - *
 N-terminal - *
@@ -64745,7 +64745,7 @@ locus - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 that - *
 delete delete (V*) *
 the - *
@@ -64767,7 +64767,7 @@ synergy - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 which - *
 delete delete (V*) *
 the - *
@@ -64789,7 +64789,7 @@ synergy - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 which - *
 deleted delete (V*) *
 the - *
@@ -64811,7 +64811,7 @@ synergy - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -64835,7 +64835,7 @@ synergy - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -64859,7 +64859,7 @@ synergy - *
 . - *
 
 However - *
-strains - (A2*
+strains - (A2*)
 with - *
 the - *
 micF - (A1*
@@ -64923,7 +64923,7 @@ functional - *
 ErbB-2: - *
 S) - *
 or - *
-strains - (A2*
+strains - (A2*)
 (micF - (A1*
 locus - *)
 deleted; - *
@@ -64963,7 +64963,7 @@ micF - *
 locus - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 micF - (A1*
 locus - *)
 was - *
@@ -64981,7 +64981,7 @@ substituted - *
  - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 micF - (A1*
 locus - *)
 is - *
@@ -64999,7 +64999,7 @@ substituted - *
  - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 micF - (A1*
 locus - *)
 will - *
@@ -65020,7 +65020,7 @@ substituted - *
 
 Studies - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 deleted delete (V*) *
 for - *
 the - *
@@ -65052,7 +65052,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 that - *
 delete delete (V*) *
 micF - (A1*
@@ -65069,7 +65069,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 delete delete (V*) *
 micF - (A1*
@@ -65086,7 +65086,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 deleted delete (V*) *
 micF - (A1*
@@ -65103,7 +65103,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 that - *
 deleted delete (V*) *
 micF - (A1*
@@ -65120,7 +65120,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -65139,7 +65139,7 @@ considered - *
 less - *
 likely - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -65158,7 +65158,7 @@ cells - *)
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 showed - *
 that - *
 the - *
@@ -65173,7 +65173,7 @@ micF - *
 locus - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 deleted delete (V*) *
 for - *
 micF - (A1*
@@ -65193,7 +65193,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 delete delete (V*) *
 for - *
 micF - (A1*
@@ -65213,7 +65213,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 are - *
 deleted delete (V*) *
 for - *
@@ -65234,7 +65234,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 were - *
 deleted delete (V*) *
 for - *
@@ -65255,7 +65255,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 with - *
 micF - (A1*
 locus - *)
@@ -65275,7 +65275,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 deleted delete (V*) *
 for - *
@@ -65296,7 +65296,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 delete delete (V*) *
 for - *
@@ -65317,7 +65317,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -65339,7 +65339,7 @@ solid - *
 media - *
 . - *
 
-strains - (A2*
+strains - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -65557,7 +65557,7 @@ locus - *
 
 Studies - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -65593,7 +65593,7 @@ were - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 showed - *
 that - *
 the - *
@@ -65804,7 +65804,7 @@ locus - *
 
 Studies - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -65840,7 +65840,7 @@ are - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 showed - *
 that - *
 the - *
@@ -66056,7 +66056,7 @@ locus - *
 
 Studies - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 has - *
 been - *
@@ -66094,7 +66094,7 @@ been - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 showed - *
 that - *
 the - *
@@ -66310,7 +66310,7 @@ locus - *
 
 Studies - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 will - *
 be - *
@@ -66348,7 +66348,7 @@ be - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 showed - *
 that - *
 the - *
@@ -68980,7 +68980,7 @@ substituted - *
  - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 that - *
 delete delete (V*) *
 the - *
@@ -69527,7 +69527,7 @@ MEF2A - *
 6A) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 delete delete (V*) *
 the - *)
@@ -69660,7 +69660,7 @@ MEF2A - *
 6A) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 deleted delete (V*) *
 the - *)
@@ -69797,7 +69797,7 @@ MEF2A - *
 6A) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 is - *
 deleted - *)
@@ -69938,7 +69938,7 @@ MEF2A - *
 6A) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 which - *
 was - *
 deleted - *)
@@ -70075,7 +70075,7 @@ MEF2A - *
 6A) - *
 . - *
 
-vectors - (A2*
+vectors - (A2*)
 with - *
 the - *
 N-terminal - *)
@@ -70292,7 +70292,7 @@ substituted - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 that - *
 delete delete (V*) *
 the - *
@@ -70448,7 +70448,7 @@ cells - *)
 that - *
 delete delete (V*) *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 (1 - *
 &amp;#8211; - *
 332 - *
@@ -70731,7 +70731,7 @@ synergy - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 delete delete (V*) *
 the - *
@@ -70763,7 +70763,7 @@ cells - *)
 which - *
 delete delete (V*) *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 (1 - *
 &amp;#8211; - *
 332 - *
@@ -70831,7 +70831,7 @@ synergy - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 deleted delete (V*) *
 the - *
@@ -70863,7 +70863,7 @@ cells - *)
 which - *
 deleted delete (V*) *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 (1 - *
 &amp;#8211; - *
 332 - *
@@ -70935,7 +70935,7 @@ synergy - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -70971,7 +70971,7 @@ are - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 (1 - *
 &amp;#8211; - *
 332 - *
@@ -71043,7 +71043,7 @@ synergy - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -71079,7 +71079,7 @@ were - *
 deleted delete (V*) *
 for - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 (1 - *
 &amp;#8211; - *
 332 - *
@@ -71147,7 +71147,7 @@ synergy - *
 . - *
 
 However - *
-vectors - (A2*
+vectors - (A2*)
 with - *
 the - *
 the - (A1*
@@ -71330,7 +71330,7 @@ deleted delete (V*) *
 
 Studies - *
 with - *
-strains - (A2*
+strains - (A2*)
 deleted delete (V*) *
 for - *
 the - *
@@ -71352,7 +71352,7 @@ locus - *
 
 Studies - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -71376,7 +71376,7 @@ locus - *
 
 Studies - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -71400,7 +71400,7 @@ locus - *
 
 Studies - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 has - *
 been - *
@@ -71425,7 +71425,7 @@ locus - *
 
 Studies - *
 with - *
-strains - (A2*
+strains - (A2*)
 which - *
 will - *
 be - *
@@ -71998,7 +71998,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 delete delete (V*) *
 the - (A1*
@@ -72017,7 +72017,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 deleted delete (V*) *
 the - (A1*
@@ -72036,7 +72036,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 that - *
 deleted delete (V*) *
 the - (A1*
@@ -72055,7 +72055,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 are - *
 deleted delete (V*) *
@@ -72076,7 +72076,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 which - *
 were - *
 deleted delete (V*) *
@@ -72404,7 +72404,7 @@ antigen-loaded - (A0*
 immature - *
 DCs - *)
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72424,7 +72424,7 @@ antigen-loaded - (A0*
 immature - *
 DCs - *)
 deleted delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72445,7 +72445,7 @@ immature - *
 DCs - *)
 which - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72466,7 +72466,7 @@ immature - *
 DCs - *)
 which - *
 deleted delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72487,7 +72487,7 @@ immature - *
 DCs - *)
 that - *
 delete delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72508,7 +72508,7 @@ immature - *
 DCs - *)
 that - *
 deleted delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -72524,7 +72524,7 @@ albicans - *
 cells - *)
 delete delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72548,7 +72548,7 @@ cells - *)
 are - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72572,7 +72572,7 @@ cells - *)
 were - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72594,7 +72594,7 @@ C - *
 albicans - *
 cells - *)
 with - *
-CST20 - (A1*
+CST20 - (A1*)
 deleted delete (V*) *
 revealed - *
 defects - *
@@ -72619,7 +72619,7 @@ cells - *)
 which - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72643,7 +72643,7 @@ cells - *)
 which - *
 delete delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72668,7 +72668,7 @@ which - *
 are - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72693,7 +72693,7 @@ which - *
 were - *
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -72814,7 +72814,7 @@ albicans - *
 cells - *)
 with - *
 the - *
-CST20 - (A1*
+CST20 - (A1*)
 deleted delete (V*) *
 (1 - *
 &amp;#8211; - *
@@ -72949,7 +72949,7 @@ functional - *
 ErbB-2: - *
 S) - *
 or - *
-vectors - (A2*
+vectors - (A2*)
 (the - (A1*
 viral - *
 transcription - *
@@ -73112,7 +73112,7 @@ of - *
 C - *
 albicans - *
 cells - *)
-(CST20 - (A1*
+(CST20 - (A1*)
 deleted; - *
 ErbB-2: - *
 S-A - *
@@ -73365,7 +73365,7 @@ density - *
 even - *
 in - *
 an - *
-rpoS - (A1*
+rpoS - (A1*)
 deleted delete (V*) *
 strain - *
 of - *
@@ -73406,7 +73406,7 @@ density - *
 even - *
 in - *
 an - *
-rpoS - (A1*
+rpoS - (A1*)
 that - *
 is - *
 deleted delete (V*) *
@@ -73449,7 +73449,7 @@ density - *
 even - *
 in - *
 an - *
-rpoS - (A1*
+rpoS - (A1*)
 which - *
 was - *
 deleted delete (V*) *
@@ -73478,7 +73478,7 @@ by - *
 exons - *
 3-12) - *
 generates - *
-transcripts - (A2*
+transcripts - (A2*)
 which - *
 deleted delete (V*) *
 exons - (A1*
@@ -73518,7 +73518,7 @@ by - *
 exons - *
 3-12) - *
 generates - *
-transcripts - (A2*
+transcripts - (A2*)
 with - *
 exons - (A1*
 8 - *
@@ -73558,7 +73558,7 @@ by - *
 exons - *
 3-12) - *
 generates - *
-transcripts - (A2*
+transcripts - (A2*)
 which - *
 is - *
 deleted delete (V*) *
@@ -73600,7 +73600,7 @@ by - *
 exons - *
 3-12) - *
 generates - *
-transcripts - (A2*
+transcripts - (A2*)
 which - *
 was - *
 deleted delete (V*) *
@@ -74298,7 +74298,7 @@ of - *
 November - *
 . - *
 
-It - (A1*
+It - (A1*)
 is - *)
 planted - *
 from - *
@@ -74325,7 +74325,7 @@ of - *
 November - *
 . - *
 
-It - (A1*
+It - (A1*)
 is - *)
 planted - *
 from - *
@@ -74353,7 +74353,7 @@ of - *
 November - *
 . - *
 
-It - (A1*
+It - (A1*)
 is - *)
 planted - *
 from - *
@@ -74381,7 +74381,7 @@ of - *
 November - *
 . - *
 
-It - (A1*
+It - (A1*)
 is - *)
 planted - *
 from - *
@@ -75131,7 +75131,7 @@ Pin1 - *
 - - *
 / - *
 - - *
-mice - (A1*
+mice - (A1*)
 have - *
 previously - *
 been - *
@@ -75171,7 +75171,7 @@ Pin1 - *
 - - *
 / - *
 - - *
-mice - (A1*
+mice - (A1*)
 have - *
 previously - *
 been - *
@@ -75211,7 +75211,7 @@ Pin1 - *
 - - *
 / - *
 - - *
-mice - (A1*
+mice - (A1*)
 have - *
 previously - *
 developed develop (V*) *
@@ -75248,7 +75248,7 @@ Pin1 - *
 - - *
 / - *
 - - *
-mice - (A1*
+mice - (A1*)
 will - *
 be - *
 previously - *
@@ -78916,7 +78916,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 has - *
 been - *
 identified - *
@@ -78934,7 +78934,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 is - *
 identified - *
 in - *
@@ -78951,7 +78951,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 was - *
 identified - *
 in - *
@@ -78968,7 +78968,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 will - *
 beidentified - *
 in - *
@@ -78985,7 +78985,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 which - *
 has - *
 been - *
@@ -79004,7 +79004,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 that - *
 has - *
 been - *
@@ -79018,7 +79018,7 @@ abetalipoproteinemia - *
  - *
 . - *
 
-R142X - (A0*
+R142X - (A0*)
 located - *
 within - *
 a - *
@@ -80460,7 +80460,7 @@ immune - *
 cells - *
 to - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81088,7 +81088,7 @@ immune - *
 cells - *
 for - *
 eliminating eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81162,7 +81162,7 @@ such - *
 as - *
 CD14 - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81221,7 +81221,7 @@ such - *
 as - *
 CD14 - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81271,7 +81271,7 @@ with - *
 MG132 - *)
 . - *
 
-The - (A1*
+The - (A1*)
 pathogens - *
 are - *
 eliminated eliminate (V*) *
@@ -81329,7 +81329,7 @@ as - *
 CD14 - *
 . - *
 
-The - (A1*
+The - (A1*)
 pathogens - *
 were - *
 eliminated eliminate (V*) *
@@ -81398,7 +81398,7 @@ as - *
 CD14 - *
 that - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81461,7 +81461,7 @@ as - *
 CD14 - *
 which - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -81721,7 +81721,7 @@ of - *
 5:1 - *)
  - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 while - *
 mutation - *
@@ -81742,7 +81742,7 @@ of - *
 5:1 - *)
  - *
 eliminates eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 while - *
 mutation - *
@@ -81764,7 +81764,7 @@ of - *
  - *
 that - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 while - *
 mutation - *
@@ -81786,7 +81786,7 @@ of - *
  - *
 that - *
 eliminates eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 while - *
 mutation - *
@@ -81826,7 +81826,7 @@ mutations(Figure - *)
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -81865,7 +81865,7 @@ al - *
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -81899,7 +81899,7 @@ binding - *
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -81935,7 +81935,7 @@ of - *
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -81971,7 +81971,7 @@ of - *
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -82011,7 +82011,7 @@ al - *
 
 Secondly - *
 SBP2 - *
-binding - (A1*
+binding - (A1*)
 activity - *
 is - *
 not - *
@@ -82090,7 +82090,7 @@ of - *
 did - *
 not - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -82110,7 +82110,7 @@ which - *
 did - *
 not - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -82130,7 +82130,7 @@ that - *
 did - *
 not - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -82149,7 +82149,7 @@ of - *
 do - *
 not - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -82158,7 +82158,7 @@ illustrated - *
 in - *
 Figure - *
 1 - *
-binding - (A1*
+binding - (A1*)
  - *
 was - *
 not - *
@@ -82178,7 +82178,7 @@ illustrated - *
 in - *
 Figure - *
 1 - *
-binding - (A1*
+binding - (A1*)
  - *
 are - *
 not - *
@@ -82198,7 +82198,7 @@ illustrated - *
 in - *
 Figure - *
 1 - *
-binding - (A1*
+binding - (A1*)
  - *
 which - *
 were - *
@@ -83996,7 +83996,7 @@ of - *
 5:1 - *)
  - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -84676,7 +84676,7 @@ of - *
 5:1 - *)
  - *
 eliminates eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -84784,7 +84784,7 @@ immune - *
 cells - *)
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 is - *
 eliminated eliminate (V*) *
@@ -84896,7 +84896,7 @@ immune - *
 cells - *)
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 was - *
 eliminated eliminate (V*) *
@@ -85033,7 +85033,7 @@ of - *
  - *
 has - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -85169,7 +85169,7 @@ of - *
  - *
 will - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -85640,7 +85640,7 @@ OT - *
 and - *
 O1 - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -86450,7 +86450,7 @@ OT - *
 and - *
 O1 - *
 eliminates eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -86691,7 +86691,7 @@ and - *
 O1 - *
 has - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -86935,7 +86935,7 @@ and - *
 O1 - *
 will - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -87179,7 +87179,7 @@ and - *
 O1 - *
 which - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -87423,7 +87423,7 @@ and - *
 O1 - *
 which - *
 eliminates eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 whereas - *
 significant - *
 repression - *
@@ -87792,7 +87792,7 @@ the - *
 operators - *)
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 is - *
 eliminated eliminate (V*) *
@@ -88536,7 +88536,7 @@ a - *
 concentration - *
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 was - *
 eliminated eliminate (V*) *
@@ -88643,7 +88643,7 @@ a - *
 concentration - *
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 which - *
 eliminated eliminate (V*) *
@@ -88750,7 +88750,7 @@ a - *
 concentration - *
 . - *
 
-binding - (A1*
+binding - (A1*)
  - *
 has - *
 eliminated eliminate (V*) *
@@ -88865,7 +88865,7 @@ a - *
 10-fold-higher - *
 concentration - *
 eliminated eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -88960,7 +88960,7 @@ a - *
 10-fold-higher - *
 concentration - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
  - *
 . - *
 
@@ -89825,7 +89825,7 @@ caspase - *
 activation - *
 could - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 required - *
 for - *
 skeletal - *
@@ -89982,7 +89982,7 @@ caspase - *
 activation - *
 can - *
 eliminate eliminate (V*) *
-binding - (A1*
+binding - (A1*)
 required - *
 for - *
 skeletal - *
@@ -91265,7 +91265,7 @@ Grb2 - *
 significantly - *
 reduced - *
 SH3A - *
-binding - (A1*
+binding - (A1*)
 to - *
 mSos1 - *
 in - *
@@ -91296,7 +91296,7 @@ Grb2 - *
 significantly - *
 reduced - *
 SH3A - *
-binding - (A1*
+binding - (A1*)
 to - *
 mSos1 - *
 in - *
@@ -91327,7 +91327,7 @@ Grb2 - *
 significantly - *
 reduced - *
 SH3A - *
-binding - (A1*
+binding - (A1*)
 to - *
 mSos1 - *
 in - *
@@ -91354,7 +91354,7 @@ Grb2 - *
 significantly - *
 reduced - *
 SH3A - *
-binding - (A1*
+binding - (A1*)
 to - *
 mSos1 - *
 in - *
@@ -92527,7 +92527,7 @@ promoter - *
 elements - *
 . - *
 
-the - (A1*
+the - (A1*)
 major - *
 outer - *
 membrane - *
@@ -92545,7 +92545,7 @@ human - *
 cDNAs - *)
 . - *
 
-the - (A1*
+the - (A1*)
 major - *
 outer - *
 membrane - *
@@ -92607,7 +92607,7 @@ promoter - *
 elements - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92626,7 +92626,7 @@ its - *
 precursors - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92645,7 +92645,7 @@ its - *
 precursors - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92665,7 +92665,7 @@ its - *
 precursors - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92685,7 +92685,7 @@ its - *
 precursors - *
 . - *
 
-the - (A1*
+the - (A1*)
 proteins - *
 are - *
 encoded encode (V*) *
@@ -92706,7 +92706,7 @@ its - *
 precursors - *
 . - *
 
-the - (A1*
+the - (A1*)
 proteins - *
 were - *
 encoded encode (V*) *
@@ -92773,7 +92773,7 @@ promoter - *
 elements - *
 . - *
 
-CP2is - (A1*
+CP2is - (A1*)
 encoded encode (V*) *
 by - *
  - *
@@ -92786,7 +92786,7 @@ nanC) - *
 gene - *
 . - *
 
-CP2was - (A1*
+CP2was - (A1*)
 encoded encode (V*) *
 by - *
  - *
@@ -92838,7 +92838,7 @@ promoter - *
 elements - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92862,7 +92862,7 @@ Escherichia - *
 coli - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92886,7 +92886,7 @@ Escherichia - *
 coli - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92911,7 +92911,7 @@ Escherichia - *
 coli - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92936,7 +92936,7 @@ Escherichia - *
 coli - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92961,7 +92961,7 @@ Escherichia - *
 coli - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -92988,7 +92988,7 @@ coli - *
 
 We - *
 recently - *
-MAZ - (A0*
+MAZ - (A0*)
 which - *
 encode encode (V*) *
 a - (A1*
@@ -93031,7 +93031,7 @@ human - *
 cDNAs - *)
 may - *
 encode encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 . - *
 
 encloned - (A0*
@@ -93040,7 +93040,7 @@ and - *
 human - *
 cDNAs - *)
 encoded encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 . - *
 
 encloned - (A0*
@@ -93050,7 +93050,7 @@ human - *
 cDNAs - *)
 has - *
 encoded encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 . - *
 
 encloned - (A0*
@@ -93060,7 +93060,7 @@ human - *
 cDNAs - *)
 will - *
 encode encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 . - *
 
 encloned - (A0*
@@ -93069,10 +93069,10 @@ and - *
 human - *
 cDNAs - *)
 encodes encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 . - *
 
-CP2 - (A1*
+CP2 - (A1*)
 is - *
 encoded encode (V*) *
 by - *
@@ -93083,7 +93083,7 @@ human - *
 cDNAs - *)
 . - *
 
-CP2 - (A1*
+CP2 - (A1*)
 was - *
 encoded encode (V*) *
 by - *
@@ -93135,7 +93135,7 @@ promoter - *
 elements - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -93166,7 +93166,7 @@ growth - *
 medium - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -93196,7 +93196,7 @@ growth - *
 medium - *
 . - *
 
-encloned - (A1*
+encloned - (A1*)
 murine - *
 and - *
 human - *
@@ -93463,7 +93463,7 @@ OmpC - *
 are - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 . - *
 
 the - *)
@@ -93477,7 +93477,7 @@ OmpC - *
 were - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 . - *
 
 The - (A0*
@@ -93568,7 +93568,7 @@ proteins - *
 are - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 required - *
 for - *
 utilization - *
@@ -93585,7 +93585,7 @@ proteins - *
 were - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 required - *
 for - *
 utilization - *
@@ -95693,7 +95693,7 @@ human - *
 cDNAs - *)
 that - *
 encode encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 a - *
 cellular - *
 transcription - *
@@ -95724,7 +95724,7 @@ and - *
 human - *
 cDNAs - *)
 encoding encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 a - *
 cellular - *
 transcription - *
@@ -95756,7 +95756,7 @@ human - *
 cDNAs - *)
 that - *
 encoded encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 a - *
 cellular - *
 transcription - *
@@ -95789,7 +95789,7 @@ cDNAs - *)
 that - *
 has - *
 encoded encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 a - *
 cellular - *
 transcription - *
@@ -95821,7 +95821,7 @@ human - *
 cDNAs - *)
 which - *
 encode encode (V*) *
-CP2 - (A1*
+CP2 - (A1*)
 a - *
 cellular - *
 transcription - *
@@ -95844,7 +95844,7 @@ promoter - *
 elements - *
 . - *
 
-MAZ - (A0*
+MAZ - (A0*)
 may - *
 encode encode (V*) *
 a - (A1*
@@ -95860,7 +95860,7 @@ and - *
 termination - *)
 . - *
 
-MAZ - (A0*
+MAZ - (A0*)
 encoded encode (V*) *
 a - (A1*
 transcription - *
@@ -95875,7 +95875,7 @@ and - *
 termination - *)
 . - *
 
-MAZ - (A0*
+MAZ - (A0*)
 has - *
 encoded encode (V*) *
 a - (A1*
@@ -95891,7 +95891,7 @@ and - *
 termination - *)
 . - *
 
-MAZ - (A0*
+MAZ - (A0*)
 will - *
 encode encode (V*) *
 a - (A1*
@@ -95907,7 +95907,7 @@ and - *
 termination - *)
 . - *
 
-MAZ - (A0*
+MAZ - (A0*)
 encodes encode (V*) *
 a - (A1*
 transcription - *
@@ -95936,7 +95936,7 @@ termination - *)
 is - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 . - *
 
 a - (A1*
@@ -95953,7 +95953,7 @@ termination - *)
 was - *
 encoded encode (V*) *
 by - *
-MAZ - (A0*
+MAZ - (A0*)
 . - *
 
 Expression - (A0*
@@ -96641,7 +96641,7 @@ serotonin - *
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -96667,7 +96667,7 @@ transcripts - *)
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -96693,7 +96693,7 @@ transcripts - *)
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -96714,7 +96714,7 @@ SBP2 - *
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -96735,7 +96735,7 @@ SBP2 - *
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -96756,7 +96756,7 @@ SBP2 - *
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -97075,7 +97075,7 @@ encoded - *
 
 We - *
 recently - *
-MAZ - (A0*
+MAZ - (A0*)
 that - *
 encode encode (V*) *
 a - (A1*
@@ -97280,7 +97280,7 @@ elements - *
 
 We - *
 recently - *
-MAZ - (A0*
+MAZ - (A0*)
 encoding encode (V*) *
 a - (A1*
 transcription - *
@@ -97480,7 +97480,7 @@ elements - *
 
 We - *
 recently - *
-MAZ - (A0*
+MAZ - (A0*)
 that - *
 encoded encode (V*) *
 a - (A1*
@@ -97685,7 +97685,7 @@ elements - *
 
 We - *
 recently - *
-MAZ - (A0*
+MAZ - (A0*)
 that - *
 has - *
 encoded encode (V*) *
@@ -97722,7 +97722,7 @@ promoter - *
 elements - *
 . - *
 
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 encoded - *)
 a - (A2*
 117 - *
@@ -97780,7 +97780,7 @@ difference - *)
 is - *
 encoded encode (V*) *
 by - *
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 indicating - *
 extreme - *
 conservation - *
@@ -97819,7 +97819,7 @@ difference - *)
 was - *
 encoded encode (V*) *
 by - *
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 indicating - *
 extreme - *
 conservation - *
@@ -97837,7 +97837,7 @@ evolutionary - *
 time - *
 . - *
 
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 which - *)
 encode encode (V*) *
 a - (A2*
@@ -97875,7 +97875,7 @@ evolutionary - *
 time - *
 . - *
 
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 that - *)
 encoded encode (V*) *
 a - (A2*
@@ -97930,7 +97930,7 @@ the - *
 functional - *
 that - *
 a - *
-pre-mRNA - (A1*
+pre-mRNA - (A1*)
 encodes encode (V*) *
 a - (A2*
 multipass - *
@@ -97956,7 +97956,7 @@ the - *
 functional - *
 that - *
 a - *
-pre-mRNA - (A1*
+pre-mRNA - (A1*)
 encoded encode (V*) *
 a - (A2*
 multipass - *
@@ -97990,7 +97990,7 @@ was - *
 encoded encode (V*) *
 by - *
 a - *
-pre-mRNA - (A1*
+pre-mRNA - (A1*)
 . - *
 
 This - (A0*
@@ -98018,7 +98018,7 @@ is - *
 encoded encode (V*) *
 by - *
 a - *
-pre-mRNA - (A1*
+pre-mRNA - (A1*)
 . - *
 
 The - *)
@@ -98447,7 +98447,7 @@ dhfr - *
 mutated - *
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blot - *
 analysis - *
 with - *
@@ -98477,7 +98477,7 @@ and - *
 kb - *)
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blot - *
 analysis - *
 with - *
@@ -98507,7 +98507,7 @@ and - *
 kb - *)
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blot - *
 analysis - *
 with - *
@@ -98538,7 +98538,7 @@ and - *
 kb - *)
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blot - *
 analysis - *
 with - *
@@ -98569,7 +98569,7 @@ and - *
 kb - *)
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blot - *
 analysis - *
 with - *
@@ -98600,7 +98600,7 @@ and - *
 kb - *)
 . - *
 
-Two - (A0*
+Two - (A0*)
 equally - *
 abundant - *
 mRNAs - (A1*
@@ -98627,7 +98627,7 @@ polyadenylation - *
 signals - *
 . - *
 
-Two - (A0*
+Two - (A0*)
 equally - *
 abundant - *
 mRNAs - (A1*
@@ -98655,7 +98655,7 @@ polyadenylation - *
 signals - *
 . - *
 
-Two - (A0*
+Two - (A0*)
 equally - *
 abundant - *
 mRNAs - (A1*
@@ -98683,7 +98683,7 @@ polyadenylation - *
 signals - *
 . - *
 
-Two - (A0*
+Two - (A0*)
 equally - *
 abundant - *
 mRNAs - (A1*
@@ -98711,7 +98711,7 @@ polyadenylation - *
 signals - *
 . - *
 
-Two - (A0*
+Two - (A0*)
 equally - *
 abundant - *
 mRNAs - (A1*
@@ -99016,7 +99016,7 @@ mature - *
 protein - *
 . - *
 
-Pol - (A1*
+Pol - (A1*)
 was - *
 likely - *
 expressed express (V*) *
@@ -99032,7 +99032,7 @@ Ty3/gypsy - *
 retroelements - *)
 . - *
 
-Pol - (A1*
+Pol - (A1*)
 is - *
 likely - *
 expressed express (V*) *
@@ -99048,7 +99048,7 @@ Ty3/gypsy - *
 retroelements - *)
 . - *
 
-Pol - (A1*
+Pol - (A1*)
 will - *
 belikely - *
 expressed express (V*) *
@@ -99064,7 +99064,7 @@ Ty3/gypsy - *
 retroelements - *)
 . - *
 
-Pol - (A1*
+Pol - (A1*)
 would - *
 be - *
 likely - *
@@ -99081,7 +99081,7 @@ Ty3/gypsy - *
 retroelements - *)
 . - *
 
-The - (A0*
+The - (A0*)
 mechanotransduction - *
 mechanism - *
 for - *
@@ -99105,14 +99105,14 @@ was - *
 unable - *
 to - *
 express express (V*) *
-MGF - (A1*
+MGF - (A1*)
 in - *
 response - *
 to - *
 overload - *
 . - *
 
-The - (A0*
+The - (A0*)
 mechanotransduction - *
 mechanism - *
 for - *
@@ -99133,14 +99133,14 @@ unlike - *
 normal - *
 muscle - *
 expressing express (V*) *
-MGF - (A1*
+MGF - (A1*)
 in - *
 response - *
 to - *
 overload - *
 . - *
 
-The - (A0*
+The - (A0*)
 mechanotransduction - *
 mechanism - *
 for - *
@@ -99155,7 +99155,7 @@ the - *
 dystrophin - *
 complex - *
 as - *
-MGF - (A1*
+MGF - (A1*)
 is - *
 unable - *
 to - *
@@ -99170,7 +99170,7 @@ dystrophic - (A3*
 muscle - *)
 . - *
 
-The - (A0*
+The - (A0*)
 mechanotransduction - *
 mechanism - *
 for - *
@@ -99185,7 +99185,7 @@ the - *
 dystrophin - *
 complex - *
 as - *
-MGF - (A1*
+MGF - (A1*)
 was - *
 unable - *
 to - *
@@ -99200,11 +99200,11 @@ dystrophic - (A3*
 muscle - *)
 . - *
 
-RCAS - (A0*
+RCAS - (A0*)
 viruses - *
 infect - *
 only - *
-cells - (A3*
+cells - (A3*)
 engineered - *
 for - *
 expressing express (V*) *
@@ -99224,7 +99224,7 @@ is - *
 expressed express (V*) *
 ectopically - *
 by - *
-cells - (A3*
+cells - (A3*)
 engineered - *
 . - *
 
@@ -99236,13 +99236,13 @@ was - *
 expressed express (V*) *
 ectopically - *
 by - *
-cells - (A3*
+cells - (A3*)
 engineered - *
 . - *
 
-In - (A0*
+In - (A0*)
 summary - *
-NNT-1/BSF-3 - (A1*
+NNT-1/BSF-3 - (A1*)
 was - *
 expressed express (V*) *
 in - (A3*
@@ -99261,9 +99261,9 @@ dependent - *
 mechanisms - *
 . - *
 
-In - (A0*
+In - (A0*)
 summary - *
-NNT-1/BSF-3 - (A1*
+NNT-1/BSF-3 - (A1*)
 has - *
 been - *
 expressed express (V*) *
@@ -99283,9 +99283,9 @@ dependent - *
 mechanisms - *
 . - *
 
-In - (A0*
+In - (A0*)
 summary - *
-NNT-1/BSF-3 - (A1*
+NNT-1/BSF-3 - (A1*)
 will - *
 be - *
 expressed express (V*) *
@@ -99305,9 +99305,9 @@ dependent - *
 mechanisms - *
 . - *
 
-It - (A0*
+It - (A0*)
 expresses - *
-NNT-1/BSF-3 - (A1*
+NNT-1/BSF-3 - (A1*)
 in - (A3*
 pituitary - *
 folliculostellate - *
@@ -99325,9 +99325,9 @@ dependent - *
 mechanisms - *
 . - *
 
-It - (A0*
+It - (A0*)
 expressed express (V*) *
-NNT-1/BSF-3 - (A1*
+NNT-1/BSF-3 - (A1*)
 in - (A3*
 pituitary - *
 folliculostellate - *
@@ -99345,13 +99345,13 @@ dependent - *
 mechanisms - *
 . - *
 
-In - (A0*
+In - (A0*)
 the - *
 cortex - *
 of - *
 adult - *
 animals - *
-Reln - (A1*
+Reln - (A1*)
 was - *
 expressed express (V*) *
 primarily - *
@@ -99368,7 +99368,7 @@ perineuronal - *
 nets - *
 . - *
 
-Reln - (A1*
+Reln - (A1*)
 has - *
 been - *
 expressed express (V*) *
@@ -99386,7 +99386,7 @@ perineuronal - *
 nets - *
 . - *
 
-Reln - (A1*
+Reln - (A1*)
 will - *
 be - *
 expressed express (V*) *
@@ -99404,10 +99404,10 @@ perineuronal - *
 nets - *
 . - *
 
-It - (A0*
+It - (A0*)
 expresses - *
 primarily - *
-Reln - (A1*
+Reln - (A1*)
 in - (A3*
 ?-aminobutyric - *
 acid - *
@@ -99421,10 +99421,10 @@ perineuronal - *
 nets - *
 . - *
 
-It - (A0*
+It - (A0*)
 expressed express (V*) *
 primarily - *
-Reln - (A1*
+Reln - (A1*)
 in - (A3*
 ?-aminobutyric - *
 acid - *
@@ -99564,7 +99564,7 @@ cell - *
 surface - *
 . - *
 
-This - (A0*
+This - (A0*)
 &quot;functional - *
 allelic - *
 exclusion&quot; - *
@@ -99594,7 +99594,7 @@ TCR - *
 proteins - *)
 . - *
 
-This - (A0*
+This - (A0*)
 &quot;functional - *
 allelic - *
 exclusion&quot; - *
@@ -99912,7 +99912,7 @@ cell - *
 lines - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 which - *
 was - *
 expressed express (V*) *
@@ -99968,7 +99968,7 @@ cell - *
 lines - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 is - *
 expressed express (V*) *
 in - (A2*
@@ -99999,7 +99999,7 @@ cell - *
 lines - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 was - *
 expressed express (V*) *
 in - (A2*
@@ -100008,7 +100008,7 @@ human - *
 tissues - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 has - *
 been - *
 expressed express (V*) *
@@ -100018,7 +100018,7 @@ human - *
 tissues - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 will - *
 be - *
 expressed express (V*) *
@@ -100028,7 +100028,7 @@ human - *
 tissues - *)
 . - *
 
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 which - *
 is - *
 expressed express (V*) *
@@ -100213,7 +100213,7 @@ blot - *
 analysis - *
 reveals - *
 that - *
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 is - *
 expressed express (V*) *
 ubiquitously - *
@@ -100228,7 +100228,7 @@ blot - *
 analysis - *
 reveals - *
 that - *
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 was - *
 expressed express (V*) *
 ubiquitously - *
@@ -100243,7 +100243,7 @@ blot - *
 analysis - *
 reveals - *
 that - *
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 has - *
 been - *
 expressed express (V*) *
@@ -100259,7 +100259,7 @@ blot - *
 analysis - *
 reveals - *
 that - *
-BNIP3alpha - (A0*
+BNIP3alpha - (A0*)
 will - *
 be - *
 expressed express (V*) *
@@ -100270,7 +100270,7 @@ human - *
 tissues - *)
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blotting - *
 and - *
 reverse - *
@@ -100311,7 +100311,7 @@ in - *
 testis - *
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blotting - *
 and - *
 reverse - *
@@ -100353,7 +100353,7 @@ in - *
 testis - *
 . - *
 
-Northern - (A0*
+Northern - (A0*)
 blotting - *
 and - *
 reverse - *
@@ -100520,7 +100520,7 @@ hand - *
 encoded - *
 gag - *
 and - *
-pol - (A1*
+pol - (A1*)
 in - *
 separate - *
 reading - *
@@ -100594,10 +100594,10 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-nNOS - (A0*
+nNOS - (A0*)
 that - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 In - *
@@ -100605,7 +100605,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-we - (A0*
+we - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -100615,7 +100615,7 @@ FHL2 - *)
 (O(2)-) - *
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -100625,14 +100625,14 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-superoxide - (A1*
+superoxide - (A1*)
 is - *
 generated generate (V*) *
 by - *
 us - *
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -100642,7 +100642,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-superoxide - (A1*
+superoxide - (A1*)
 was - *
 generated generate (V*) *
 by - *
@@ -100689,66 +100689,66 @@ proteins - *
  - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 are - *
 generated generate (V*) *
 from - *
-nNOSby - (A0*
+nNOSby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 were - *
 generated generate (V*) *
 from - *
-nNOSby - (A0*
+nNOSby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 have - *
 been - *
 generated generate (V*) *
 from - *
-nNOSby - (A0*
+nNOSby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 will - *
 be - *
 generated generate (V*) *
 from - *
-nNOSby - (A0*
+nNOSby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
 precursor - *
 proteins - *
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
 precursor - *
 proteins - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 In - *
@@ -100762,7 +100762,7 @@ fragments - *)
 is - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 In - *
@@ -100780,7 +100780,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100796,7 +100796,7 @@ degradation - *
 does - *
 not - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 or - *
 occurs - *
 rapidly - *
@@ -100821,7 +100821,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100837,7 +100837,7 @@ degradation - *
 did - *
 not - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 or - *
 occured - *
 rapidly - *
@@ -100862,7 +100862,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100874,7 +100874,7 @@ and - *
 the - *
 possibility - *
 that - *
-superoxide - (A1*
+superoxide - (A1*)
 were - *
 not - *
 generated generate (V*) *
@@ -100897,7 +100897,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100909,7 +100909,7 @@ and - *
 the - *
 possibility - *
 that - *
-superoxide - (A1*
+superoxide - (A1*)
 are - *
 not - *
 generated generate (V*) *
@@ -100932,7 +100932,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100944,7 +100944,7 @@ and - *
 the - *
 possibility - *
 that - *
-superoxide - (A1*
+superoxide - (A1*)
 have - *
 not - *
 been - *
@@ -100968,7 +100968,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-nNOS - (A0*
+nNOS - (A0*)
 although - *
 again - *
 the - *
@@ -100980,7 +100980,7 @@ and - *
 the - *
 possibility - *
 that - *
-superoxide - (A1*
+superoxide - (A1*)
 will - *
 not - *
 be - *
@@ -101003,7 +101003,7 @@ FHL2 - *)
 is - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 To - *
@@ -101016,9 +101016,9 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 To - *
@@ -101031,9 +101031,9 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-nNOS - (A0*
+nNOS - (A0*)
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 To - *
@@ -101046,10 +101046,10 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-nNOS - (A0*
+nNOS - (A0*)
 that - *
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 In - *
@@ -101105,7 +101105,7 @@ fragments - *)
 was - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 In - *
@@ -101122,7 +101122,7 @@ FHL2 - *)
 was - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 In - *
@@ -101180,7 +101180,7 @@ has - *
 been - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 In - *
@@ -101198,7 +101198,7 @@ has - *
 been - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 In - *
@@ -101257,7 +101257,7 @@ will - *
 be - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 In - *
@@ -101275,7 +101275,7 @@ will - *
 be - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 In - *
@@ -101305,7 +101305,7 @@ fragments - *)
 are - *
 generated generate (V*) *
 from - *
-degradationby - (A0*
+degradationby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101585,7 +101585,7 @@ FHL2 - *)
 are - *
 generated generate (V*) *
 from - *
-weby - (A0*
+weby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101744,7 +101744,7 @@ fragments - *)
 were - *
 generated generate (V*) *
 from - *
-degradationby - (A0*
+degradationby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101755,7 +101755,7 @@ monoclonal - *
 antibody - *
 against - *
 FHL2 - *)
-were - (A0*
+were - (A0*)
 generated generate (V*) *
 from - *
 weby - *
@@ -101788,7 +101788,7 @@ have - *
 been - *
 generated generate (V*) *
 from - *
-degradationby - (A0*
+degradationby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101803,7 +101803,7 @@ have - *
 been - *
 generated generate (V*) *
 from - *
-weby - (A0*
+weby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101834,7 +101834,7 @@ will - *
 be - *
 generated generate (V*) *
 from - *
-degradationby - (A0*
+degradationby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101849,7 +101849,7 @@ will - *
 be - *
 generated generate (V*) *
 from - *
-weby - (A0*
+weby - (A0*)
 beta- - *
 and - *
 gamma-secretases - *
@@ -101874,7 +101874,7 @@ and - *
 gamma-secretases - *
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
@@ -101885,7 +101885,7 @@ specific - (A1*
 fragments - *)
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
@@ -101912,7 +101912,7 @@ interaction - *
 surface - *)
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
@@ -101923,7 +101923,7 @@ specific - (A1*
 fragments - *)
 . - *
 
-proteolysis - (A0*
+proteolysis - (A0*)
 of - *
 the - *
 amyloid - *
@@ -101958,7 +101958,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102005,7 +102005,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
@@ -102021,7 +102021,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-degradation - (A0*
+degradation - (A0*)
 generate generate (V*) *
 specific - (A1*
 fragments - *)
@@ -102037,7 +102037,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-degradation - (A0*
+degradation - (A0*)
 that - *
 generated generate (V*) *
 specific - (A1*
@@ -102054,14 +102054,14 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-degradation - (A0*
+degradation - (A0*)
 that - *
 generate generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -102079,7 +102079,7 @@ by - *
 us - *
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -102154,7 +102154,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102248,7 +102248,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102330,7 +102330,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102412,7 +102412,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102496,7 +102496,7 @@ an - *
 apparent - *
 absence - *
 of - *
-lower - (A0*
+lower - (A0*)
 molecular - *
 weight - *
 fragments - *
@@ -102753,7 +102753,7 @@ is - *
 required - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 within - *
 the - *
 recombinational - *
@@ -103432,12 +103432,12 @@ Dicer - *
 
 We - *
 believe - *
-nNOS - (A0*
+nNOS - (A0*)
 is - *
 required - *
 to - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 within - *
 the - *
 recombinational - *
@@ -103684,7 +103684,7 @@ complex - *)
 
 We - *
 believe - *
-degradation - (A0*
+degradation - (A0*)
 is - *
 required - *
 to - *
@@ -103951,7 +103951,7 @@ by - *
 degradation - *
 . - *
 
-We - (A0*
+We - (A0*)
 believe - *
 we - *
 is - *
@@ -104162,7 +104162,7 @@ is - *
 found - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104245,12 +104245,12 @@ synapse - *
 
 We - *
 believe - *
-nNOS - (A0*
+nNOS - (A0*)
 is - *
 found - *
 to - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104281,7 +104281,7 @@ synapse - *
 
 We - *
 believe - *
-degradation - (A0*
+degradation - (A0*)
 is - *
 found - *
 to - *
@@ -104294,7 +104294,7 @@ recombinational - *
 synapse - *
 . - *
 
-We - (A0*
+We - (A0*)
 believe - *
 we - *
 is - *
@@ -104381,7 +104381,7 @@ is - *
 shown - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104464,12 +104464,12 @@ synapse - *
 
 We - *
 believe - *
-nNOS - (A0*
+nNOS - (A0*)
 is - *
 shown - *
 to - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104500,7 +104500,7 @@ synapse - *
 
 We - *
 believe - *
-degradation - (A0*
+degradation - (A0*)
 is - *
 shown - *
 to - *
@@ -104513,7 +104513,7 @@ recombinational - *
 synapse - *
 . - *
 
-We - (A0*
+We - (A0*)
 believe - *
 we - *
 is - *
@@ -104590,7 +104590,7 @@ synapse - *
 fumarase - (A0*
 B - *)
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104656,9 +104656,9 @@ recombinational - *
 synapse - *
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104682,7 +104682,7 @@ recombinational - *
 synapse - *
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
@@ -104692,7 +104692,7 @@ recombinational - *
 synapse - *
 . - *
 
-we - (A0*
+we - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -104759,7 +104759,7 @@ synapse - *
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104825,9 +104825,9 @@ recombinational - *
 synapse - *
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 within - *
 the - *
 recombinational - *
@@ -104851,7 +104851,7 @@ recombinational - *
 synapse - *
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
@@ -104861,7 +104861,7 @@ recombinational - *
 synapse - *
 . - *
 
-we - (A0*
+we - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -104927,7 +104927,7 @@ recombinational - *
 synapse - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 is - *
 generated generate (V*) *
 by - *
@@ -105004,11 +105004,11 @@ recombinational - *
 synapse - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 is - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 within - *
 the - *
 recombinational - *
@@ -105039,7 +105039,7 @@ fragments - *)
 is - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 within - *
 the - *
 recombinational - *
@@ -105054,7 +105054,7 @@ FHL2 - *)
 is - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 within - *
 the - *
 recombinational - *
@@ -105116,7 +105116,7 @@ recombinational - *
 synapse - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 was - *
 generated generate (V*) *
 by - *
@@ -105193,11 +105193,11 @@ recombinational - *
 synapse - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 was - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 within - *
 the - *
 recombinational - *
@@ -105228,7 +105228,7 @@ fragments - *)
 was - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 within - *
 the - *
 recombinational - *
@@ -105243,7 +105243,7 @@ FHL2 - *)
 was - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 within - *
 the - *
 recombinational - *
@@ -107413,22 +107413,22 @@ aspartate - *
 fumarase - (A0*
 B - *)
 generating generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 are - *
 generated generate (V*) *
 by - *
@@ -107436,7 +107436,7 @@ fumarase - (A0*
 B - *)
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 were - *
 generated generate (V*) *
 by - *
@@ -107479,7 +107479,7 @@ Bwas - *)
 optimized - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -107516,7 +107516,7 @@ conditions - *
 fumarase - (A0*
 B - *)
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -107553,7 +107553,7 @@ conditions - *
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -107587,7 +107587,7 @@ PCR - *
 conditions - *
 . - *
 
-Sequential - (A1*
+Sequential - (A1*)
 overlapping - *
 fragments - *
 were - *
@@ -107627,7 +107627,7 @@ PCR - *
 conditions - *
 . - *
 
-Sequential - (A1*
+Sequential - (A1*)
 overlapping - *
 fragments - *
 are - *
@@ -107671,7 +107671,7 @@ fumarase - (A0*
 B - *)
 which - *
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -107709,7 +107709,7 @@ fumarase - (A0*
 B - *)
 which - *
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -107785,36 +107785,36 @@ microRNA - *
 precursors - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 which - *
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 which - *
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 fumarase - (A0*
 B - *)
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 are - *
 generated generate (V*) *
 by - *
@@ -107825,7 +107825,7 @@ III - *
 Dicer - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 were - *
 generated generate (V*) *
 by - *
@@ -107838,14 +107838,14 @@ Dicer - *
 
 These - *
 are - *
-superoxide - (A1*
+superoxide - (A1*)
 reductase - *
 (encoded - *
 by - *
 the - *
 frdABCD - *
 operon - *
-nNOS - (A0*
+nNOS - (A0*)
 which - *
 generates generate (V*) *
 fumarate - *
@@ -107874,7 +107874,7 @@ been - *
 shown - *
 to - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 . - *
 
@@ -107886,7 +107886,7 @@ L-arginine - *
 fumarase - (A0*
 B - *)
 generates generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 . - *
 
@@ -107898,7 +107898,7 @@ L-arginine - *
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 . - *
 
@@ -107907,7 +107907,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 is - *
 generated generate (V*) *
@@ -107921,7 +107921,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 was - *
 generated generate (V*) *
@@ -107935,7 +107935,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 has - *
 been - *
@@ -107950,7 +107950,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-fumarate - (A1*
+fumarate - (A1*)
 (O(2)-) - *
 will - *
 be - *
@@ -107993,7 +107993,7 @@ and - *
 aspartate - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 are - *
 generated generate (V*) *
 from - *
@@ -108004,7 +108004,7 @@ and - *
 gamma-secretases - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 were - *
 generated generate (V*) *
 from - *
@@ -108015,7 +108015,7 @@ and - *
 gamma-secretases - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 have - *
 been - *
 generated generate (V*) *
@@ -108027,7 +108027,7 @@ and - *
 gamma-secretases - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 will - *
 be - *
 generated generate (V*) *
@@ -108046,7 +108046,7 @@ amyloid - *
 precursor - *
 proteins - *
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 proteolysis - *)
@@ -108056,7 +108056,7 @@ amyloid - *
 precursor - *
 proteins - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 These - *
@@ -108069,7 +108069,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-degradation - (A0*
+degradation - (A0*)
 which - *
 generates generate (V*) *
 fumarate - *
@@ -108118,7 +108118,7 @@ degradation - *
 does - *
 not - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 or - *
 occurs - *
 rapidly - *
@@ -108160,7 +108160,7 @@ degradation - *
 did - *
 not - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 or - *
 occured - *
 rapidly - *
@@ -108198,7 +108198,7 @@ and - *
 the - *
 possibility - *
 that - *
-fumarate - (A1*
+fumarate - (A1*)
 were - *
 not - *
 generated generate (V*) *
@@ -108234,7 +108234,7 @@ and - *
 the - *
 possibility - *
 that - *
-fumarate - (A1*
+fumarate - (A1*)
 are - *
 not - *
 generated generate (V*) *
@@ -108270,7 +108270,7 @@ and - *
 the - *
 possibility - *
 that - *
-fumarate - (A1*
+fumarate - (A1*)
 have - *
 not - *
 been - *
@@ -108307,7 +108307,7 @@ and - *
 the - *
 possibility - *
 that - *
-fumarate - (A1*
+fumarate - (A1*)
 will - *
 not - *
 be - *
@@ -108329,7 +108329,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-we - (A0*
+we - (A0*)
 which - *
 generates generate (V*) *
 fumarate - *
@@ -108359,7 +108359,7 @@ tissues - *
 fumarase - (A0*
 B - *)
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 To - *
@@ -108375,7 +108375,7 @@ tissues - *
 fumarase - (A0*
 B - *)
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 To - *
@@ -108392,7 +108392,7 @@ fumarase - (A0*
 B - *)
 that - *
 generated generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 To - *
@@ -108409,7 +108409,7 @@ fumarase - (A0*
 B - *)
 that - *
 generate generate (V*) *
-fumarate - (A1*
+fumarate - (A1*)
 . - *
 
 To - (A0*
@@ -108422,7 +108422,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-fumarate - (A1*
+fumarate - (A1*)
 is - *
 generated generate (V*) *
 by - *
@@ -108439,7 +108439,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-fumarate - (A1*
+fumarate - (A1*)
 was - *
 generated generate (V*) *
 by - *
@@ -108590,14 +108590,14 @@ aspartate - *
 
 These - *
 are - *
-superoxide - (A1*
+superoxide - (A1*)
 reductase - *
 (encoded - *
 by - *
 the - *
 frdABCD - *
 operon - *
-nNOS - (A0*
+nNOS - (A0*)
 which - *
 generated generate (V*) *
 fumarate - *
@@ -108657,7 +108657,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-degradation - (A0*
+degradation - (A0*)
 which - *
 generated generate (V*) *
 fumarate - *
@@ -108687,7 +108687,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-we - (A0*
+we - (A0*)
 which - *
 generated generate (V*) *
 fumarate - *
@@ -108851,14 +108851,14 @@ aspartate - *
 
 These - *
 are - *
-superoxide - (A1*
+superoxide - (A1*)
 reductase - *
 (encoded - *
 by - *
 the - *
 frdABCD - *
 operon - *
-nNOS - (A0*
+nNOS - (A0*)
 which - *
 has - *
 generated generate (V*) *
@@ -108920,7 +108920,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-degradation - (A0*
+degradation - (A0*)
 which - *
 has - *
 generated generate (V*) *
@@ -108951,7 +108951,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-we - (A0*
+we - (A0*)
 which - *
 has - *
 generated generate (V*) *
@@ -109117,14 +109117,14 @@ aspartate - *
 
 These - *
 are - *
-superoxide - (A1*
+superoxide - (A1*)
 reductase - *
 (encoded - *
 by - *
 the - *
 frdABCD - *
 operon - *
-nNOS - (A0*
+nNOS - (A0*)
 which - *
 will - *
 generate generate (V*) *
@@ -109186,7 +109186,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-degradation - (A0*
+degradation - (A0*)
 which - *
 will - *
 generate generate (V*) *
@@ -109217,7 +109217,7 @@ by - *
 the - *
 frdABCD - *
 operon - *
-we - (A0*
+we - (A0*)
 which - *
 will - *
 generate generate (V*) *
@@ -109356,7 +109356,7 @@ Dicer - *)
  - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 from - *
 malate - *
 and - *
@@ -109371,7 +109371,7 @@ aspartate - *
 are - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 Abeta - (A1*
@@ -109416,7 +109416,7 @@ aspartate - *
 are - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 a - (A1*
@@ -109438,7 +109438,7 @@ aspartate - *
 are - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 a - (A1*
@@ -109553,7 +109553,7 @@ Dicer - *)
  - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 from - *
 malate - *
 and - *
@@ -109568,7 +109568,7 @@ aspartate - *
 were - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 Abeta - (A1*
@@ -109613,7 +109613,7 @@ aspartate - *
 were - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 a - (A1*
@@ -109632,7 +109632,7 @@ fumarate - *
 malate - *
 and - *
 aspartate - *
-were - (A0*
+were - (A0*)
 generated generate (V*) *
 by - *
 we - *
@@ -110203,9 +110203,9 @@ III - *
 Dicer - *
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generating generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 In - *
@@ -110576,7 +110576,7 @@ dinitrosyl-iron-cysteine - *
 complex - *)
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generating generate (V*) *
 specific - (A1*
 fragments - *)
@@ -110908,7 +110908,7 @@ by - *
 degradation - *
 . - *
 
-we - (A0*
+we - (A0*)
 generating generate (V*) *
 a - (A1*
 monoclonal - *
@@ -111135,9 +111135,9 @@ mature - *
 RNAs - *)
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -111153,13 +111153,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-we - (A0*
+we - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -111206,9 +111206,9 @@ mature - *
 RNAs - *)
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -111224,13 +111224,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generate generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-we - (A0*
+we - (A0*)
 generate generate (V*) *
 a - (A1*
 monoclonal - *
@@ -111281,11 +111281,11 @@ Dicer - *)
  - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 are - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 Abeta - (A1*
@@ -111308,7 +111308,7 @@ fragments - *)
 are - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 a - (A1*
@@ -111319,7 +111319,7 @@ FHL2 - *)
 are - *
 generated generate (V*) *
 by - *
-we - (A0*
+we - (A0*)
 . - *
 
 a - (A1*
@@ -111366,11 +111366,11 @@ Dicer - *)
  - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 were - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 Abeta - (A1*
@@ -111393,7 +111393,7 @@ fragments - *)
 were - *
 generated generate (V*) *
 by - *
-degradation - (A0*
+degradation - (A0*)
 . - *
 
 a - (A1*
@@ -111401,7 +111401,7 @@ monoclonal - *
 antibody - *
 against - *
 FHL2 - *)
-were - (A0*
+were - (A0*)
 generated generate (V*) *
 by - *
 we - *
@@ -111547,11 +111547,11 @@ III - *
 Dicer - *
 . - *
 
-nNOSwas - (A0*
+nNOSwas - (A0*)
 optimized - *
 to - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -111843,7 +111843,7 @@ overlapping - *
 fragments - *)
 . - *
 
-degradationwas - (A0*
+degradationwas - (A0*)
 optimized - *
 to - *
 generate generate (V*) *
@@ -112130,7 +112130,7 @@ by - *
 degradation - *
 . - *
 
-wewas - (A0*
+wewas - (A0*)
 optimized - *
 to - *
 generate generate (V*) *
@@ -112383,9 +112383,9 @@ PCR - *
 conditions - *
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -112462,7 +112462,7 @@ PCR - *
 conditions - *
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
@@ -112499,7 +112499,7 @@ PCR - *
 conditions - *
 . - *
 
-we - (A0*
+we - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -112628,9 +112628,9 @@ PCR - *
 conditions - *
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -112707,7 +112707,7 @@ PCR - *
 conditions - *
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
@@ -112744,7 +112744,7 @@ PCR - *
 conditions - *
 . - *
 
-we - (A0*
+we - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -112872,13 +112872,13 @@ PCR - *
 conditions - *
 . - *
 
-Sequential - (A1*
+Sequential - (A1*)
 overlapping - *
 fragments - *
 were - *
 generated generate (V*) *
 by - *
-nNOS(approximately - (A0*
+nNOS(approximately - (A0*)
 04-05 - *
 kb) - *
 for - *
@@ -112963,7 +112963,7 @@ fragments - *
 were - *
 generated generate (V*) *
 by - *
-degradation(approximately - (A0*
+degradation(approximately - (A0*)
 04-05 - *
 kb) - *
 for - *
@@ -112999,7 +112999,7 @@ conditions - *
 Sequential - (A1*
 overlapping - *
 fragments - *)
-were - (A0*
+were - (A0*)
 generated generate (V*) *
 by - *
 we(approximately - *
@@ -113123,13 +113123,13 @@ PCR - *
 conditions - *
 . - *
 
-Sequential - (A1*
+Sequential - (A1*)
 overlapping - *
 fragments - *
 are - *
 generated generate (V*) *
 by - *
-nNOS(approximately - (A0*
+nNOS(approximately - (A0*)
 04-05 - *
 kb) - *
 for - *
@@ -113214,7 +113214,7 @@ fragments - *
 are - *
 generated generate (V*) *
 by - *
-degradation(approximately - (A0*
+degradation(approximately - (A0*)
 04-05 - *
 kb) - *
 for - *
@@ -113253,7 +113253,7 @@ fragments - *)
 are - *
 generated generate (V*) *
 by - *
-we(approximately - (A0*
+we(approximately - (A0*)
 04-05 - *
 kb) - *
 for - *
@@ -113376,9 +113376,9 @@ PCR - *
 conditions - *
 . - *
 
-nNOSwhich - (A0*
+nNOSwhich - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -113456,7 +113456,7 @@ PCR - *
 conditions - *
 . - *
 
-degradationwhich - (A0*
+degradationwhich - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
@@ -113493,7 +113493,7 @@ PCR - *
 conditions - *
 . - *
 
-wewhich - (A0*
+wewhich - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -113623,9 +113623,9 @@ PCR - *
 conditions - *
 . - *
 
-nNOSwhich - (A0*
+nNOSwhich - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (approximately - *
 04-05 - *
 kb) - *
@@ -113703,7 +113703,7 @@ PCR - *
 conditions - *
 . - *
 
-degradationwhich - (A0*
+degradationwhich - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
@@ -113740,7 +113740,7 @@ PCR - *
 conditions - *
 . - *
 
-wewhich - (A0*
+wewhich - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -113824,12 +113824,12 @@ PCR - *
 conditions - *
 . - *
 
-nNOScleaves - (A0*
+nNOScleaves - (A0*)
 microRNA - *
 precursors - *
 to - *
 generate generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 In - *
@@ -114121,7 +114121,7 @@ mature - *
 RNAs - *)
 . - *
 
-degradationcleaves - (A0*
+degradationcleaves - (A0*)
 microRNA - *
 precursors - *
 to - *
@@ -114408,7 +114408,7 @@ by - *
 degradation - *
 . - *
 
-wecleaves - (A0*
+wecleaves - (A0*)
 microRNA - *
 precursors - *
 to - *
@@ -114582,9 +114582,9 @@ interaction - *
 surface - *)
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -114599,13 +114599,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-we - (A0*
+we - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -114627,9 +114627,9 @@ interaction - *
 surface - *)
 . - *
 
-nNOSwhich - (A0*
+nNOSwhich - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -114645,13 +114645,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradationwhich - (A0*
+degradationwhich - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-wewhich - (A0*
+wewhich - (A0*)
 generated generate (V*) *
 a - (A1*
 monoclonal - *
@@ -114673,9 +114673,9 @@ interaction - *
 surface - *)
 . - *
 
-nNOSwhich - (A0*
+nNOSwhich - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -114691,13 +114691,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradationwhich - (A0*
+degradationwhich - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-wewhich - (A0*
+wewhich - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -114719,9 +114719,9 @@ interaction - *
 surface - *)
 . - *
 
-nNOS - (A0*
+nNOS - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 . - *
 
 proteolysis - (A0*
@@ -114736,13 +114736,13 @@ Abeta - (A1*
 peptides - *)
 . - *
 
-degradation - (A0*
+degradation - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
 . - *
 
-we - (A0*
+we - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -114764,7 +114764,7 @@ interaction - *
 surface - *)
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 are - *
 generated generate (V*) *
 by - *
@@ -114998,7 +114998,7 @@ complex - *
 
 These - *
 are - *
-fumarate - (A1*
+fumarate - (A1*)
 reductase - *
 (encoded - *
 by - *
@@ -115025,7 +115025,7 @@ aspartate - *
 
 These - *
 are - *
-fumarate - (A1*
+fumarate - (A1*)
 reductase - *
 (encoded - *
 by - *
@@ -115052,7 +115052,7 @@ aspartate - *
 
 These - *
 are - *
-fumarate - (A1*
+fumarate - (A1*)
 reductase - *
 (encoded - *
 by - *
@@ -115080,7 +115080,7 @@ aspartate - *
 
 These - *
 are - *
-fumarate - (A1*
+fumarate - (A1*)
 reductase - *
 (encoded - *
 by - *
@@ -115106,7 +115106,7 @@ and - *
 aspartate - *
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 from - *
 malate - *
 and - *
@@ -115125,7 +115125,7 @@ fumarase - (A0*
 B - *)
 . - *
 
-fumarate - (A1*
+fumarate - (A1*)
 from - *
 malate - *
 and - *
@@ -115642,9 +115642,9 @@ the - *
 absence - *
 of - *
 L-arginine - *
-nNOS - (A0*
+nNOS - (A0*)
 generates generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 . - *
 
@@ -115653,9 +115653,9 @@ the - *
 absence - *
 of - *
 L-arginine - *
-nNOS - (A0*
+nNOS - (A0*)
 generated generate (V*) *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 . - *
 
@@ -115664,12 +115664,12 @@ the - *
 absence - *
 of - *
 L-arginine - *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 is - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 In - *
@@ -115677,12 +115677,12 @@ the - *
 absence - *
 of - *
 L-arginine - *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 was - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 In - *
@@ -115690,13 +115690,13 @@ the - *
 absence - *
 of - *
 L-arginine - *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 has - *
 been - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 In - *
@@ -115704,13 +115704,13 @@ the - *
 absence - *
 of - *
 L-arginine - *
-superoxide - (A1*
+superoxide - (A1*)
 (O(2)-) - *
 will - *
 be - *
 generated generate (V*) *
 by - *
-nNOS - (A0*
+nNOS - (A0*)
 . - *
 
 Abeta - (A1*
@@ -115806,7 +115806,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-degradation - (A0*
+degradation - (A0*)
 although - *
 again - *
 the - *
@@ -115848,7 +115848,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-degradation - (A0*
+degradation - (A0*)
 although - *
 again - *
 the - *
@@ -115884,7 +115884,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-degradation - (A0*
+degradation - (A0*)
 although - *
 again - *
 the - *
@@ -115920,7 +115920,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-degradation - (A0*
+degradation - (A0*)
 although - *
 again - *
 the - *
@@ -115957,7 +115957,7 @@ fragments - *
 as - *
 evidence - *
 of - *
-degradation - (A0*
+degradation - (A0*)
 although - *
 again - *
 the - *
@@ -115989,7 +115989,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-we - (A0*
+we - (A0*)
 generate generate (V*) *
 a - (A1*
 monoclonal - *
@@ -116008,7 +116008,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-we - (A0*
+we - (A0*)
 that - *
 generated generate (V*) *
 a - (A1*
@@ -116028,7 +116028,7 @@ FHL2 - *
 in - *
 human - *
 tissues - *
-we - (A0*
+we - (A0*)
 that - *
 generate generate (V*) *
 a - (A1*
@@ -116038,7 +116038,7 @@ against - *
 FHL2 - *)
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -116059,7 +116059,7 @@ by - *
 us - *
 . - *
 
-To - (A0*
+To - (A0*)
 analyse - *
 specifically - *
 protein - *
@@ -116299,7 +116299,7 @@ III - *
 Dicer - *
 . - *
 
-superoxide - (A1*
+superoxide - (A1*)
 were - *
 generated generate (V*) *
 by - *
@@ -116339,7 +116339,7 @@ monoclonal - *
 antibody - *
 against - *
 FHL2 - *)
-were - (A0*
+were - (A0*)
 generated generate (V*) *
 by - *
 The - *
@@ -116391,7 +116391,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-degradation - (A0*
+degradation - (A0*)
 has - *
 been - *
 shown - *
@@ -116407,7 +116407,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-we - (A0*
+we - (A0*)
 has - *
 been - *
 shown - *
@@ -116468,7 +116468,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-degradation - (A0*
+degradation - (A0*)
 generates generate (V*) *
 specific - (A1*
 fragments - *)
@@ -116480,7 +116480,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-we - (A0*
+we - (A0*)
 generates generate (V*) *
 a - (A1*
 monoclonal - *
@@ -116533,7 +116533,7 @@ the - *
 absence - *
 of - *
 L-arginine - *
-degradation - (A0*
+degradation - (A0*)
 generated generate (V*) *
 specific - (A1*
 fragments - *)
@@ -116566,7 +116566,7 @@ aspartate-ammonia - (A0*
 lyase - *)
 which - *
 generates generate (V*) *
-fumarate; - (A1*
+fumarate; - (A1*)
 and - *
 the - *
 dcuSR - *
@@ -116604,7 +116604,7 @@ aspartate-ammonia - (A0*
 lyase - *)
 which - *
 generated generate (V*) *
-fumarate; - (A1*
+fumarate; - (A1*)
 and - *
 the - *
 dcuSR - *
@@ -116641,7 +116641,7 @@ encoding - *
 aspartate-ammonia - (A0*
 lyase - *)
 generating generate (V*) *
-fumarate; - (A1*
+fumarate; - (A1*)
 and - *
 the - *
 dcuSR - *
@@ -116680,7 +116680,7 @@ lyase - *)
 which - *
 has - *
 generated generate (V*) *
-fumarate; - (A1*
+fumarate; - (A1*)
 and - *
 the - *
 dcuSR - *
@@ -116718,7 +116718,7 @@ aspartate-ammonia - (A0*
 lyase - *)
 will - *
 generate generate (V*) *
-fumarate; - (A1*
+fumarate; - (A1*)
 and - *
 the - *
 dcuSR - *
@@ -116730,7 +116730,7 @@ regulatory - *
 system - *
 . - *
 
-Prnd - (A0*
+Prnd - (A0*)
 generated generate (V*) *
 major - (A1*
 transcripts - *
@@ -116800,7 +116800,7 @@ with - *
 Prnp - *
 . - *
 
-Prnd - (A0*
+Prnd - (A0*)
 which - *
 generate generate (V*) *
 major - (A1*
@@ -116825,7 +116825,7 @@ with - *
 Prnp - *
 . - *
 
-Prnd - (A0*
+Prnd - (A0*)
 which - *
 generated generate (V*) *
 major - (A1*
@@ -117581,7 +117581,7 @@ with - (A0*
 EDTA - *)
 will - *
 inhibit inhibit (V*) *
-Binding - (A2*
+Binding - (A2*)
 . - *
 
 GadX - *
@@ -117623,7 +117623,7 @@ cells - *
 was - *
 also - *
 inhibited inhibit (V*) *
-GadW - (A0*
+GadW - (A0*)
 . - *
 
 GadX-dependent - (A2*
@@ -117637,7 +117637,7 @@ cells - *
 is - *
 also - *
 inhibited inhibit (V*) *
-GadW - (A0*
+GadW - (A0*)
 . - *
 
 GadX-dependent - (A2*
@@ -117652,7 +117652,7 @@ has - *
 also - *
 been - *
 inhibited inhibit (V*) *
-GadW - (A0*
+GadW - (A0*)
 . - *
 
 GadX-dependent - (A2*
@@ -117667,7 +117667,7 @@ wil - *
 be - *
 also - *
 inhibited inhibit (V*) *
-GadW - (A0*
+GadW - (A0*)
 . - *
 
 GadX - *
@@ -117826,7 +117826,7 @@ with - (A0*
 EDTA - *)
 has - *
 inhibited inhibit (V*) *
-Binding - (A2*
+Binding - (A2*)
 . - *
 
 GadX - *
@@ -118013,7 +118013,7 @@ with - (A0*
 EDTA - *)
 that - *
 inhibits inhibit (V*) *
-Binding - (A2*
+Binding - (A2*)
 . - *
 
 GadX - *
@@ -118207,7 +118207,7 @@ EDTA - *)
 that - *
 will - *
 inhibit inhibit (V*) *
-Binding - (A2*
+Binding - (A2*)
 . - *
 
 Here - (A2*
@@ -118248,10 +118248,10 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 inhibits inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118293,10 +118293,10 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 inhibited inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118339,11 +118339,11 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 will - *
 inhibit inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118386,11 +118386,11 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 has - *
 inhibited inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118433,11 +118433,11 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 which - *
 inhibits inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118480,11 +118480,11 @@ carbon - *
 sources - *
 and - *
 that - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 which - *
 inhibited inhibit (V*) *
 the - *
-them - (A1*
+them - (A1*)
 activity - *
 . - *
 
@@ -118800,7 +118800,7 @@ syndaphin - *
 I - *)
 . - *
 
-Binding - (A2*
+Binding - (A2*)
 in - *
 transiently - *
 transfected - *
@@ -118935,7 +118935,7 @@ syndaphin - *
 I - *)
 . - *
 
-Binding - (A2*
+Binding - (A2*)
 in - *
 transiently - *
 transfected - *
@@ -119112,7 +119112,7 @@ with - (A0*
 10mM - *
 EDTA - *)
 inhibits inhibit (V*) *
-Binding - (A2*
+Binding - (A2*)
 . - *
 
 GadX - *
@@ -119898,7 +119898,7 @@ glnAp2 - *)
 is - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -119914,7 +119914,7 @@ ArcA - *
 Polymerases - (A3*
 that - *
 initiate - *
-transcription - (A1*
+transcription - (A1*)
 with - *
 RSF - *
 can - *
@@ -119935,7 +119935,7 @@ transcription) - *
 Polymerases - (A3*
 that - *
 initiated - *
-transcription - (A1*
+transcription - (A1*)
 with - *
 RSF - *
 can - *
@@ -119957,7 +119957,7 @@ Polymerases - (A3*
 that - *
 will - *
 initiate - *
-transcription - (A1*
+transcription - (A1*)
 with - *
 RSF - *
 can - *
@@ -119979,7 +119979,7 @@ Polymerases - (A3*
 that - *
 has - *
 initiated - *
-transcription - (A1*
+transcription - (A1*)
 with - *
 RSF - *
 can - *
@@ -120001,7 +120001,7 @@ transcription - *)
 was - *
 initiated - *
 by - *
-Polymerases - (A0*
+Polymerases - (A0*)
 in - *
 the - *
 presence - *
@@ -120016,7 +120016,7 @@ transcription - (A3*
 is - *
 initiated - *
 by - *
-Polymerases - (A0*
+Polymerases - (A0*)
 in - *
 the - *
 presence - *
@@ -120301,7 +120301,7 @@ at - *
 any - *
 pH - *
 while - *
-GadW - (A0*
+GadW - (A0*)
 inhibits inhibit (V*) *
 GadX-dependent - (A2*
 activation - *)
@@ -120318,7 +120318,7 @@ at - *
 any - *
 pH - *
 while - *
-GadW - (A0*
+GadW - (A0*)
 will - *
 inhibit inhibit (V*) *
 GadX-dependent - (A2*
@@ -120336,7 +120336,7 @@ at - *
 any - *
 pH - *
 while - *
-GadW - (A0*
+GadW - (A0*)
 has - *
 inhibited inhibit (V*) *
 GadX-dependent - (A2*
@@ -120354,7 +120354,7 @@ at - *
 any - *
 pH - *
 while - *
-GadW - (A0*
+GadW - (A0*)
 that - *
 inhibits inhibit (V*) *
 GadX-dependent - (A2*
@@ -120372,7 +120372,7 @@ at - *
 any - *
 pH - *
 while - *
-GadW - (A0*
+GadW - (A0*)
 that - *
 will - *
 inhibit inhibit (V*) *
@@ -120584,7 +120584,7 @@ by - *
 is - *
 inhibited inhibit (V*) *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 . - *
 
 sigma - (A1*
@@ -120597,7 +120597,7 @@ by - *
 was - *
 inhibited inhibit (V*) *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 . - *
 
 Functional - (A2*
@@ -121632,7 +121632,7 @@ syndaphin - *
 I - *
 . - *
 
-The - (A2*
+The - (A2*)
 half-life - *)
 of - *
 the - *
@@ -121680,7 +121680,7 @@ protein - *
 synthesis - *
 . - *
 
-The - (A2*
+The - (A2*)
 half-life - *)
 of - *
 the - *
@@ -121728,7 +121728,7 @@ mg/ml - *
 chloramphenicol - *
 . - *
 
-The - (A2*
+The - (A2*)
 half-life - *)
 of - *
 the - *
@@ -121776,7 +121776,7 @@ mg/ml - *
 chloramphenicol - *
 . - *
 
-The - (A2*
+The - (A2*)
 half-life - *)
 of - *
 the - *
@@ -121825,7 +121825,7 @@ mg/ml - *
 chloramphenicol - *
 . - *
 
-The - (A2*
+The - (A2*)
 half-life - *)
 of - *
 the - *
@@ -121916,7 +121916,7 @@ syndaphin - *
 I - *)
 . - *
 
-Binding - (A2*
+Binding - (A2*)
 in - *
 transiently - *
 transfected - *
@@ -122057,7 +122057,7 @@ syndaphin - *
 I - *)
 . - *
 
-Binding - (A2*
+Binding - (A2*)
 in - *
 transiently - *
 transfected - *
@@ -122083,7 +122083,7 @@ will - *
 be - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -122215,7 +122215,7 @@ has - *
 been - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -122345,7 +122345,7 @@ glnAp2 - *)
 was - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -122425,7 +122425,7 @@ which - *
 is - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -122533,7 +122533,7 @@ which - *
 was - *
 initiated - *
 by - *
-CRP-cAMP - (A0*
+CRP-cAMP - (A0*)
 followed - *
 by - *
 phosphoryl - *
@@ -128360,7 +128360,7 @@ the - *
 protein - *
 . - *
 
-G979A - (A2*
+G979A - (A2*)
 affects - *
 a - *
 splice - *
@@ -128395,7 +128395,7 @@ domain - *
 (R496S) - *
 . - *
 
-G979A - (A2*
+G979A - (A2*)
 affects - *
 a - *
 splice - *
@@ -128431,7 +128431,7 @@ domain - *
 (R496S) - *
 . - *
 
-G979A - (A2*
+G979A - (A2*)
 affects - *
 a - *
 splice - *
@@ -128467,7 +128467,7 @@ domain - *
 (R496S) - *
 . - *
 
-G979A - (A2*
+G979A - (A2*)
 affects - *
 a - *
 splice - *
@@ -128503,7 +128503,7 @@ domain - *
 (R496S) - *
 . - *
 
-G979A - (A2*
+G979A - (A2*)
 affects - *
 a - *
 splice - *
@@ -130331,7 +130331,7 @@ only - *
 modest - *
 amounts - *
 of - *
-weight - (A1*
+weight - (A1*)
 would - *
 lead - *
 them - *
@@ -130358,7 +130358,7 @@ only - *
 modest - *
 amounts - *
 of - *
-weight - (A1*
+weight - (A1*)
 would - *
 lead - *
 them - *
@@ -130385,7 +130385,7 @@ only - *
 modest - *
 amounts - *
 of - *
-weight - (A1*
+weight - (A1*)
 would - *
 lead - *
 them - *
@@ -130413,7 +130413,7 @@ only - *
 modest - *
 amounts - *
 of - *
-weight - (A1*
+weight - (A1*)
 would - *
 lead - *
 them - *
@@ -131252,9 +131252,9 @@ us - *
 to - *
 conclude - *
 that - *
-EnvZ - (A0*
+EnvZ - (A0*)
 and - *
-OmpR - (A1*
+OmpR - (A1*)
 act - *
 in - *
 sequential - *
@@ -131292,9 +131292,9 @@ us - *
 to - *
 conclude - *
 that - *
-EnvZ - (A0*
+EnvZ - (A0*)
 and - *
-OmpR - (A1*
+OmpR - (A1*)
 act - *
 in - *
 sequential - *
@@ -131332,9 +131332,9 @@ us - *
 to - *
 conclude - *
 that - *
-EnvZ - (A0*
+EnvZ - (A0*)
 and - *
-OmpR - (A1*
+OmpR - (A1*)
 act - *
 in - *
 sequential - *
@@ -131373,9 +131373,9 @@ us - *
 to - *
 conclude - *
 that - *
-EnvZ - (A0*
+EnvZ - (A0*)
 and - *
-OmpR - (A1*
+OmpR - (A1*)
 act - *
 in - *
 sequential - *
@@ -132088,7 +132088,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132481,7 +132481,7 @@ will - *
 be - *
 mutated mutate (V*) *
 to - *
-alanine - (A2*
+alanine - (A2*)
 have - (A3*
 substantial - *
 effects - *
@@ -132517,7 +132517,7 @@ has - *
 been - *
 mutated mutate (V*) *
 to - *
-alanine - (A2*
+alanine - (A2*)
 have - (A3*
 substantial - *
 effects - *
@@ -132552,7 +132552,7 @@ when - *
 are - *
 mutated mutate (V*) *
 to - *
-alanine - (A2*
+alanine - (A2*)
 have - (A3*
 substantial - *
 effects - *
@@ -132587,7 +132587,7 @@ when - *
 were - *
 mutated mutate (V*) *
 to - *
-alanine - (A2*
+alanine - (A2*)
 have - (A3*
 substantial - *
 effects - *
@@ -132621,7 +132621,7 @@ that - *
 when - *
 mutated mutate (V*) *
 to - *
-alanine - (A2*
+alanine - (A2*)
 have - (A3*
 substantial - *
 effects - *
@@ -132825,7 +132825,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132855,7 +132855,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132929,7 +132929,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132940,7 +132940,7 @@ that - *
 when - *
 mutated mutate (V*) *
 to - *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -132958,7 +132958,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132987,7 +132987,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -132999,7 +132999,7 @@ when - *
 were - *
 mutated mutate (V*) *
 to - *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -133017,7 +133017,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -133029,7 +133029,7 @@ when - *
 are - *
 mutated mutate (V*) *
 to - *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -133047,7 +133047,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -133060,7 +133060,7 @@ has - *
 been - *
 mutated mutate (V*) *
 to - *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -133078,7 +133078,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -133109,7 +133109,7 @@ acid - *
 residues - *
 on - *
 the - *
-p53 - (A0*
+p53 - (A0*)
 (Leu40 - *
 Ile70 - *
 Val73 - *
@@ -133122,7 +133122,7 @@ will - *
 be - *
 mutated mutate (V*) *
 to - *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -133181,7 +133181,7 @@ a - *
 mutation - *
 in - *
 the - *
-lacI - (A0*
+lacI - (A0*)
 gene - *
 will - *
 result - *
@@ -133206,7 +133206,7 @@ a - *
 mutation - *
 in - *
 the - *
-lacI - (A0*
+lacI - (A0*)
 gene - *
 will - *
 result - *
@@ -133232,7 +133232,7 @@ a - *
 mutation - *
 in - *
 the - *
-lacI - (A0*
+lacI - (A0*)
 gene - *
 will - *
 result - *
@@ -133263,7 +133263,7 @@ mutated mutate (V*) *
 form - *
 of - *
 WT-1) - *
-p53 - (A0*
+p53 - (A0*)
 and - *
 a - *
 mutated - *
@@ -133308,7 +133308,7 @@ mutated mutate (V*) *
 form - *
 of - *
 WT-1) - *
-p53 - (A0*
+p53 - (A0*)
 and - *
 a - *
 mutated - *
@@ -133354,7 +133354,7 @@ mutated mutate (V*) *
 form - *
 of - *
 WT-1) - *
-p53 - (A0*
+p53 - (A0*)
 and - *
 a - *
 mutated - *
@@ -133400,7 +133400,7 @@ mutated mutate (V*) *
 form - *
 of - *
 WT-1) - *
-p53 - (A0*
+p53 - (A0*)
 and - *
 a - *
 mutated - *
@@ -144090,7 +144090,7 @@ cells - *
 These - *
 observations - *
 show - *
-this - (A1*
+this - (A1*)
 is - *
 the - *
 result result (V*) *
@@ -145443,7 +145443,7 @@ mast - *
 cells - *
 resulted result (V*) *
 to - *
-this - (A1*
+this - (A1*)
 . - *
 
 the - (A0*
@@ -145457,7 +145457,7 @@ mast - *
 cells - *
 results result (V*) *
 to - *
-this - (A1*
+this - (A1*)
 . - *
 
 Exon - *)
@@ -145608,7 +145608,7 @@ super-repeat - *
 We - *
 speculated - *
 that - *
-this - (A1*
+this - (A1*)
 may - *
 be - *
 the - *
@@ -146652,7 +146652,7 @@ mutated - *
 cells - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -146679,7 +146679,7 @@ both - *
 genes - *)
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -146705,7 +146705,7 @@ both - *
 genes - *)
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 which - *
 prevent - *
 repressor - *
@@ -148188,7 +148188,7 @@ out - *
  - *
 . - *
 
-The - (A1*
+The - (A1*)
 mouse - *)
 polymeric - *
 immunoglobulin - *
@@ -148198,7 +148198,7 @@ has - *
 a - *
 654 - *
 nt - *
-exon - (A2*
+exon - (A2*)
 that - *
 will - *
 be - *
@@ -148209,7 +148209,7 @@ the - *
 mRNA - *
 . - *
 
-The - (A1*
+The - (A1*)
 mouse - *)
 polymeric - *
 immunoglobulin - *
@@ -148219,7 +148219,7 @@ has - *
 a - *
 654 - *
 nt - *
-exon - (A2*
+exon - (A2*)
 that - *
 has - *
 been - *
@@ -148230,7 +148230,7 @@ the - *
 mRNA - *
 . - *
 
-The - (A1*
+The - (A1*)
 mouse - *)
 polymeric - *
 immunoglobulin - *
@@ -148240,7 +148240,7 @@ has - *
 a - *
 654 - *
 nt - *
-exon - (A2*
+exon - (A2*)
 that - *
 was - *
 efficiently - *
@@ -150658,7 +150658,7 @@ divergently - *
 transcribed transcribe (V*) *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 has - *)
 transcribed transcribe (V*) *
@@ -150675,7 +150675,7 @@ factor - *
 CDF2 - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 will - *)
 transcribe transcribe (V*) *
@@ -150692,7 +150692,7 @@ factor - *
 CDF2 - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 that - *)
 transcribes transcribe (V*) *
@@ -150709,7 +150709,7 @@ factor - *
 CDF2 - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 that - *)
 transcribed transcribe (V*) *
@@ -150732,7 +150732,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 is - *
 transcribed transcribe (V*) *
 as - *
@@ -150760,7 +150760,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 was - *
 transcribed transcribe (V*) *
 as - *
@@ -150788,7 +150788,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 has - *
 been - *
 transcribed transcribe (V*) *
@@ -150817,7 +150817,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 will - *
 be - *
 transcribed transcribe (V*) *
@@ -150846,7 +150846,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 which - *
 is - *
 transcribed transcribe (V*) *
@@ -150875,7 +150875,7 @@ activated - *
 by - *
 growth - *
 on - *
-glycolate - (A0*
+glycolate - (A0*)
 which - *
 was - *
 transcribed transcribe (V*) *
@@ -151880,7 +151880,7 @@ and - *
 splicing - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 that - *)
 has - *
@@ -152024,7 +152024,7 @@ muscle - *
 kb) - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 that - *)
 will - *
@@ -152947,7 +152947,7 @@ polymerase - *
 (NEP) - *
 . - *
 
-NEP-2 - (A3*
+NEP-2 - (A3*)
 specifically - *
 transcribed - *)
 the - *
@@ -153007,7 +153007,7 @@ others - *
 have - *
 shown - *
 that - *)
-FGF8b - (A0*
+FGF8b - (A0*)
 will - *
 transform transform (V*) *
 the - *
@@ -153030,7 +153030,7 @@ others - *
 have - *
 shown - *
 that - *)
-FGF8b - (A0*
+FGF8b - (A0*)
 can - *
 transform transform (V*) *
 the - *
@@ -153299,7 +153299,7 @@ BL21 - *
 (Promega) - *)
 . - *
 
-To - (A0*
+To - (A0*)
 generate - *
 GST - *
 fusion - *
@@ -153325,7 +153325,7 @@ TOPP - *
 (Stratagene) - *)
 . - *
 
-To - (A0*
+To - (A0*)
 generate - *
 GST - *
 fusion - *
@@ -153351,7 +153351,7 @@ TOPP - *
 (Stratagene) - *)
 . - *
 
-To - (A0*
+To - (A0*)
 generate - *
 GST - *
 fusion - *
@@ -153450,7 +153450,7 @@ others - *
 have - *
 shown - *
 that - *)
-FGF8b - (A0*
+FGF8b - (A0*)
 could - *
 transform transform (V*) *
 the - *
@@ -153467,13 +153467,13 @@ midbrain - *
 development - *
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 will - *
 be - *
 transformed transform (V*) *
@@ -153484,13 +153484,13 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 which - *
 was - *
 transformed transform (V*) *
@@ -153501,13 +153501,13 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 which - *
 is - *
 transformed transform (V*) *
@@ -153518,13 +153518,13 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 that - *
 has - *
 been - *
@@ -153536,13 +153536,13 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 that - *
 will - *
 be - *
@@ -153657,13 +153657,13 @@ HF7c - *
 (Clontech) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 is - *
 transformed transform (V*) *
 into - (A2*
@@ -153673,13 +153673,13 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 has - *
 been - *
 transformed transform (V*) *
@@ -153718,7 +153718,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
 this - (A2*
@@ -153755,7 +153755,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
 differences - (A2*
@@ -153790,7 +153790,7 @@ cells - *
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 extracellular - (A2*
 signals - *)
@@ -153888,7 +153888,7 @@ specificity - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 the - (A2*
 functionscomplex - *)
@@ -154019,9 +154019,9 @@ specificity - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
-This - (A2*
+This - (A2*)
 faster - (A1*
 activation - *
 of - *
@@ -154145,7 +154145,7 @@ output - *
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 local - (A2*
 interactions - *
@@ -154200,7 +154200,7 @@ evolution - *
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 this - (A2*
 reduction - *
@@ -154287,7 +154287,7 @@ specificity - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 differences - (A2*
 between - *
@@ -154310,7 +154310,7 @@ responses - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 extracellular - (A2*
 signals - *)
@@ -154321,7 +154321,7 @@ functions - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 the - (A2*
 functionscomplex - *)
@@ -154334,9 +154334,9 @@ homologs - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
-This - (A2*
+This - (A2*)
 faster - (A1*
 activation - *
 of - *
@@ -154347,7 +154347,7 @@ fibres - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 local - (A2*
 interactions - *
@@ -154359,7 +154359,7 @@ behaviors - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 this - (A2*
 reduction - *
@@ -154370,7 +154370,7 @@ survival - *)
 . - *
 
 Thus - *
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 differences - (A2*
 between - *
@@ -154397,7 +154397,7 @@ signals - *)
 is - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
@@ -154408,7 +154408,7 @@ the - (A2*
 functionsis - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 complex - (A1*
 differential - *
 modulations - *
@@ -154418,10 +154418,10 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-Thisis - (A2*
+Thisis - (A2*)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 faster - (A1*
 activation - *
 of - *
@@ -154438,7 +154438,7 @@ individuals - *)
 is - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 group - (A1*
 behaviors - *)
  - *
@@ -154451,7 +154451,7 @@ liver - *
 injuryis - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 improved - (A1*
 survival - *)
 . - *
@@ -154469,7 +154469,7 @@ binding - *
 assayis - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 huge - (A1*
 differences - *
 in - *
@@ -154485,7 +154485,7 @@ signals - *)
 was - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
@@ -154496,7 +154496,7 @@ the - (A2*
 functionswas - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 complex - (A1*
 differential - *
 modulations - *
@@ -154506,10 +154506,10 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-Thiswas - (A2*
+Thiswas - (A2*)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 faster - (A1*
 activation - *
 of - *
@@ -154526,7 +154526,7 @@ individuals - *)
 was - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 group - (A1*
 behaviors - *)
  - *
@@ -154539,7 +154539,7 @@ liver - *
 injurywas - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 improved - (A1*
 survival - *)
 . - *
@@ -154557,7 +154557,7 @@ binding - *
 assaywas - *)
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 huge - (A1*
 differences - *
 in - *
@@ -154574,7 +154574,7 @@ has - *
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
@@ -154586,7 +154586,7 @@ functionshas - *)
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 complex - (A1*
 differential - *
 modulations - *
@@ -154596,11 +154596,11 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-Thishas - (A2*
+Thishas - (A2*)
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 faster - (A1*
 activation - *
 of - *
@@ -154618,7 +154618,7 @@ has - *
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 group - (A1*
 behaviors - *)
  - *
@@ -154632,7 +154632,7 @@ injuryhas - *)
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 improved - (A1*
 survival - *)
 . - *
@@ -154743,7 +154743,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
 extracellular - (A2*
 signals - *)
@@ -155543,7 +155543,7 @@ targeting - *
 specificity - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 with - *
 high - *
@@ -155556,7 +155556,7 @@ cellular - *
 functions - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translate translate (V*) *
 with - *
 high - *
@@ -155574,7 +155574,7 @@ signals - *)
 are - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
@@ -155586,14 +155586,14 @@ signals - *)
 were - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
 functions - *)
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 our - *
 data - *
@@ -155622,7 +155622,7 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 our - *
 data - *
@@ -155652,7 +155652,7 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 our - *
 data - *
@@ -155682,7 +155682,7 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-This - (A2*
+This - (A2*)
 translated translate (V*) *
 into - *
 faster - (A1*
@@ -155701,7 +155701,7 @@ power - *
 output - *
 . - *
 
-This - (A2*
+This - (A2*)
 translates translate (V*) *
 into - *
 faster - (A1*
@@ -155720,7 +155720,7 @@ power - *
 output - *
 . - *
 
-This - (A2*
+This - (A2*)
 has - *
 translated translate (V*) *
 into - *
@@ -155740,7 +155740,7 @@ power - *
 output - *
 . - *
 
-This - (A2*
+This - (A2*)
 will - *
 translate translate (V*) *
 into - *
@@ -155890,7 +155890,7 @@ social - *
 evolution - *
 . - *
 
-Interestingly - (A0*
+Interestingly - (A0*)
 this - (A2*
 reduction - *
 in - *
@@ -155904,7 +155904,7 @@ improved - (A1*
 survival - *)
 . - *
 
-Interestingly - (A0*
+Interestingly - (A0*)
 this - (A2*
 reduction - *
 in - *
@@ -155918,7 +155918,7 @@ improved - (A1*
 survival - *)
 . - *
 
-Interestingly - (A0*
+Interestingly - (A0*)
 this - (A2*
 reduction - *
 in - *
@@ -155930,7 +155930,7 @@ improved - (A1*
 survival - *)
 . - *
 
-Interestingly - (A0*
+Interestingly - (A0*)
 this - (A2*
 reduction - *
 in - *
@@ -156030,7 +156030,7 @@ assayhas - *)
 been - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 huge - (A1*
 differences - *
 in - *
@@ -156047,7 +156047,7 @@ will - *
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 into - (A1*
 specific - *
 cellular - *
@@ -156059,7 +156059,7 @@ functionswill - *)
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 complex - (A1*
 differential - *
 modulations - *
@@ -156069,11 +156069,11 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-Thiswill - (A2*
+Thiswill - (A2*)
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 faster - (A1*
 activation - *
 of - *
@@ -156091,7 +156091,7 @@ will - *
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 group - (A1*
 behaviors - *)
  - *
@@ -156105,7 +156105,7 @@ injurywill - *)
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 improved - (A1*
 survival - *)
 . - *
@@ -156124,7 +156124,7 @@ assaywill - *)
 be - *
 translated translate (V*) *
 by - *
-Cells - (A0*
+Cells - (A0*)
 huge - (A1*
 differences - *
 in - *
@@ -156175,7 +156175,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 extracellular - (A2*
 signals - *)
@@ -156212,7 +156212,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 the - (A2*
 functions - *)
@@ -156357,9 +156357,9 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
-This - (A2*
+This - (A2*)
 from - *
 faster - (A1*
 activation - *
@@ -156482,7 +156482,7 @@ power - *
 output - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 local - (A2*
 interactions - *
@@ -156549,7 +156549,7 @@ social - *
 evolution - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 this - (A2*
 reduction - *
@@ -156621,7 +156621,7 @@ specificity - *
 indistinguishable - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translated translate (V*) *
 differences - (A2*
 between - *
@@ -156654,7 +156654,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
 the - (A2*
 functions - *)
@@ -156677,9 +156677,9 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
-This - (A2*
+This - (A2*)
 from - *
 faster - (A1*
 activation - *
@@ -156699,7 +156699,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
 local - (A2*
 interactions - *
@@ -156721,7 +156721,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
 this - (A2*
 reduction - *
@@ -156742,7 +156742,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 translates translate (V*) *
 differences - (A2*
 between - *
@@ -156801,7 +156801,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
 extracellular - (A2*
@@ -156823,7 +156823,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
 the - (A2*
@@ -156847,10 +156847,10 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
-This - (A2*
+This - (A2*)
 from - *
 faster - (A1*
 activation - *
@@ -156870,7 +156870,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
 local - (A2*
@@ -156893,7 +156893,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
 this - (A2*
@@ -156915,7 +156915,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 has - *
 translated translate (V*) *
 differences - (A2*
@@ -156975,7 +156975,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
 extracellular - (A2*
@@ -156997,7 +156997,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
 the - (A2*
@@ -157021,10 +157021,10 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
-This - (A2*
+This - (A2*)
 from - *
 faster - (A1*
 activation - *
@@ -157044,7 +157044,7 @@ HeLa - *
 cells - *
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 will - *
 translate translate (V*) *
 local - (A2*
@@ -157855,7 +157855,7 @@ Genome - *
 Project - *)
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -157878,7 +157878,7 @@ pressure - *
 reduction - *)
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -157902,7 +157902,7 @@ pressure - *
 reduction - *)
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -157926,7 +157926,7 @@ pressure - *
 reduction - *)
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -157949,7 +157949,7 @@ pressure - *
 reduction - *)
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -158062,7 +158062,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 has - *
 been - *
@@ -158135,7 +158135,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 will - *
 be - *
@@ -158229,7 +158229,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 is - *
 truncated - *
@@ -158255,7 +158255,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 was - *
 truncated - *
@@ -158281,7 +158281,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 has - *
 been - *
 truncated - *
@@ -158307,7 +158307,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 will - *
 be - *
 truncated - *
@@ -158333,7 +158333,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 is - *
 truncated - *
 prior - (A3*
@@ -158358,7 +158358,7 @@ To - *
 generate - *
 this - *
 protein - *
-PVR - (A1*
+PVR - (A1*)
 was - *
 truncated - *
 prior - (A3*
@@ -158404,7 +158404,7 @@ or - *
 773 - *)
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 that - *
 were - *
 truncated - *
@@ -158798,7 +158798,7 @@ and - *
 1) - *
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 that - *
 are - *
 truncated - *
@@ -158821,7 +158821,7 @@ proline - *
 residues - *)
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 has - *
 been - *
 truncated - *
@@ -158844,7 +158844,7 @@ proline - *
 residues - *)
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 will - *
 be - *
 truncated - *
@@ -158867,7 +158867,7 @@ proline - *
 residues - *)
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 were - *
 truncated - *
 prior - (A3*
@@ -158914,7 +158914,7 @@ proline - *
 residues - *)
 . - *
 
-PVR - (A1*
+PVR - (A1*)
 are - *
 truncated - *
 prior - (A3*
@@ -159651,7 +159651,7 @@ version - *
 of - *
 alpha - *
 ( - *
-ALK4 - (A1*
+ALK4 - (A1*)
 ) - *
 and - *
 alanine - *
@@ -159692,7 +159692,7 @@ context - *
 of - *
 the - *
 truncated - *
-alpha-Delt235 - (A1*
+alpha-Delt235 - (A1*)
 ( - *
 ALK4-trunc - *
 ) - *
@@ -159754,7 +159754,7 @@ version - *
 of - *
 alpha - *
 ( - *
-protein - (A1*
+protein - (A1*)
 ) - *
 and - *
 alanine - *
@@ -159773,7 +159773,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-alpha-Delt235 - (A1*
+alpha-Delt235 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -159812,7 +159812,7 @@ structure - *
 of - *
 bone - *
 morphogenetic - *
-protein-2 - (A1*
+protein-2 - (A1*)
 bound - *
 to - *
 its - *
@@ -159865,7 +159865,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-ALK4 - (A1*
+ALK4 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -159906,7 +159906,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-alpha-Delt235 - (A1*
+alpha-Delt235 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -159946,7 +159946,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-ALK4 - (A1*
+ALK4 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -159986,7 +159986,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-alpha-Delt235 - (A1*
+alpha-Delt235 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -160026,7 +160026,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-ALK4 - (A1*
+ALK4 - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -160066,7 +160066,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 is - *
 also - *
@@ -160086,7 +160086,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 which - *
 was - *
 also - *
@@ -160106,7 +160106,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 will - *
 also - *
 be - *
@@ -160126,7 +160126,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 has - *
 also - *
 been - *
@@ -160146,7 +160146,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 is - *
 also - *
 truncated - *
@@ -160455,7 +160455,7 @@ molecule - *)
 in - *
 which - *
 the - *
-C-terminus - (A2*
+C-terminus - (A2*)
 has - *
 been - *
 truncated - *
@@ -160502,7 +160502,7 @@ molecule - *)
 in - *
 which - *
 the - *
-C-terminus - (A2*
+C-terminus - (A2*)
 will - *
 be - *
 truncated - *
@@ -160549,7 +160549,7 @@ molecule - *)
 in - *
 which - *
 the - *
-C-terminus - (A2*
+C-terminus - (A2*)
 is - *
 truncated - *
 at - (A3*
@@ -160596,7 +160596,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -160618,7 +160618,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -160640,7 +160640,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -160664,7 +160664,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -160685,7 +160685,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -161123,7 +161123,7 @@ version - *
 of - *
 alpha - *
 ( - *
-alpha-Delt235 - (A1*
+alpha-Delt235 - (A1*)
 ) - *
 and - *
 alanine - *
@@ -161164,7 +161164,7 @@ context - *
 of - *
 the - *
 truncated - *
-ALK4 - (A1*
+ALK4 - (A1*)
 ( - *
 ALK4-trunc - *
 ) - *
@@ -161193,7 +161193,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-protein - (A1*
+protein - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -161234,7 +161234,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-protein - (A1*
+protein - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -161274,7 +161274,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-protein - (A1*
+protein - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -161314,7 +161314,7 @@ that - *
 the - *
 full-length - *
 BCL6 - *
-protein - (A1*
+protein - (A1*)
 extracted - *
 from - *
 transfected - *
@@ -161739,3 +161739,4 @@ were - *
 not - *
 expressed - *
 . - *
+

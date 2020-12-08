@@ -247,7 +247,7 @@ bp - *
 promoter - *)
 completely - *
 abolished abolish (V*) *
-synergy - (A1*
+synergy - (A1*)
 indicating - *
 that - *
 this - *
@@ -330,7 +330,7 @@ al - *
 1999) - *
 . - *
 
-Mutations - (A0*
+Mutations - (A0*)
 that - *
 alter alter (V*) *
 splice - (A1*
@@ -429,7 +429,7 @@ variant - *
 genes - *
 . - *
 
-Cytokines - (A0*
+Cytokines - (A0*)
 alter alter (V*) *
 the - (A1*
 expression - *
@@ -447,7 +447,7 @@ cell - *
 lines; - *)
 analysis - *
 using - *
-RT-PCR - (A3*
+RT-PCR - (A3*)
 and - *
 cDNA - *
 microarrays - *
@@ -461,7 +461,7 @@ are - *
 in - *
 opposing - *
 directions - *
-they - (A0*
+they - (A0*)
 do - *
 not - *
 alter alter (V*) *
@@ -539,7 +539,7 @@ is - *
 predicted - *
 to - *
 alter alter (V*) *
-splicing - (A1*
+splicing - (A1*)
 we - *
 looked - *
 at - *
@@ -823,7 +823,7 @@ different - *
 RNA - *
 polymerases - *
 because - *
-it - (A0*
+it - (A0*)
 blocks block (V*) *
 RNA - (A1*
 polymerase - *
@@ -855,7 +855,7 @@ for - *
 agrin-mediated - *
 signaling - *
 since - *
-staurosporine - (A0*
+staurosporine - (A0*)
 blocks block (V*) *
 agrin-induced - (A1*
 AChR - *
@@ -874,7 +874,7 @@ al - *
 1997) - *
 . - *
 
-Labeling - (A1*
+Labeling - (A1*)
 with - *
 antibodies - *
 to - *
@@ -897,7 +897,7 @@ the - *
 phosphopeptide - *)
 . - *
 
-Membranes - (A1*
+Membranes - (A1*)
 were - *
 blocked block (V*) *
 in - *
@@ -995,7 +995,7 @@ P450 - *
 (CYP3A) - *)
 . - *
 
-Helicases - (A0*
+Helicases - (A0*)
 not - *
 only - *
 catalyse catalyse (V*) *
@@ -1242,7 +1242,7 @@ of - *
 carboxyl - *
 sequences - *
 in - *
-Stat1 - (A2*
+Stat1 - (A2*)
 since - *
 the - (A1*
 Stat5 - *
@@ -1285,7 +1285,7 @@ the - *
 of - *
 guanine - *
 confers confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 alkylation - *
 chemotherapies - *)
@@ -1305,7 +1305,7 @@ levels - *
 parallel - *
 acquired - *
 alkylation - *
-resistance - (A1*
+resistance - (A1*)
 in - *
 human - *
 tumors - *
@@ -1393,7 +1393,7 @@ Gly156 - *
 and - *
 Lys165 - *)
 confer confer (V*) *
-resistance - (A1*
+resistance - (A1*)
 to - (A2*
 06-BG - *)
 through - *
@@ -1407,7 +1407,7 @@ of - *
 the - *
 STATs - *)
 conferring confer (V*) *
-specificity - (A1*
+specificity - (A1*)
 for - (A2*
 either - *
 a - *
@@ -1650,7 +1650,7 @@ controls - *
 
 In - (A0*
 contrast - *
-GP - (A1*
+GP - (A1*)
 only - *
 decreased decrease (V*) *
 by - (A2*
@@ -1714,7 +1714,7 @@ by - *
 exons - *
 3-12) - *
 generates - *
-transcripts - (A2*
+transcripts - (A2*)
 which - *
 delete delete (V*) *
 exons - (A1*
@@ -2023,7 +2023,7 @@ considered - *
 less - *
 likely - *
 with - *
-vectors - (A2*
+vectors - (A2*)
 that - *
 delete delete (V*) *
 the - (A1*
@@ -2140,7 +2140,7 @@ cells - *
 either - *
 by - *
 deleting delete (V*) *
-them - (A1*
+them - (A1*)
 or - *
 by - *
 expanding - *
@@ -2156,7 +2156,7 @@ albicans - *
 cells - *)
 deleted delete (V*) *
 for - *
-CST20 - (A1*
+CST20 - (A1*)
 revealed - *
 defects - *
 in - *
@@ -2318,7 +2318,7 @@ Pin1 - *
 - - *
 / - *
 - - *
-mice - (A1*
+mice - (A1*)
 have - *
 previously - *
 been - *
@@ -2371,7 +2371,7 @@ of - *
 November - *
 . - *
 
-It - (A1*
+It - (A1*)
 is - *
 planted - *
 from - *
@@ -2435,7 +2435,7 @@ homozygous - *
 mutation - *)
 that - *
 disrupts disrupt (V*) *
-splicing - (A1*
+splicing - (A1*)
 has - *
 been - *
 identified - *
@@ -2532,7 +2532,7 @@ reading - *
 frame	 - *)
 . - *
 
-R142X - (A0*
+R142X - (A0*)
 located - *
 within - *
 a - *
@@ -3024,7 +3024,7 @@ Grb2 - *
 significantly - *
 reduced - *
 SH3A - *
-binding - (A1*
+binding - (A1*)
 to - *
 mSos1 - *
 in - *
@@ -3169,7 +3169,7 @@ with - *
 MG132 - *)
 . - *
 
-Supt4h2 - (A1*
+Supt4h2 - (A1*)
 encodes encode (V*) *
 a - (A2*
 117 - *
@@ -3257,7 +3257,7 @@ functional - *
 splicing - *
 of - *
 a - *
-pre-mRNA - (A1*
+pre-mRNA - (A1*)
 encoding encode (V*) *
 a - (A2*
 multipass - *
@@ -3330,7 +3330,7 @@ chromosome - *
 . - *
 
 Expression - *)
-SBP2 - (A2*
+SBP2 - (A2*)
 Northern - *
 analysis - *
 of - *
@@ -3667,7 +3667,7 @@ hand - *
 encode - *
 gag - *
 and - *
-pol - (A1*
+pol - (A1*)
 in - *
 separate - *
 reading - *
@@ -3683,7 +3683,7 @@ or - *
 frameshifting - *
 . - *
 
-The - (A2*
+The - (A2*)
 mechanotransduction - *
 mechanism - *
 for - *)
@@ -3707,18 +3707,18 @@ is - *
 unable - *
 to - *
 express express (V*) *
-MGF - (A1*
+MGF - (A1*)
 in - *
 response - *
 to - *
 overload - *
 . - *
 
-RCAS - (A2*
+RCAS - (A2*)
 viruses - *
 infect - *
 only - *
-cells - (A3*
+cells - (A3*)
 engineered - *)
 to - *
 express express (V*) *
@@ -3732,7 +3732,7 @@ TVA - *
 
 In - *)
 summary - *
-NNT-1/BSF-3 - (A2*
+NNT-1/BSF-3 - (A2*)
 is - *
 expressed express (V*) *
 in - (A3*
@@ -3757,7 +3757,7 @@ cortex - *
 of - *
 adult - *
 animals - *
-Reln - (A1*
+Reln - (A1*)
 is - *
 expressed express (V*) *
 primarily - *
@@ -3873,7 +3873,7 @@ cell - *
 surface - *
 . - *
 
-Prnd - (A0*
+Prnd - (A0*)
 generates generate (V*) *
 major - (A1*
 transcripts - *
@@ -3999,7 +3999,7 @@ PCR - *
 conditions - *
 . - *
 
-In - (A1*
+In - (A1*)
 the - *)
 absence - *
 of - *
@@ -4213,7 +4213,7 @@ binding - *
 
 This - (A2*
 synthetic - *
-peptide - (A1*
+peptide - (A1*)
 bound - *
 to - *
 P - *
@@ -4541,14 +4541,14 @@ them - *
 with - *
 50 - *
 mg/ml - *
-chloramphenicol - (A0*
+chloramphenicol - (A0*)
 to - *
 inhibit inhibit (V*) *
 protein - (A2*
 synthesis - *)
 . - *
 
-Binding - (A2*
+Binding - (A2*)
 was - *
 concentration - *
 dependent - *
@@ -4640,7 +4640,7 @@ HeLa - (A3*
 cells - *)
 either - *
 initiate initiate (V*) *
-transcription - (A1*
+transcription - (A1*)
 at - (A2*
 multiple - *
 sites - *
@@ -4756,7 +4756,7 @@ distant - *
 sites - *
 . - *
 
-Ligand - (A3*
+Ligand - (A3*)
 binding - *
 induces - *
 cell - *
@@ -4775,7 +4775,7 @@ of - *
 intracellular - *
 intermediaries - *
 termed - *
-Smads - (A0*
+Smads - (A0*)
 which - *
 initiate initiate (V*) *
 transcriptional - (A1*
@@ -4783,9 +4783,9 @@ regulation - *)
 . - *
 
 Since - *
-RTKs - (A0*
+RTKs - (A0*)
 initiate initiate (V*) *
-signaling - (A1*
+signaling - (A1*)
 by - (A4*
 recruiting - *
 downstream - *
@@ -4849,7 +4849,7 @@ blastoderm - *
 embryos - *)
 . - *
 
-SCF - (A0*
+SCF - (A0*)
 like - *
 the - *
 other - *
@@ -5102,7 +5102,7 @@ mutations - *
 mutations - *)
 leading lead (V*) *
 to - *
-frameshift - (A2*
+frameshift - (A2*)
 and - *
 1 - *
 mutation - *
@@ -5362,7 +5362,7 @@ recessive - *
 adrenoleukodystrophy - *
 . - *
 
-This - (A1*
+This - (A1*)
 leads lead (V*) *
 to - *
 a - (A2*
@@ -5439,7 +5439,7 @@ promoter - *)
 3A) - *
 . - *
 
-This - (A1*
+This - (A1*)
 in - *
 turn - *
 leads lead (V*) *
@@ -5544,7 +5544,7 @@ mice - *)
 did - *
 not - *
 lose lose (V*) *
-weight - (A1*
+weight - (A1*)
 during - (A2*
 the - *
 treatment - *)
@@ -5580,7 +5580,7 @@ informing - *
 obese - *
 individuals - *
 that - *
-they - (A0*
+they - (A0*)
 would - *
 lose lose (V*) *
 only - *
@@ -5624,7 +5624,7 @@ them - *)
 continuing - *
 to - *
 lose lose (V*) *
-weight - (A1*
+weight - (A1*)
 . - *
 
 Stat3 - *
@@ -5866,14 +5866,14 @@ monoclonal - *
 antibodies - *
 . - *
 
-We - (A0*
+We - (A0*)
 have - *
 used - *
 the - *
 ability - *
 to - *
 modify modify (V*) *
-Pfalciparum - (A1*
+Pfalciparum - (A1*)
 genetically - *
 by - (A2*
 transfection - *)
@@ -5945,7 +5945,7 @@ The - (A0*
 exon - (A1*
 5 - *)
 mutated mutate (V*) *
-allele - (A2*
+allele - (A2*)
 with - (A3*
 the - *
 premature - *
@@ -5961,7 +5961,7 @@ A - *
 . - *
 
 The - (A0*
-gene - (A2*
+gene - (A2*)
 mutated mutate (V*) *
 in - (A3*
 variant - *
@@ -6386,7 +6386,7 @@ hosts - *)
  - *
 . - *
 
-HSC - (A1*
+HSC - (A1*)
 continued - *)
 to - *
 proliferate proliferate (V*) *
@@ -7433,7 +7433,7 @@ shunt - *
 mechanism - *
 in - *
 which - *
-ribosomes - (A0*
+ribosomes - (A0*)
 translate - *
 the - *
 most - *
@@ -7719,7 +7719,7 @@ observation - *
 with - *
 the - *
 tandem - *
-repeat-containing - (A1*
+repeat-containing - (A1*)
 3? - *
 substrates - *
 was - *
@@ -7763,7 +7763,7 @@ Left) - *
 . - *
 
 The - (A1*
-pre-mRNAs - (A3*
+pre-mRNAs - (A3*)
 from - *
 all - *
 of - *
@@ -7874,14 +7874,14 @@ the - *
 mRNA - *)
 . - *
 
-CD1c - (A1*
+CD1c - (A1*)
 has - *)
 a - *
 duplicated - *
 form - *
 of - *
 this - *
-exon - (A2*
+exon - (A2*)
 that - *
 is - *
 thought - *
@@ -7986,7 +7986,7 @@ putative - (A2*
 intron - *
 sequences - *)
 in - *
-transcripts - (A1*
+transcripts - (A1*)
 which - *
 spanned - *
 exon-intron - *
@@ -8027,7 +8027,7 @@ mRNA - (A1*
 processing - *)
 . - *
 
-Failure - (A1*
+Failure - (A1*)
 to - *
 splice splice (V*) *
 out - *
@@ -8177,7 +8177,7 @@ transcripts - *
  - *
 . - *
 
-KLK14 - (A1*
+KLK14 - (A1*)
 is - *
 approximately - *
 54 - *
@@ -8310,7 +8310,7 @@ polymerase - *
 (NEP) - *)
 . - *
 
-NEP-2 - (A0*
+NEP-2 - (A0*)
 specifically - *
 transcribes transcribe (V*) *
 the - (A1*
@@ -8326,7 +8326,7 @@ factor - *
 CDF2 - *
 . - *
 
-Subsequently - (A3*
+Subsequently - (A3*)
 the - (A1*
 negative-strand - *
 RNAs - *)
@@ -8399,7 +8399,7 @@ others - *
 have - *
 found - *
 that - *
-FGF8b - (A0*
+FGF8b - (A0*)
 can - *
 transform transform (V*) *
 the - (A1*
@@ -8428,13 +8428,13 @@ HF7c - *
 (Clontech) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 was - *
 transformed transform (V*) *
 into - (A2*
@@ -8497,13 +8497,13 @@ HF7c - *
 (Clontech) - *)
 . - *
 
-For - (A0*
+For - (A0*)
 expression - *
 of - *
 the - *
 recombinant - *
 protein - *
-pET28a-5 - (A1*
+pET28a-5 - (A1*)
 was - *
 transformed transform (V*) *
 into - (A2*
@@ -8513,7 +8513,7 @@ strain - *
 BL21(DE3) - *)
 . - *
 
-To - (A0*
+To - (A0*)
 generate - *
 GST - *
 fusion - *
@@ -8558,7 +8558,7 @@ BL21 - *
 (Promega) - *)
 . - *
 
-Alternative - (A0*
+Alternative - (A0*)
 splicing - *
 of - *
 exon - *
@@ -8685,7 +8685,7 @@ fs - *
 instructions - *
 . - *
 
-We - (A0*
+We - (A0*)
 also - *
 report - *
 the - *
@@ -8838,7 +8838,7 @@ targeting - *
 specificity - *)
 . - *
 
-Cells - (A0*
+Cells - (A0*)
 use - *
 signalling - *
 networks - *
@@ -8855,7 +8855,7 @@ cellular - *
 functions - *)
 . - *
 
-In - (A0*
+In - (A0*)
 addition - *
 our - *
 data - *
@@ -8884,7 +8884,7 @@ Bcl-2 - *
 homologs - *)
 . - *
 
-This - (A2*
+This - (A2*)
 may - *
 translate translate (V*) *
 into - *
@@ -8904,7 +8904,7 @@ power - *
 output - *
 . - *
 
-Persistent - (A0*
+Persistent - (A0*)
 diuretic - *
 use - *
 results - *
@@ -8927,7 +8927,7 @@ pressure - *
 reduction - *)
 . - *
 
-The - (A0*
+The - (A0*)
 simple - *
 rules - *
 governing - *
@@ -8969,7 +8969,7 @@ social - *
 evolution - *
 . - *
 
-Interestingly - (A0*
+Interestingly - (A0*)
 this - (A2*
 reduction - *
 in - *
@@ -9118,7 +9118,7 @@ present - *
 		 - *
 . - *
 
-Two - (A2*
+Two - (A2*)
 of - *
 these - *
 variants - *
@@ -9142,7 +9142,7 @@ protein - *)
 We - *
 used - *
 a - (A0*
-gene-targeting - (A2*
+gene-targeting - (A2*)
 approach - *)
 in - *
 cultured - *
@@ -9251,7 +9251,7 @@ high - *
 mobility - *
 group - *
 (HMG) - *
-DNA-binding - (A1*
+DNA-binding - (A1*)
 domain - *
 . - *
 
@@ -9276,7 +9276,7 @@ of - *
 the - *
 N-terminus - *
 of - *
-MMspI - (A1*
+MMspI - (A1*)
 2-hydroxy-5-nitrobenzyl - (A0*
 bromide - *
 (HNBB) - *)
@@ -9299,7 +9299,7 @@ molecule - *)
 in - *
 which - *
 the - *
-C-terminus - (A2*
+C-terminus - (A2*)
 was - *
 truncated - *
 at - (A3*
@@ -9397,7 +9397,7 @@ soluble - *
 fragment - *
 to - *
 IC1-2D/190 - *
-PVR - (A1*
+PVR - (A1*)
 was - *
 also - *
 truncated - *
@@ -9406,3 +9406,4 @@ to - *
 the - *
 PP-motif - *)
 . - *
+
