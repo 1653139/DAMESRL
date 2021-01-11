@@ -426,7 +426,7 @@ from - *
 the - *
 altered - *
 allele - *
-.	 - *
+. - *
 
 Linomide - (A0*
 and - *
@@ -5480,7 +5480,6 @@ the - *
 major - *
 metabolite - *
 3hydroxyquinine - *
- - *
 
 Our - *
 previous - *
@@ -7420,7 +7419,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -7471,7 +7469,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -7522,7 +7519,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -8010,7 +8006,6 @@ portion - *
 of - *
 the - *
 STATs - *)
- - *
 
 Specificity - (A1*)
 for - *
@@ -9972,7 +9967,6 @@ remainder - *)
 which - *
 is - *
 deleted - *
- - *
 for - *
 exon - (A1*
 9 - *)
@@ -13366,7 +13360,7 @@ the - (A1*
 open - *
 reading - *
 frame - *)
-.	 - *
+.  - *
 
 Sequencing - *
 of - *
@@ -13400,7 +13394,7 @@ the - (A1*
 open - *
 reading - *
 frame - *)
-.	 - *
+.  - *
 
 Sequencing - *
 of - *
@@ -13434,7 +13428,7 @@ the - (A1*
 open - *
 reading - *
 frame - *)
-.	 - *
+.  - *
 
 Sequencing - *
 of - *
@@ -13468,7 +13462,7 @@ the - (A1*
 open - *
 reading - *
 frame - *)
-.	 - *
+.  - *
 
 Sequencing - *
 of - *
@@ -13502,7 +13496,7 @@ the - (A1*
 open - *
 reading - *
 frame - *)
-.	 - *
+.  - *
 
 R142X - (A0*)
 , - *
@@ -15794,7 +15788,6 @@ molar - *
 ratio - *
 of - *
 5:1 - *)
- - *
 
 Eliminating eliminate (V*)
 the - (A1*
@@ -26309,7 +26302,6 @@ the - (A1*
 distinct - *
 amino - *
 termini - *)
- - *
 has - *
 led lead (V*)
 to - *
@@ -26333,7 +26325,6 @@ the - (A1*
 distinct - *
 amino - *
 termini - *)
- - *
 which - *
 led lead (V*)
 to - *
@@ -40116,7 +40107,6 @@ transcripts - *
 The - (A1*
 gene - *)
 which - *
- - *
 is - *
 transcribed transcribe (V*)
 in - *
@@ -44867,7 +44857,7 @@ dramatically - *
 truncate truncate (V*)
 the - (A1*
 protein - *)
-.									 - *
+. - *
 
 Two - *
 of - *

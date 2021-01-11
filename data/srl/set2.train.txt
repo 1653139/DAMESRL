@@ -17047,7 +17047,6 @@ the - *
 major - *
 metabolite - *
 3hydroxyquinine - *
- - *
 
 Our - *
 previous - *
@@ -18488,7 +18487,6 @@ the - *
 major - *
 metabolite - *
 3hydroxyquinine - *
- - *
 
 Our - *
 previous - *
@@ -18791,7 +18789,6 @@ the - *
 major - *
 metabolite - *
 3hydroxyquinine - *
- - *
 
 The - (A1*
 disruption - *
@@ -19025,7 +19022,6 @@ the - *
 major - *
 metabolite - *
 3hydroxyquinine - *
- - *
 
 human - (A0*
 P450 - *
@@ -19434,7 +19430,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19628,7 +19623,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19689,7 +19683,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19749,7 +19742,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19809,7 +19801,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19868,7 +19859,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -19991,7 +19981,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20042,7 +20031,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20093,7 +20081,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20143,7 +20130,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20195,7 +20181,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20247,7 +20232,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20298,7 +20282,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20381,7 +20364,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20431,7 +20413,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20794,7 +20775,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20845,7 +20825,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -20897,7 +20876,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -21736,7 +21714,6 @@ portion - *
 of - *
 the - *
 STATs - *)
- - *
 
 The - (A0*
 portion - *
@@ -23202,7 +23179,6 @@ portion - *
 of - *
 the - *
 STATs - *)
- - *
 
 transfection - (A0*
 of - *
@@ -23969,7 +23945,6 @@ by - *)
 transfection - (A0*
 of - *
 AGT - *)
- - *
 
 resistance - (A1*)
 for - *
@@ -23995,7 +23970,6 @@ at - *
 Gly156 - *
 and - *
 Lys165 - *)
- - *
 
 Increased - *
 AGT - *
@@ -24044,7 +24018,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -24097,7 +24070,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -24216,7 +24188,6 @@ with - *
 that - *
 of - *
 Stat5 - *)
- - *
 
 Nonsense - (A0*
 or - *
@@ -24600,7 +24571,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -24664,7 +24634,6 @@ the - *
 role - *
 of - *
 AGT - *
- - *
 in - *
 therapeutic - *
 resistance - *
@@ -32098,7 +32067,6 @@ remainder - *)
 which - *
 is - *
 deleted - *
- - *
 for - *
 exon - (A1*
 9 - *)
@@ -44286,7 +44254,6 @@ eliminated eliminate (V*)
 these - (A0*
 same - *
 mutations - *)
- - *
 
 Addition - *
 of - *
@@ -44691,7 +44658,6 @@ molar - *
 ratio - *
 of - *
 5:1 - *)
- - *
 
 Addition - *
 of - *
@@ -45525,7 +45491,6 @@ eliminated eliminate (V*)
 Mutation - (A0*
 of - *
 T491 - *)
- - *
 
 Addition - *
 of - *
@@ -45621,7 +45586,6 @@ genestein; - *
 data - *
 not - *
 shown - *)
- - *
 
 Addition - *
 of - *
@@ -45789,7 +45753,6 @@ one - *
 of - *
 these - *
 molecules - *)
- - *
 
 Addition - *
 of - *
@@ -86968,7 +86931,6 @@ the - (A1*
 distinct - *
 amino - *
 termini - *)
- - *
 has - *
 led lead (V*)
 to - *
@@ -86992,7 +86954,6 @@ the - (A1*
 distinct - *
 amino - *
 termini - *)
- - *
 which - *
 led lead (V*)
 to - *
@@ -120720,7 +120681,6 @@ transcripts - *
 The - (A1*
 gene - *)
 which - *
- - *
 is - *
 transcribed transcribe (V*)
 in - *
@@ -132820,7 +132780,7 @@ dramatically - *
 truncate truncate (V*)
 the - (A1*
 protein - *)
-.									 - *
+. - *
 
 Two - *
 of - *

@@ -44,7 +44,6 @@ by - *
 EvgA - *
 overexpression - *
 . - *
- - *
 
 Furthermore - *
 , - *
@@ -72,7 +71,6 @@ stationaryphase - *
 acid - *
 resistance - *
 . - *
- - *
 
 Mutations - (A0*
 in - *
@@ -92,7 +90,6 @@ formate - *
 hydrogenlyase - *
 activity - *
 . - *
- - *
 
 Insertions - (A0*)
 which - *
@@ -105,7 +102,6 @@ open - *
 reading - *
 frame - *
 . - *
- - *
 
 The - (A0*
 cpx101 - *
@@ -123,7 +119,6 @@ of - *
 phosphorylated - *
 CpxR - *
 . - *
- - *
 
 In - *
 addition - *
@@ -134,9 +129,7 @@ the - *
 distal - *
 tor - *
 box - *
- - *
 box1 - *)
- - *
 abolishes abolish (V*)
 torC - (A1*
 induction - *)
@@ -159,7 +152,6 @@ normal - *
 torC - *
 expression - *
 . - *
- - *
 
 Mutations - (A0*)
 which - *
@@ -185,7 +177,6 @@ of - *
 both - *
 genes - *
 . - *
- - *
 
 Moreover - *
 , - *
@@ -227,7 +218,6 @@ least - *
 carbon - *
 sources - *)
 . - *
- - *
 
 The - *
 results - *
@@ -246,7 +236,6 @@ to - *
 tumorigenic - *
 potential - *
 . - *
- - *
 
 Alanine - (A0*)
 is - *
@@ -265,7 +254,6 @@ a - *
 postulated - *
 repressor - *)
 . - *
- - *
 
 Proteasomal - *
 inhibition - *
@@ -307,7 +295,6 @@ stabilization - *
 of - *
 GR - *
 . - *
- - *
 
 PU - *
 .1 - *
@@ -342,7 +329,6 @@ myeloid - (A1*
 colony - *
 formation - *)
 . - *
- - *
 
 In - *
 addition - *
@@ -358,7 +344,6 @@ a - *
 tolCdeficient - *
 strain - *
 . - *
- - *
 
 Disruption - (A0*
 of - *
@@ -387,7 +372,6 @@ second - *
 nitrateresponsive - *
 factor - *
 . - *
- - *
 
 Deletion - *
 of - *
@@ -413,7 +397,6 @@ decreased - *
 glucose - (A1*
 consumption - *)
 . - *
- - *
 
 The - (A1*
 production - *
@@ -433,7 +416,6 @@ cya - *
 mutant - *
 cells - *)
 . - *
- - *
 
 Study - *
 of - *
@@ -474,7 +456,6 @@ gene - *)
 was - *
 deleted - *
 . - *
- - *
 
 Mutation - *
 of - *
@@ -519,7 +500,6 @@ levels - *
 of - *
 luminescence - *)
 . - *
- - *
 
 Studies - *
 with - *
@@ -542,7 +522,6 @@ intact - *
 micF - *
 locus - *
 . - *
- - *
 
 To - *
 isolate - *
@@ -571,7 +550,6 @@ novel - *
 screening - *
 system - *
 . - *
- - *
 
 When - *
 both - (A1*
@@ -585,7 +563,6 @@ was - *
 further - *
 elevated - *)
 . - *
- - *
 
 In - *
 gel - *
@@ -628,7 +605,6 @@ of - *
 gal - *
 expression - *
 . - *
- - *
 
 A - (A0*
 6bp - *
@@ -683,7 +659,6 @@ a - *
 10foldhigher - *
 concentration - *
 . - *
- - *
 
 We - *
 recently - *
@@ -717,7 +692,6 @@ viral - *
 promoter - *
 elements - *
 . - *
- - *
 
 MAZ - (A0*)
 may - *
@@ -776,10 +750,8 @@ The - (A0*
 Escherichia - *
 coli - *
 yjhA - *
- - *
 renamed - *
 nanC - *
- - *
 gene - *)
 encodes - *
 a - (A1*
@@ -793,7 +765,6 @@ outer - *
 membranespecific - *
 channels - *
 . - *
- - *
 
 The - (A0*
 gene - *
@@ -805,9 +776,7 @@ of - *
 the - *
 yjfRX - *
 regulon - *
- - *
 ula - *
- - *
 , - *)
 which - *
 is - *
@@ -860,8 +829,6 @@ most - *
 human - *
 tissues - *)
 . - *
- - *
- - *
 
 We - *
 believe - *
@@ -881,19 +848,16 @@ the - *)
 recombinational - *
 synapse - *
 . - *
- - *
 
 These - *
 are - *
 fumarate - (A1*)
 reductase - *
- - *
 encoded encode (V*)
 by - *
 the - *
 frdABCD - *
 operon - *
- - *
 , - *
 fumarase - (A0*
 B - *)
@@ -915,7 +879,6 @@ malate - *
 , - *
 and - *
 aspartate - *
- - *
 . - *
 
 We - *
@@ -958,7 +921,6 @@ dicarboxylateresponsive - *
 regulatory - *
 system - *
 . - *
- - *
 
 Moreover - *
 , - *
@@ -982,7 +944,6 @@ the - *
 GATC1130 - *
 site - *
 . - *
- - *
 
 Here - *
 , - *
@@ -1008,14 +969,11 @@ glnAp2 - *
 promoter - *
 activity - *)
 . - *
- - *
 
 CRPcAMP - (A0*)
 inhibits - *
 sigma - (A1*
- - *
 54 - *
- - *
 dependent - *
 glnAp2 - *)
 strongly - *
@@ -1023,7 +981,6 @@ strongly - *
 by - *
 21fold - *
 . - *
- - *
 
 Functional - (A2*
 activation - *
@@ -1064,13 +1021,10 @@ the - *
 presence - *
 of - *
 FACT - *
- - *
 facilitates - *
 chromatin - *
-transcription - *
- - *)
+transcription - *)
 . - *
- - *
 
 The - (A1*
 repression - *)
@@ -1094,7 +1048,6 @@ the - *
 regulator - *
 ArcA - *
 . - *
- - *
 
 Transcription - (A1*
 of - *
@@ -1114,13 +1067,10 @@ by - *
 132 - *
 base - *
 pairs - *
- - *
 bp - *
- - *
 of - *
 DNA - *)
 . - *
- - *
 
 Transcription - (A1*)
 was - *
@@ -1128,9 +1078,7 @@ initiated - *
 from - *
 a - (A2*
 sigma - *
- - *
 70 - *
- - *
 dependent - *)
 promoter - *
 at - *
@@ -1143,7 +1091,6 @@ upstream - *
 GATC - *
 sequence - *
 . - *
- - *
 
 Transcription - (A1*
 of - *
@@ -1154,9 +1101,7 @@ permease - *
 , - *
 enzyme - *
 IICB - *)
- - *
 Glc - *
- - *
 , - *
 in - (A3*
 Escherichia - *
@@ -1171,7 +1116,6 @@ P1 - *
 and - *
 P2 - *)
 . - *
- - *
 
 Growth - (A0*
 of - *
@@ -1199,7 +1143,6 @@ in - *
 rich - *
 medium - *
 . - *
- - *
 
 Transduction - (A0*
 of - *
@@ -1223,7 +1166,6 @@ loss - (A1*
 of - *
 OmpF - *)
 . - *
- - *
 
 The - (A0*
 loss - *
@@ -1271,9 +1213,7 @@ cells - *
 suggested - *
 that - *
 DNA - (A0*
- - *
 nCaRE - *
- - *
 ref1 - *
 interaction - *
 led - *
@@ -1281,8 +1221,7 @@ to - *)
 C2+emediated - (A1*
 transcriptional - *
 suppression - *
-. - *
- - *)
+. - *)
 
 Closer - (A0*
 examination - *
@@ -1306,7 +1245,6 @@ two - *
 new - *
 genes - *)
 . - *
- - *
 
 It - *
 has - *
@@ -1319,9 +1257,7 @@ the - *
 activity - *
 of - *
 sigma - *
- - *
-S - *
- - *)
+S - *)
 , - *
 leading - *
 to - *
@@ -1342,7 +1278,6 @@ in - *
 stationary - *
 phase - *)
 . - *
- - *
 
 These - *
 results - *
@@ -1417,7 +1352,6 @@ in - *
 HeLa - *
 cells - *
 . - *
- - *
 
 In - *
 COS7 - *
@@ -1453,21 +1387,14 @@ two - *
 PKA - *
 phosphorylation - *
 sites - *
- - *
 S - (A1*
- - *
 64 - *
- - *
 and - *
 S - *
- - *
-211 - *
- - *)
- - *
+211 - *)
 were - *
 mutated - *
 . - *
- - *
 
 Analyses - *
 of - *
@@ -1485,7 +1412,6 @@ support - *
 this - *
 conclusion - *
 . - *
- - *
 
 Induction - *
 of - *
@@ -1511,7 +1437,6 @@ in - *
 mutated - *
 cells - *)
 . - *
- - *
 
 Cotransfections - *
 with - *
@@ -1520,13 +1445,11 @@ expressing - *
 WT1 - *
 , - *
 WTAR - *
- - *
 a - *
 mutated - *
 form - *
 of - *
 WT1 - *
- - *
 , - *
 p53 - (A0*)
 , - *
@@ -1564,7 +1487,6 @@ with - *
 wildtype - *
 p53 - *
 . - *
- - *
 
 Footprinting - *
 assays - *
@@ -1610,7 +1532,6 @@ the - *
 protected - *
 region - *)
 . - *
- - *
 
 Most - (A0*
 regulators - *
@@ -1628,16 +1549,13 @@ the - *
 regulated - *
 promoters - *
 . - *
- - *
 
 The - (A0*
 eukaryotic - *
 upstream - *
 binding - *
 factor - *
- - *
-UBF - *
- - *)
+UBF - *)
 , - *
 recognizes - *
 the - (A1*
@@ -1663,7 +1581,6 @@ factor - *
 , - *
 SL1 - *
 . - *
- - *
 
 We - *
 show - *
@@ -1687,9 +1604,7 @@ bp - *
 a - *
 highaffinity - *
 site - *
- - *
 CRP1 - *
- - *
 overlaps - *
 the - *
 35 - *
@@ -1699,9 +1614,7 @@ and - *
 a - *
 lowaffinity - *
 site - *
- - *
 CRP2 - *
- - *
 is - *
 centered - *
 around - *
@@ -1709,7 +1622,6 @@ position - *
 74 - *
 bp - *
 . - *
- - *
 
 The - (A0*
 NarL - *
@@ -1732,7 +1644,6 @@ in - *
 other - *
 arrangements - *)
 . - *
- - *
 
 Mutations - (A0*)
 which - *
@@ -1758,7 +1669,6 @@ of - *
 both - *
 genes - *)
 . - *
- - *
 
 We - *
 speculated - *
@@ -1779,7 +1689,6 @@ in - *
 mast - *
 cells - *
 . - *
- - *
 
 Induction - (A0*
 of - *
@@ -1805,7 +1714,6 @@ in - *
 mutated - *
 cells - *
 . - *
- - *
 
 These - *
 observations - *
@@ -1836,7 +1744,6 @@ loop - *
 of - *
 DNA - *
 . - *
- - *
 
 We - *
 show - *
@@ -1863,7 +1770,6 @@ encoding - *
 csgA - *
 gene - *)
 . - *
- - *
 
 The - *
 ula - (A3*
@@ -1891,7 +1797,6 @@ ulaG - (A1*
 and - *
 ulaABCDEF - *)
 . - *
- - *
 
 Restriction - *
 endonuclease - *
@@ -1940,7 +1845,6 @@ a - *
 divergent - *
 gene - *
 . - *
- - *
 
 ISGF3 - (A0*
 gamma - *)
@@ -1966,7 +1870,6 @@ from - *
 HeLa - *
 cells - *
 . - *
- - *
 
 Electrophoretic - *
 mobility - *
@@ -2007,7 +1910,6 @@ region - *
 of - *
 HIV1 - *
 . - *
- - *
 
 Using - *
 the - *
@@ -2023,9 +1925,7 @@ its - *
 type - *
 I - *
 receptor - *
- - *
 ALK3 - *
- - *
 as - *
 a - *
 guide - *
@@ -2042,9 +1942,7 @@ of - *
 the - *
 truncated - *
 ALK4 - (A1*)
- - *
 ALK4trunc - *
- - *
 construct - *
 and - *
 assessed - *
@@ -2058,7 +1956,6 @@ inhibit - *
 activin - *
 function - *
 . - *
- - *
 
 To - *
 address - *
@@ -2075,9 +1972,7 @@ polymerase - *
 alphasubunit - *
 Cterminal - *
 domain - *
- - *
 alphaCTD - *
- - *
 at - *
 rhaSR - *
 , - *
@@ -2103,9 +1998,7 @@ truncated - *
 version - *
 of - *
 alpha - *
- - *
 alphaDelt235 - (A1*)
- - *
 , - *
 and - *
 alanine - *
